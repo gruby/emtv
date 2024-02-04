@@ -2,10 +2,39 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Captions converter</title>
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
+  <style>
+    p {
+      font-size: 25px;
+      border: 1px solid black;
+      padding: 15px;
+      background-color: rgb(65, 255, 40);
+    }
+  </style>
+  <title>Document</title>
+  
 </head>
 <body>
-  <iframe src="https://www.lightcast.com/embed/player.php?width=640&height=360&id=39565&type=live" frameborder="0" width="640" height="360" allowfullscreen></iframe></body>
+  <p id="demo"></p> 
+</body>
+<!-- ================================= -->
+<script>
+  let quotes = [
+    {
+      "what": "Jesus Is LORD",
+      "where": "Bible"
+    },
+    {
+      "what": "something else",
+      "where": "somebody"
+    },
+  ];
+
+  function pickRandomQuote(q) {
+    let pick = q[Math.floor(Math.random()*q.length)];
+    return [pick.what, pick.where]
+  }
+  document.getElementById("demo").innerHTML = pickRandomQuote(quotes)[0];
+</script>
 </html>
