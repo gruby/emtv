@@ -20,7 +20,7 @@
 </body>
 <!-- ================================= -->
 <script>
-  let quotes = [
+  let bibleScripts = [
     {
       "what": "Godliness is not means of gain. From such withdraw yourself.",
       "where": "1 Tim 6:5"
@@ -39,6 +39,6 @@
     let pick = q[Math.floor(Math.random()*q.length)];
     return [pick.what, pick.where]
   }
-  document.getElementById("demo").innerHTML = pickRandomQuote(quotes)[0];
+  document.getElementById("demo").innerHTML = pickRandomQuote (bibleScripts)[0];
 </script>
 </html>
