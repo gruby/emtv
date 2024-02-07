@@ -7,11 +7,11 @@
   <style>
     #demo {
       font-size: 25px;
-      border: 0.5vh solid black;
+      border: 2px solid black;
       padding: 1vh;
       margin: 2vh;
       background-color: rgb(243, 243, 243);
-      /* background-color: rgb(160, 0, 0); */
+      /* background-color: rgb(128, 0, 0); */
     }
   </style>
   <title>Document</title>
@@ -54,7 +54,7 @@
   // document.getElementById("demo").innerHTML = pickRandomQuote(bibleScripts).words;
 
   let picked = pickRandomQuote(bibleScripts)
-  let forDiplay = picked.words.replace(picked.highlight, ('<b style="color:rgb(160, 0, 0);">' + picked.highlight + '</b>')) + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>'
+  let forDiplay = picked.words.replace(picked.highlight, ('<b style="color:rgb(128, 0, 0);">' + picked.highlight + '</b>')) + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>'
   document.getElementById("demo").innerHTML = forDiplay;
 </script>
 </html>
