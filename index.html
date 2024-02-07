@@ -18,7 +18,7 @@
   
 </head>
 <body>
-  <div id="demo"></div> 
+  <div id="demo" onClick="window.location.reload();"></div> 
 </body>
 <!-- ================================= -->
 <script>
@@ -105,6 +105,11 @@
   let picked = pickRandomQuote(bibleScripts)
   let forDiplay = picked.words.replace(picked.highlight, ('<b style="color:rgb(128, 0, 0);">' + picked.highlight + '</b>')) + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>'
   document.getElementById("demo").innerHTML = forDiplay;
+
+  document.addEventListener('keyup', function(e){
+    if(e.keyCode != 27)
+      window.location.reload();
+  })
 </script>
 </html>
 
