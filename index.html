@@ -5,40 +5,64 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
   <style>
-    p {
+    #demo {
       font-size: 25px;
-      border: 1px solid black;
-      padding: 15px;
-      background-color: rgb(65, 255, 40);
+      border: 0.5vh solid black;
+      padding: 5vh;
+      margin: 5vh;
+      background-color: rgb(243, 243, 243);
+      /* background-color: rgb(160, 0, 0); */
     }
   </style>
   <title>Document</title>
   
 </head>
 <body>
-  <p id="demo"></p> 
+  <div id="demo"></div> 
 </body>
 <!-- ================================= -->
 <script>
   let bibleScripts = [
     {
-      "what": "Godliness is not means of gain. From such withdraw yourself.",
-      "where": "1 Tim 6:5"
+      "words": "Godliness is not means of gain. From such withdraw yourself.",
+      "highlight": "Godliness is not means of gain. From such withdraw yourself.",
+      "source": "1 Tim 6:5"
     },
     {
-      "what": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
-      "where": "1 Tim 4:15"
+      "words": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
+      "highlight": "give yourself entirely to them",
+      "source": "1 Tim 4:15"
     },
     {
-      "what": "The Lord did not make this covenant with our fathers, but with us, those who are here today, all of us who are alive.",
-      "where": "Deut 5:3"
+      "words": "The Lord did not make this covenant with our fathers, but with us, those who are here today, all of us who are alive.",
+      "highlight": "who are alive",
+      "source": "Deut 5:3"
     },
+    {
+      "words": "Watch, stand fast in the faith, be brave, be strong. Let all that you do be done with love.",
+      "highlight": "Let all that you do be done with love",
+      "source": "1 Cor 16:13-14"
+    },
+    
   ];
 
   function pickRandomQuote(q) {
     let pick = q[Math.floor(Math.random()*q.length)];
-    return [pick.what, pick.where]
+    return pick
   }
-  document.getElementById("demo").innerHTML = pickRandomQuote (bibleScripts)[0];
+
+  // document.getElementById("demo").innerHTML = pickRandomQuote(bibleScripts).words;
+
+  let picked = pickRandomQuote(bibleScripts)
+  let forDiplay = picked.words.replace(picked.highlight, ('<b style="color:rgb(160, 0, 0);">' + picked.highlight + '</b>')) + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>'
+  document.getElementById("demo").innerHTML = forDiplay;
 </script>
 </html>
+
+<!-- 
+{
+      "words": "",
+      "highlight": "",
+      "source": ""
+    },
+-->
