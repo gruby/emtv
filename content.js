@@ -252,6 +252,30 @@ let bibleScripts = [
     "words": "Jesus said to her, “I am the resurrection and the life. He who believes in Me, though he may die, he shall live.",
     "source": "J 11:25"
   },
+  {
+    "words": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me.",
+    "source": "J 14:6"
+  },
+  {
+    "words": "“I am the true vine, and My Father is the vinedresser.",
+    "source": "J 15:1"
+  },
+  {
+    "words": "“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.",
+    "source": "J 15:5"
+  },
+  {
+    "words": "And he hastened to take the bandage away from his eyes; and the king of Israel recognized him as one of the prophets.",
+    "source": "1 Kings 20:41"
+  },
+  {
+    "words": "Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.",
+    "source": "Mt 5:14"
+  },
+  {
+    "words": "Who is like a wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, And the sternness of his face is changed.",
+    "source": "Eccl 8:1"
+  },
 ];
 
 function pickRandomQuote(q) {
