@@ -85,35 +85,40 @@
       "words": "That is, <span>those who are the children of the flesh, these are not the children of God;</span> but the children of the promise are counted as the seed. ",      
       "source": "Rom 9:8"
     },
+    {
+      "words": "Surely <span>His salvation is near to those who fear Him</span>, That glory may dwell in our land.",
+      "source": "Ps 85:9"
+    },
+    {
+      "words": "And in the daytime He was teaching in the temple, <span>but at night He went out and stayed on the mountain called Olivet.</span>",
+      "source": "Luke 21:37"
+    },
+    {
+      "words": "and said, “Assuredly, I say to you, <span>unless you are converted and become as little children, you will by no means enter the kingdom of heaven.</span>",
+      "source": "Mt 18:3"
+    },
+    {
+      "words": "Do not labor for the food which perishes, <span>but for the food which endures to everlasting life,</span> which the Son of Man will give you, because God the Father has set His seal on Him.",
+      "source": "J 6:27"
+    },
   ];
 
   function pickRandomQuote(q) {
     let pick = q[Math.floor(Math.random()*q.length)];
     return pick
   }
-
-  // document.getElementById("displayDiv").innerHTML = pickRandomQuote(bibleScripts).words;
-   
   
   display.onclick = () => {
     let picked = pickRandomQuote(bibleScripts)
     let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' 
     display.innerHTML = forDiplay;
   }
-  /*
-  document.getElementById("displayDiv").innerHTML = forDiplay;
- */
-/*   document.addEventListener('keyup', function(e){
-    if(e.keyCode != 116)
-      window.location.reload();
-  }) */
 </script>
 </html>
 
 <!-- 
 {
       "words": "",
-      "highlight": "",
       "source": ""
     },
 -->
