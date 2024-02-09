@@ -668,6 +668,98 @@ let powerWords = [
     "words": "And David said to Gad, 'I am in great distress. Please let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hand of man.' ",
     "source": "1 Chr 21:9"
   },
+  {
+    "words": "Then Amaziah said to the man of God, 'But what shall we do about the hundred talents which I have given to the troops of Israel?'And the man of God answered, 'The LORD is able to give you much more than this.'",
+    "source": "2 Chr 25:9"
+  },
+  {
+    "words": "that the sharing of your faith may become effective by the acknowledgment of every good thing which is in you in Christ Jesus.",
+    "source": "Phil 1:6"
+  },
+  {
+    "words": "Thus says the Lord, your Redeemer, The Holy One of Israel: I am the Lord your God, Who teaches you to profit, Who leads you by the way you should go.",
+    "source": "Is 48:17"
+  },
+  {
+    "words": "God will hear, and afflict them, Even He who abides from of old. Because they do not change, Therefore they do not fear God.",
+    "source": "Ps 55:19"
+  },
+  {
+    "words": "He will fulfill the desire of those who fear Him; He also will hear their cry and save them.",
+    "source": "Ps 145:19"
+  },
+  {
+    "words": "The Lord takes pleasure in those who fear Him, In those who hope in His mercy.",
+    "source": "Ps 147:11"
+  },
+  {
+    "words": "Happy is he who has the God of Jacob for his help, Whose hope is in the Lord his God,",
+    "source": "Ps 146:5"
+  },
+  {
+    "words": "Do not put your trust in princes, Nor in a son of man, in whom there is no help.",
+    "source": "Ps 146:3"
+  },
+  {
+    "words": "Then Isaiah the son of Amoz sent to Hezekiah, saying, 'Thus says the LORD God of Israel: 'Because you have prayed to Me against Sennacherib king of Assyria, I have heard.' ",
+    "source": "2 King 19:20"
+  },
+  {
+    "words": "Whoever keeps the fig tree will eat its fruit; So he who waits on his master will be honored.",
+    "source": "Prov 27:18"
+  },
+  {
+    "words": "O LORD, are not Your eyes on the truth? You have stricken them, But they have not grieved; You have consumed them, But they have refused to receive correction. They have made their faces harder than rock; They have refused to return.",
+    "source": "Jr 5:3"
+  },
+  {
+    "words": "I said in my heart, 'Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.",
+    "source": "Eccl 3:18"
+  },
+  {
+    "words": "Everyone proud in heart is an abomination to the LORD; Though they join forces, none will go unpunished.",
+    "source": "Prov 16:5"
+  },
+  {
+    "words": "Poverty and shame will come to him who disdains correction, But he who regards a rebuke will be honored.",
+    "source": "Prov 13:18"
+  },
+  {
+    "words": "There are many plans in a man's heart, Nevertheless the LORD's counsel--that will stand.",
+    "source": "Prov 19:21"
+  },
+  {
+    "words": "The fear of the LORD is to hate evil; Pride and arrogance and the evil way And the perverse mouth I hate.",
+    "source": "Prov 8:13"
+  },
+  {
+    "words": "In the multitude of words sin is not lacking, But he who restrains his lips is wise.",
+    "source": "Prov 10:19"
+  },
+  {
+    "words": "He who goes about as a talebearer reveals secrets; Therefore do not associate with one who flatters with his lips.",
+    "source": "Prov 20:19"
+  },
+  {
+    "words": "Do not withhold good from those to whom it is due, When it is in the power of your hand to do so.",
+    "source": "Prov 3:27"
+  },
+  {
+    "words": "A lying tongue hates those who are crushed by it, And a flattering mouth works ruin.",
+    "source": "Prov 26:28"
+  },
+  {
+    "words": "Seldom set foot in your neighbor’s house, Lest he become weary of you and hate you.",
+    "source": "Prov 25:17"
+  },
+  {
+    "words": "Then the Lord said to Satan, “Have you considered My servant Job, that there is none like him on the earth, a blameless and upright man, one who fears God and shuns evil? And still he holds fast to his integrity, although you incited Me against him, to destroy him without cause.”",
+    "source": "Job 2:3"
+  },
+  {
+    "words": "For this reason we also thank God without ceasing, because when you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God, which also effectively works in you who believe.",
+    "source": "1 Th 2:13"
+  },
 ];
 
 function pickRandomQuote(q) {
