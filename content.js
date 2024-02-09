@@ -516,6 +516,158 @@ let powerWords = [
     "words": "And He said, “Let Me go, for the day breaks.” But he said, “<span>I will not let You go unless You bless me</span>",
     "source": "Gen 32:26"
   },
+  {
+    "words": "However, regarding the ambassadors of the princes of Babylon, whom they sent to him to inquire about the wonder that was done in the land, God withdrew from him, in order to test him, that He might know all that was in his heart.",
+    "source": "2 Chr 32:31"
+  },
+  {
+    "words": "So we fasted and entreated our God for this, and He answered our prayer.",
+    "source": "Ezra 8:23"
+  },
+  {
+    "words": "All these had taken pagan wives, and some of them had wives by whom they had children.",
+    "source": "Ezra 10:44"
+  },
+  {
+    "words": "Then he said to them, “You know how unlawful it is for a Jewish man to keep company with or go to one of another nation. But God has shown me that I should not call any man common or unclean.",
+    "source": "Acts 10:28"
+  },
+  {
+    "words": "But refuse the younger widows; for when they have begun to grow wanton against Christ, they desire to marry, having condemnation because they have cast off their first faith. ",
+    "source": "1 Tim 5:11-13"
+  },
+  {
+    "words": "that no one should be shaken by these afflictions; for you yourselves know that we are appointed to this.",
+    "source": "1 Thess 3:3"
+  },
+  {
+    "words": "Therefore receive one another, just as Christ also received us, to the glory of God.",
+    "source": "Rom 15:7"
+  },
+  {
+    "words": "But the Pharisees and lawyers rejected the will of God for themselves, not having been baptized by him.",
+    "source": "Lk 7:30"
+  },
+  {
+    "words": "When a man takes hold of his brother In the house of his father, saying, “You have clothing; You be our ruler, And let these ruins be under your power,” In that day he will protest, saying, “I cannot cure your ills, For in my house is neither food nor clothing; Do not make me a ruler of the people.”",
+    "source": "Is 3:6-7"
+  },
+  {
+    "words": "For we, though many, are one bread and one body; for we all partake of that one bread.",
+    "source": "1 Cor 10:17"
+  },
+  {
+    "words": "And now why are you waiting? Arise and be baptized, and wash away your sins, calling on the name of the Lord.",
+    "source": "Acts 22:16"
+  },
+  {
+    "words": "for if a man does not know how to rule his own house, how will he take care of the church of God?",
+    "source": "1Tm 3:5"
+  },
+  {
+    "words": "For I wish that all men were even as I myself. But each one has his own gift from God, one in this manner and another in that.",
+    "source": "1 Cor 7:7"
+  },
+  {
+    "words": "Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
+    "source": "1 J 3:24"
+  },
+  {
+    "words": "And if a son of peace is there, your peace will rest on it; if not, it will return to you.",
+    "source": "Lk 10:6"
+  },
+  {
+    "words": "And the scribes and chief priests heard it and sought how they might destroy Him; for they feared Him, because all the people were astonished at His teaching.",
+    "source": "Mk 11:18"
+  },
+  {
+    "words": "He who is slow to wrath has great understanding, But he who is impulsive exalts folly.",
+    "source": "Prov 14:29"
+  },
+  {
+    "words": "“I, even I, am He who blots out your transgressions for My own sake; And I will not remember your sins. Put Me in remembrance; Let us contend together; State your case, that you may be acquitted.",
+    "source": "Is 43:25-26"
+  },
+  {
+    "words": "For thus says the Lord God, the Holy One of Israel: “In returning and rest you shall be saved; In quietness and confidence shall be your strength.” But you would not,",
+    "source": "Is 30:15"
+  },
+  {
+    "words": "My sons, do not be negligent now, for the Lord has chosen you to stand before Him, to serve Him, and that you should minister to Him and burn incense.”",
+    "source": "2 Chr 29:11"
+  },
+  {
+    "words": "A merry heart does good, like medicine, But a broken spirit dries the bones.",
+    "source": "Prov 17:22"
+  },
+  {
+    "words": "Now also when I am old and grayheaded, O God, do not forsake me, Until I declare Your strength to this generation, Your power to everyone who is to come.",
+    "source": "Ps 71:18"
+  },
+  {
+    "words": "I will not drive them out from before you in one year, lest the land become desolate and the beasts of the field become too numerous for you.",
+    "source": "Ex 23:29"
+  },
+  {
+    "words": "And they were both naked, the man and his wife, and were not ashamed.",
+    "source": "Gn 2:25"
+  },
+  {
+    "words": "However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities. So He Himself often withdrew into the wilderness and prayed.",
+    "source": "Lk 5:15-16"
+  },
+  {
+    "words": "Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.",
+    "source": "1P 4:16"
+  },
+  {
+    "words": "For they had not understood about the loaves, because their heart was hardened.",
+    "source": "Mk 6:52"
+  },
+  {
+    "words": "This man heard Paul speaking. Paul, observing him intently and seeing that he had faith to be healed,",
+    "source": "Act 14:9"
+  },
+  {
+    "words": "Therefore I say to you, the kingdom of God will be taken from you and given to a nation bearing the fruits of it.",
+    "source": "Mt 21:43"
+  },
+  {
+    "words": "Not that I seek the gift, but I seek the fruit that abounds to your account. Indeed I have all and abound. I am full, having received from Epaphroditus the things sent from you, a sweet-smelling aroma, an acceptable sacrifice, well pleasing to God.",
+    "source": "Ph 4:17-18"
+  },
+  {
+    "words": "And another angel followed, saying, “Babylon is fallen, is fallen, that great city, because she has made all nations drink of the wine of the wrath of her fornication.”",
+    "source": "Rv 14:8"
+  },
+  {
+    "words": "But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
+    "source": "Jm 3:17"
+  },
+  {
+    "words": "Whoever transgresses and does not abide in the doctrine of Christ does not have God. He who abides in the doctrine of Christ has both the Father and the Son.",
+    "source": "2 J 1:9"
+  },
+  {
+    "words": "For He whom God has sent speaks the words of God, for God does not give the Spirit by measure.",
+    "source": "J 3:34"
+  },
+  {
+    "words": "And he said, 'O man greatly beloved, fear not! Peace be to you; be strong, yes, be strong!' So when he spoke to me I was strengthened, and said, 'Let my lord speak, for you have strengthened me.' ",
+    "source": "Dn 10:19"
+  },
+  {
+    "words": "And you have done worse than your fathers, for behold, each one follows the dictates of his own evil heart, so that no one listens to Me. Therefore I will cast you out of this land into a land that you do not know, neither you nor your fathers; and there you shall serve other gods day and night, where I will not show you favor.'",
+    "source": "Jr 16:12-13"
+  },
+  {
+    "words": "And seek the peace of the city where I have caused you to be carried away captive, and pray to the Lord for it; for in its peace you will have peace.",
+    "source": "Jr 29:7"
+  },
+  {
+    "words": "And David said to Gad, 'I am in great distress. Please let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hand of man.' ",
+    "source": "1 Chr 21:9"
+  },
 ];
 
 function pickRandomQuote(q) {
