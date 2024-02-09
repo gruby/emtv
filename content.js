@@ -1,75 +1,75 @@
 let display = document.getElementById('displayDiv');
 let powerWords = [
   {
-    "words": "<span>Godliness is not means of gain. From such withdraw yourself.</span>",
-    "source": "1 Tim 6:5"
+    "words": "Godliness is not means of gain. From such withdraw yourself.",
+    "source": "1 Timothy 6:5"
   },
   {
-    "words": "<span>Meditate</span> on these things; <span>give yourself entirely to them</span>, that your progress may be evident to all.",
-    "source": "1 Tim 4:15"
+    "words": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
+    "source": "1 Timothy 4:15"
   },
   {
-    "words": "The Lord did not make this covenant with our fathers, but with us, those who are here today, <span>all of us who are alive.</span>",
+    "words": "The Lord did not make this covenant with our fathers, but with us, those who are here today, all of us who are alive.",
     "source": "Deut 5:3"
   },
   {
-    "words": "Watch, stand fast in the faith, be brave, be strong. <span>Let all that you do be done with love.</span>",
+    "words": "Watch, stand fast in the faith, be brave, be strong. Let all that you do be done with love.",
     "source": "1 Cor 16:13-14"
   },
   {
-    "words": "These are <span>sensual persons</span>, who cause divisions, <span>not having the Spirit.</span>",
+    "words": "These are sensual persons, who cause divisions, not having the Spirit.",
     "source": "Jud 1:19"
   },
   {
-    "words": "For to you it has been granted on behalf of Christ, not only to believe in Him, <span>but also to suffer for His sake,</span>",      
+    "words": "For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake,",      
     "source": "Phil 1:29"
   },
   {
-    "words": "<span>Confess your trespasses to one another, and pray for one another, that you may be healed.</span> The effective, fervent prayer of a righteous man avails much.",      
+    "words": "Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.",      
     "source": "Jm 5:15"
   },
   {
-    "words": "Let nothing be done through selfish ambition or conceit, <span>but in lowliness of mind let each esteem others better than himself.</span>",      
+    "words": "Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.",      
     "source": "Phil 2:3"
   },
   {
-    "words": "<span>Because you did not serve the Lord your God with joy and gladness of heart, for the abundance of everything,</span> therefore you shall serve your enemies, whom the Lord will send against you, in hunger, in thirst, in nakedness, and in need of everything; and He will put a yoke of iron on your neck until He has destroyed you.",      
+    "words": "Because you did not serve the Lord your God with joy and gladness of heart, for the abundance of everything, therefore you shall serve your enemies, whom the Lord will send against you, in hunger, in thirst, in nakedness, and in need of everything; and He will put a yoke of iron on your neck until He has destroyed you.",      
     "source": "Deut 28:47-48"
   },
   {
-    "words": "But the fruit of the Spirit is love, <span>joy</span>, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. <span>Against such there is no law.</span>",      
+    "words": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. Against such there is no law.",      
     "source": "Gal 5:22-23"
   },
   {
-    "words": "I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.” And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind. <span>For in much wisdom is much grief, And he who increases knowledge increases sorrow.</span>",      
+    "words": "I communed with my heart, saying, “Look, I have attained greatness, and have gained more wisdom than all who were before me in Jerusalem. My heart has understood great wisdom and knowledge.” And I set my heart to know wisdom and to know madness and folly. I perceived that this also is grasping for the wind. For in much wisdom is much grief, And he who increases knowledge increases sorrow.",      
     "source": "Eccl 1:16-18"
   },
   {
-    "words": "I beseech you therefore, brethren, by the mercies of God, <span>that you present your bodies a living sacrifice</span>, holy, acceptable to God, which is your reasonable service.",      
+    "words": "I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.",      
     "source": "Rom 12:1"
   },
   {
-    "words": "not lagging in diligence, <span>fervent in spirit, serving the Lord; rejoicing in hope</span>, patient in tribulation, continuing steadfastly in prayer; ",      
+    "words": "not lagging in diligence, fervent in spirit, serving the Lord; rejoicing in hope, patient in tribulation, continuing steadfastly in prayer; ",      
     "source": "Rom 12:11-12"
   },
   {
-    "words": "That is, <span>those who are the children of the flesh, these are not the children of God;</span> but the children of the promise are counted as the seed. ",      
+    "words": "That is, those who are the children of the flesh, these are not the children of God; but the children of the promise are counted as the seed. ",      
     "source": "Rom 9:8"
   },
   {
-    "words": "Surely <span>His salvation is near to those who fear Him</span>, That glory may dwell in our land.",
+    "words": "Surely His salvation is near to those who fear Him, That glory may dwell in our land.",
     "source": "Ps 85:9"
   },
   {
-    "words": "And in the daytime He was teaching in the temple, <span>but at night He went out and stayed on the mountain called Olivet.</span>",
+    "words": "And in the daytime He was teaching in the temple, but at night He went out and stayed on the mountain called Olivet.",
     "source": "Luke 21:37"
   },
   {
-    "words": "and said, “Assuredly, I say to you, <span>unless you are converted and become as little children, you will by no means enter the kingdom of heaven.</span>",
+    "words": "and said, “Assuredly, I say to you, unless you are converted and become as little children, you will by no means enter the kingdom of heaven.",
     "source": "Mt 18:3"
   },
   {
-    "words": "Do not labor for the food which perishes, <span>but for the food which endures to everlasting life,</span> which the Son of Man will give you, because God the Father has set His seal on Him.",
+    "words": "Do not labor for the food which perishes, but for the food which endures to everlasting life, which the Son of Man will give you, because God the Father has set His seal on Him.",
     "source": "J 6:27"
   },
   {
@@ -126,7 +126,7 @@ let powerWords = [
   },
   {
     "words": "For through Him we both have access by one Spirit to the Father.",
-    "source": "Ef 2:18"
+    "source": "Eph 2:18"
   },
   {
     "words": "And He said to them, “You are those who justify yourselves before men, but God knows your hearts. For what is highly esteemed among men is an abomination in the sight of God.",
@@ -162,7 +162,7 @@ let powerWords = [
   },
   {
     "words": "He (Hezekiah) trusted in the Lord God of Israel, so that after him was none like him among all the kings of Judah, nor who were before him.",
-    "source": "2 Kg 18:5"
+    "source": "2 Kin 18:5"
   },
   {
     "words": "Dead flies putrefy the perfumer’s ointment, And cause it to give off a foul odor; So does a little folly to one respected for wisdom and honor.",
@@ -186,7 +186,7 @@ let powerWords = [
   },
   {
     "words": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.",
-    "source": "1 J 5:10"
+    "source": "1 John 5:10"
   },
   {
     "words": "Then Saul said to Samuel, “I have sinned, for I have transgressed the commandment of the Lord and your words, because I feared the people and obeyed their voice.",
@@ -266,7 +266,7 @@ let powerWords = [
   },
   {
     "words": "And he hastened to take the bandage away from his eyes; and the king of Israel recognized him as one of the prophets.",
-    "source": "1 Kings 20:41"
+    "source": "1 Kin 20:41"
   },
   {
     "words": "Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.",
@@ -306,10 +306,10 @@ let powerWords = [
   },
   {
     "words": "who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness",
-    "source": "Ef4:19"
+    "source": "Eph 4:19"
   },
   {
-    "words": "Two things I request of You (Deprive me not before I die): Remove falsehood and lies far from me; Give me neither poverty nor riches Feed me with the food allotted to me; Lest I be full and deny You, And say, “Who is the Lord?” Or lest I be poor and steal, And profane the name of my God.",
+    "words": "Two things I request of You (Deprive me not before I die): Remove falsehood and lies far from me; Give me neither poverty nor riches. Feed me with the food allotted to me; Lest I be full and deny You, And say, “Who is the Lord?” Or lest I be poor and steal, And profane the name of my God.",
     "source": "Prov 30:7-9"
   },
   {
@@ -318,7 +318,7 @@ let powerWords = [
   },
   {
     "words": "For the earth will be filled With the knowledge of the glory of the Lord, As the waters cover the sea.",
-    "source": "Ha 2:14"
+    "source": "Hab 2:14"
   },
   {
     "words": "For I desire mercy and not sacrifice, And the knowledge of God more than burnt offerings.",
@@ -326,7 +326,7 @@ let powerWords = [
   },
   {
     "words": "who desires all men to be saved and to come to the knowledge of the truth.",
-    "source": "1 Tim 2:4"
+    "source": "1 Timothy 2:4"
   },
   {
     "words": "Do not be afraid of their faces, For I am with you to deliver you,” says the Lord.",
@@ -341,7 +341,7 @@ let powerWords = [
     "source": "Jr 4:4"
   },
   {
-    "words": "Seek the Lord, all you meek of the earth, Who have upheld His justice.Seek righteousness, seek humility. It may be that you will be hidden In the day of the Lord’s anger.",
+    "words": "Seek the Lord, all you meek of the earth, Who have upheld His justice. Seek righteousness, seek humility. It may be that you will be hidden In the day of the Lord’s anger.",
     "source": "Zep 2:3"
   },
   {
@@ -390,11 +390,11 @@ let powerWords = [
   },
   {
     "words": "Then he said to him, “Did not my heart go with you when the man turned back from his chariot to meet you? Is it time to receive money and to receive clothing, olive groves and vineyards, sheep and oxen, male and female servants?",
-    "source": "2 K 5:26"
+    "source": "2 Kin 5:26"
   },
   {
     "words": "Then he set his countenance in a stare until he was ashamed; and the man of God wept. ",
-    "source": "2 K 8:11"
+    "source": "2 Kin 8:11"
   },
   {
     "words": "For the eyes of the Lord run to and fro throughout the whole earth, to show Himself strong on behalf of those whose heart is loyal to Him. In this you have done foolishly; therefore from now on you shall have wars. ",
@@ -406,7 +406,7 @@ let powerWords = [
   },
   {
     "words": "Now while I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the Lord my God for the holy mountain of my God,",
-    "source": "Dn 9:20"
+    "source": "Dan 9:20"
   },
   {
     "words": "When evening had come, they brought to Him many who were demon-possessed. And He cast out the spirits with a word, and healed all who were sick,",
@@ -418,7 +418,7 @@ let powerWords = [
   },
   {
     "words": "The king said moreover to Shimei, “You know, as your heart acknowledges, all the wickedness that you did to my father David; therefore the Lord will return your wickedness on your own head. ",
-    "source": "1 K 2:44"
+    "source": "1 Kin 2:44"
   },
   {
     "words": "Behold, the eye of the Lord is on those who fear Him, On those who hope in His mercy,",
@@ -470,7 +470,7 @@ let powerWords = [
   },
   {
     "words": "They hate the one who rebukes in the gate, And they abhor the one who speaks uprightly.",
-    "source": "Am 5:10"
+    "source": "Amos 5:10"
   },
   {
     "words": "And the name of the second he called Ephraim: “For God has caused me to be fruitful in the land of my affliction.”",
@@ -486,7 +486,7 @@ let powerWords = [
   },
   {
     "words": "And they spoke to him, saying, “If you will be a servant to these people today, and serve them, and answer them, and speak good words to them, then they will be your servants forever.”",
-    "source": "1 Kings 12:7"
+    "source": "1 Kin 12:7"
   },
   {
     "words": "So truth fails, And he who departs from evil makes himself a prey.",
@@ -505,20 +505,12 @@ let powerWords = [
     "source": "Prov 23:26"
   },
   {
-    "words": "Now the Lord is the Spirit; and where the Spirit of the Lord is, there is <span>liberty</span>.",
+    "words": "Now the Lord is the Spirit; and where the Spirit of the Lord is, there is liberty.",
     "source": "2 Cor 3:17"
   },
   {
-    "words": "However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities. <span>So He Himself often withdrew into the wilderness and prayed.</span>",
-    "source": "Lk 5:15-16"
-  },
-  {
-    "words": "And He said, “Let Me go, for the day breaks.” But he said, “<span>I will not let You go unless You bless me</span>",
+    "words": "And He said, “Let Me go, for the day breaks.” But he said, “I will not let You go unless You bless me",
     "source": "Gen 32:26"
-  },
-  {
-    "words": "However, regarding the ambassadors of the princes of Babylon, whom they sent to him to inquire about the wonder that was done in the land, God withdrew from him, in order to test him, that He might know all that was in his heart.",
-    "source": "2 Chr 32:31"
   },
   {
     "words": "So we fasted and entreated our God for this, and He answered our prayer.",
@@ -534,7 +526,7 @@ let powerWords = [
   },
   {
     "words": "But refuse the younger widows; for when they have begun to grow wanton against Christ, they desire to marry, having condemnation because they have cast off their first faith. ",
-    "source": "1 Tim 5:11-13"
+    "source": "1 Timothy 5:11-13"
   },
   {
     "words": "that no one should be shaken by these afflictions; for you yourselves know that we are appointed to this.",
@@ -562,7 +554,7 @@ let powerWords = [
   },
   {
     "words": "for if a man does not know how to rule his own house, how will he take care of the church of God?",
-    "source": "1Tm 3:5"
+    "source": "1 Timothy 3:5"
   },
   {
     "words": "For I wish that all men were even as I myself. But each one has his own gift from God, one in this manner and another in that.",
@@ -570,7 +562,7 @@ let powerWords = [
   },
   {
     "words": "Now he who keeps His commandments abides in Him, and He in him. And by this we know that He abides in us, by the Spirit whom He has given us.",
-    "source": "1 J 3:24"
+    "source": "1 John 3:24"
   },
   {
     "words": "And if a son of peace is there, your peace will rest on it; if not, it will return to you.",
@@ -610,7 +602,7 @@ let powerWords = [
   },
   {
     "words": "And they were both naked, the man and his wife, and were not ashamed.",
-    "source": "Gn 2:25"
+    "source": "Gen 2:25"
   },
   {
     "words": "However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities. So He Himself often withdrew into the wilderness and prayed.",
@@ -618,7 +610,7 @@ let powerWords = [
   },
   {
     "words": "Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.",
-    "source": "1P 4:16"
+    "source": "1 Peter 4:16"
   },
   {
     "words": "For they had not understood about the loaves, because their heart was hardened.",
@@ -626,7 +618,7 @@ let powerWords = [
   },
   {
     "words": "This man heard Paul speaking. Paul, observing him intently and seeing that he had faith to be healed,",
-    "source": "Act 14:9"
+    "source": "Acts 14:9"
   },
   {
     "words": "Therefore I say to you, the kingdom of God will be taken from you and given to a nation bearing the fruits of it.",
@@ -646,7 +638,7 @@ let powerWords = [
   },
   {
     "words": "Whoever transgresses and does not abide in the doctrine of Christ does not have God. He who abides in the doctrine of Christ has both the Father and the Son.",
-    "source": "2 J 1:9"
+    "source": "2 John 1:9"
   },
   {
     "words": "For He whom God has sent speaks the words of God, for God does not give the Spirit by measure.",
@@ -654,7 +646,7 @@ let powerWords = [
   },
   {
     "words": "And he said, 'O man greatly beloved, fear not! Peace be to you; be strong, yes, be strong!' So when he spoke to me I was strengthened, and said, 'Let my lord speak, for you have strengthened me.' ",
-    "source": "Dn 10:19"
+    "source": "Dan 10:19"
   },
   {
     "words": "And you have done worse than your fathers, for behold, each one follows the dictates of his own evil heart, so that no one listens to Me. Therefore I will cast you out of this land into a land that you do not know, neither you nor your fathers; and there you shall serve other gods day and night, where I will not show you favor.'",
@@ -702,7 +694,7 @@ let powerWords = [
   },
   {
     "words": "Then Isaiah the son of Amoz sent to Hezekiah, saying, 'Thus says the LORD God of Israel: 'Because you have prayed to Me against Sennacherib king of Assyria, I have heard.' ",
-    "source": "2 King 19:20"
+    "source": "2 Kin 19:20"
   },
   {
     "words": "Whoever keeps the fig tree will eat its fruit; So he who waits on his master will be honored.",
@@ -758,7 +750,7 @@ let powerWords = [
   },
   {
     "words": "For this reason we also thank God without ceasing, because when you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God, which also effectively works in you who believe.",
-    "source": "1 Th 2:13"
+    "source": "1 Thess 2:13"
   },
 ];
 
@@ -771,6 +763,10 @@ display.onclick = () => {
   let picked = pickRandomQuote(powerWords)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' //+ powerWords.indexOf(picked)
   display.innerHTML = forDiplay;
+  //let words = []
+//
+  //powerWords.forEach((e) => words.push(e.source+'</br>'))
+  //display.innerHTML = words.sort();
 }
 
 /* 
