@@ -1,5 +1,5 @@
 let display = document.getElementById('displayDiv');
-let bibleScripts = [
+let powerWords = [
   {
     "words": "<span>Godliness is not means of gain. From such withdraw yourself.</span>",
     "source": "1 Tim 6:5"
@@ -276,6 +276,246 @@ let bibleScripts = [
     "words": "Who is like a wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, And the sternness of his face is changed.",
     "source": "Eccl 8:1"
   },
+  {
+    "words": "Now may He who supplies seed to the sower, and bread for food, supply and multiply the seed you have sown and increase the fruits of your righteousness,",
+    "source": "2 Cor 9:10"
+  },
+  {
+    "words": "Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted. Bear one another’s burdens, and so fulfill the law of Christ.",
+    "source": "Gal 6:1-2"
+  },
+  {
+    "words": "For the weapons of our warfare are not carnal but mighty in God for pulling down strongholds, casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ, and being ready to punish all disobedience when your obedience is fulfilled.",
+    "source": "2 Cor 10:4-6"
+  },
+  {
+    "words": "For they did not gain possession of the land by their own sword, Nor did their own arm save them; But it was Your right hand, Your arm, and the light of Your countenance, Because You favored them.",
+    "source": "Ps 44:3"
+  },
+  {
+    "words": "So they were offended at Him. But Jesus said to them, “A prophet is not without honor except in his own country and in his own house.”",
+    "source": "Mt 13:57"
+  },
+  {
+    "words": "I now rejoice in my sufferings for you, and fill up in my flesh what is lacking in the afflictions of Christ, for the sake of His body, which is the church,",
+    "source": "Col 1:24"
+  },
+  {
+    "words": "and you are complete in Him, who is the head of all principality and power. ",
+    "source": "Col 2:10"
+  },
+  {
+    "words": "who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness",
+    "source": "Ef4:19"
+  },
+  {
+    "words": "Two things I request of You (Deprive me not before I die): Remove falsehood and lies far from me; Give me neither poverty nor riches Feed me with the food allotted to me; Lest I be full and deny You, And say, “Who is the Lord?” Or lest I be poor and steal, And profane the name of my God.",
+    "source": "Prov 30:7-9"
+  },
+  {
+    "words": "They shall not hurt nor destroy in all My holy mountain, For the earth shall be full of the knowledge of the Lord As the waters cover the sea.",
+    "source": "Is 11:9"
+  },
+  {
+    "words": "For the earth will be filled With the knowledge of the glory of the Lord, As the waters cover the sea.",
+    "source": "Ha 2:14"
+  },
+  {
+    "words": "For I desire mercy and not sacrifice, And the knowledge of God more than burnt offerings.",
+    "source": "Ho 6:6"
+  },
+  {
+    "words": "who desires all men to be saved and to come to the knowledge of the truth.",
+    "source": "1 Tim 2:4"
+  },
+  {
+    "words": "Do not be afraid of their faces, For I am with you to deliver you,” says the Lord.",
+    "source": "Jr 1:8"
+  },
+  {
+    "words": "And I will give you shepherds according to My heart, who will feed you with knowledge and understanding.",
+    "source": "Jr 3:15"
+  },
+  {
+    "words": "Circumcise yourselves to the Lord, And take away the foreskins of your hearts, You men of Judah and inhabitants of Jerusalem, Lest My fury come forth like fire, And burn so that no one can quench it, Because of the evil of your doings.",
+    "source": "Jr 4:4"
+  },
+  {
+    "words": "Seek the Lord, all you meek of the earth, Who have upheld His justice.Seek righteousness, seek humility. It may be that you will be hidden In the day of the Lord’s anger.",
+    "source": "Zep 2:3"
+  },
+  {
+    "words": "His brightness was like the light; He had rays flashing from His hand, And there His power was hidden.",
+    "source": "Hb 3:4"
+  },
+  {
+    "words": "He covers His hands with lightning, And commands it to strike.",
+    "source": "Job 36:32"
+  },
+  {
+    "words": "He sent from above, He took me; He drew me out of many waters. He delivered me from my strong enemy, From those who hated me, For they were too strong for me. They confronted me in the day of my calamity, But the Lord was my support. He also brought me out into a broad place; He delivered me because He delighted in me.",
+    "source": "Ps 18:16-19"
+  },
+  {
+    "words": "So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth.",
+    "source": "Rev 3:16"
+  },
+  {
+    "words": "Pilate therefore said to Him, “Are You a king then?” Jesus answered, “You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.”",
+    "source": "J 18:37"
+  },
+  {
+    "words": "Now it happened, when Sanballat, Tobiah, the Arabs, the Ammonites, and the Ashdodites heard that the walls of Jerusalem were being restored and the gaps were beginning to be closed, that they became very angry, and all of them conspired together to come and attack Jerusalem and create confusion.",
+    "source": "Neh 4:7-8"
+  },
+  {
+    "words": "You were bought at a price; do not become slaves of men.",
+    "source": "1 Cor 7:23"
+  },
+  {
+    "words": "And whatever you ask in My name, that I will do, that the Father may be glorified in the Son. If you ask anything in My name, I will do it.",
+    "source": "J 14:13-14"
+  },
+  {
+    "words": "This being so, I myself always strive to have a conscience without offense toward God and men.",
+    "source": "Acts 24:16"
+  },
+  {
+    "words": "Now as he reasoned about righteousness, self-control, and the judgment to come, Felix was afraid and answered, “Go away for now; when I have a convenient time I will call for you.”",
+    "source": "Acts 24:25"
+  },
+  {
+    "words": "Now it happened on a certain day, as He was teaching, that there were Pharisees and teachers of the law sitting by, who had come out of every town of Galilee, Judea, and Jerusalem. And the power of the Lord was present to heal them.",
+    "source": "Lk 5:17"
+  },
+  {
+    "words": "Then he said to him, “Did not my heart go with you when the man turned back from his chariot to meet you? Is it time to receive money and to receive clothing, olive groves and vineyards, sheep and oxen, male and female servants?",
+    "source": "2 K 5:26"
+  },
+  {
+    "words": "Then he set his countenance in a stare until he was ashamed; and the man of God wept. ",
+    "source": "2 K 8:11"
+  },
+  {
+    "words": "For the eyes of the Lord run to and fro throughout the whole earth, to show Himself strong on behalf of those whose heart is loyal to Him. In this you have done foolishly; therefore from now on you shall have wars. ",
+    "source": "2 Chr 16:9"
+  },
+  {
+    "words": "And he did evil, because he did not prepare his heart to seek the Lord.",
+    "source": "2 Chr 12:14"
+  },
+  {
+    "words": "Now while I was speaking, praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the Lord my God for the holy mountain of my God,",
+    "source": "Dn 9:20"
+  },
+  {
+    "words": "When evening had come, they brought to Him many who were demon-possessed. And He cast out the spirits with a word, and healed all who were sick,",
+    "source": "Mt 8:18"
+  },
+  {
+    "words": "And you will be blessed, because they cannot repay you; for you shall be repaid at the resurrection of the just.",
+    "source": "Lk 14:14"
+  },
+  {
+    "words": "The king said moreover to Shimei, “You know, as your heart acknowledges, all the wickedness that you did to my father David; therefore the Lord will return your wickedness on your own head. ",
+    "source": "1 K 2:44"
+  },
+  {
+    "words": "Behold, the eye of the Lord is on those who fear Him, On those who hope in His mercy,",
+    "source": "Ps 33:18"
+  },
+  {
+    "words": "It is better to trust in the Lord Than to put confidence in man.",
+    "source": "Ps 118:8"
+  },
+  {
+    "words": "please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father’s house and I have sinned.",
+    "source": "Neh 1:6"
+  },
+  {
+    "words": "Then those of Israelite lineage separated themselves from all foreigners; and they stood and confessed their sins and the iniquities of their fathers.",
+    "source": "Neh 9:2"
+  },
+  {
+    "words": "You are my hiding place; You shall preserve me from trouble; You shall surround me with songs of deliverance.",
+    "source": "Ps 32:7"
+  },
+  {
+    "words": "So God, who knows the heart, acknowledged them by giving them the Holy Spirit, just as He did to us, and made no distinction between us and them, purifying their hearts by faith.",
+    "source": "Acts 15:8-9"
+  },
+  {
+    "words": "And His mercy is on those who fear Him From generation to generation.",
+    "source": "Lk 1:50"
+  },
+  {
+    "words": "Then they put him in custody, that the mind of the Lord might be shown to them.",
+    "source": "Lev 24:12"
+  },
+  {
+    "words": "You will keep him in perfect peace, Whose mind is stayed on You, Because he trusts in You.",
+    "source": "Is 26:3"
+  },
+  {
+    "words": "However, regarding the ambassadors of the princes of Babylon, whom they sent to him to inquire about the wonder that was done in the land, God withdrew from him, in order to test him, that He might know all that was in his heart.",
+    "source": "2 Chr 32:31"
+  },
+  {
+    "words": "Then it came to pass, when Pharaoh had let the people go, that God did not lead them by way of the land of the Philistines, although that was near; for God said, “Lest perhaps the people change their minds when they see war, and return to Egypt.”",
+    "source": "Ex 13:17"
+  },
+  {
+    "words": "So I prophesied as I was commanded; and as I prophesied, there was a noise, and suddenly a rattling; and the bones came together, bone to bone.",
+    "source": "Ez 37:7"
+  },
+  {
+    "words": "They hate the one who rebukes in the gate, And they abhor the one who speaks uprightly.",
+    "source": "Am 5:10"
+  },
+  {
+    "words": "And the name of the second he called Ephraim: “For God has caused me to be fruitful in the land of my affliction.”",
+    "source": "Gen 41:52"
+  },
+  {
+    "words": "For though I might desire to boast, I will not be a fool; for I will speak the truth. But I refrain, lest anyone should think of me above what he sees me to be or hears from me.",
+    "source": "2 Cor 12:6"
+  },
+  {
+    "words": "For our boasting is this: the testimony of our conscience that we conducted ourselves in the world in simplicity and godly sincerity, not with fleshly wisdom but by the grace of God, and more abundantly toward you.",
+    "source": "2 Cor 1:12"
+  },
+  {
+    "words": "And they spoke to him, saying, “If you will be a servant to these people today, and serve them, and answer them, and speak good words to them, then they will be your servants forever.”",
+    "source": "1 Kings 12:7"
+  },
+  {
+    "words": "So truth fails, And he who departs from evil makes himself a prey.",
+    "source": "Is 59:15"
+  },
+  {
+    "words": "Go up to the mountains and bring wood and build the temple, that I may take pleasure in it and be glorified,” says the Lord.",
+    "source": "Hag 1:8"
+  },
+  {
+    "words": "The fear of the Lord is clean, enduring forever; The judgments of the Lord are true and righteous altogether.",
+    "source": "Ps 19:9"
+  },
+  {
+    "words": "My son, give me your heart, And let your eyes observe my ways.",
+    "source": "Prov 23:26"
+  },
+  {
+    "words": "Now the Lord is the Spirit; and where the Spirit of the Lord is, there is <span>liberty</span>.",
+    "source": "2 Cor 3:17"
+  },
+  {
+    "words": "However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities. <span>So He Himself often withdrew into the wilderness and prayed.</span>",
+    "source": "Lk 5:15-16"
+  },
+  {
+    "words": "And He said, “Let Me go, for the day breaks.” But he said, “<span>I will not let You go unless You bless me</span>",
+    "source": "Gen 32:26"
+  },
 ];
 
 function pickRandomQuote(q) {
@@ -284,8 +524,8 @@ function pickRandomQuote(q) {
 }
 
 display.onclick = () => {
-  let picked = pickRandomQuote(bibleScripts)
-  let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' 
+  let picked = pickRandomQuote(powerWords)
+  let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' //+ powerWords.indexOf(picked)
   display.innerHTML = forDiplay;
 }
 
