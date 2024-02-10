@@ -752,6 +752,10 @@ let powerWords = [
     "words": "For this reason we also thank God without ceasing, because when you received the word of God which you heard from us, you welcomed it not as the word of men, but as it is in truth, the word of God, which also effectively works in you who believe.",
     "source": "1 Thess 2:13"
   },
+  {
+    "words": "Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.",
+    "source": "Gal 6:7-9"
+  },
 ];
 
 function pickRandomQuote(q) {
