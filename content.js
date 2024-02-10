@@ -756,6 +756,205 @@ let powerWords = [
     "words": "Do not be deceived, God is not mocked; for whatever a man sows, that he will also reap. For he who sows to his flesh will of the flesh reap corruption, but he who sows to the Spirit will of the Spirit reap everlasting life. And let us not grow weary while doing good, for in due season we shall reap if we do not lose heart.",
     "source": "Gal 6:7-9"
   },
+  {
+    "words": "I knew I would be blamed for giving my focus to something else. God was behind - I could not resist. So I decided to give my focus to God. Losing my focus gave me a huge motivation to pray more.",
+    "source": "TB"
+  },
+  {
+    "words": "A tired mind cannot make a serious decision.",
+    "source": "TB"
+  },
+  {
+    "words": "Christian leadership is about drilling deep until hitting the rock.",
+    "source": "TB"
+  },
+  {
+    "words": "PEACE = JOY Joy is something that only belivers have. Joy is our conquering power. No joy = no fellowship with God.",
+    "source": "TB"
+  },
+  {
+    "words": "Will of God must be known to us before we pray !!!",
+    "source": "TB"
+  },
+  {
+    "words": "To receive a miracle you don't have be a Christian !!!",
+    "source": "TB"
+  },
+  {
+    "words": "When you talk with all your heart - job is half done.",
+    "source": "TB"
+  },
+  {
+    "words": "He who desires vicotory must be ready for war!",
+    "source": "TB"
+  },
+  {
+    "words": "Nothing happens for nothing, Nothing happens by chance.",
+    "source": "TB"
+  },
+  {
+    "words": "People don't pray because they don't have hope for answer.",
+    "source": "TB"
+  },
+  {
+    "words": "When there is faith in you, there is a strong desire to pray more.",
+    "source": "TB"
+  },
+  {
+    "words": "Earthly help has its own habit of dissapointing one.",
+    "source": "TB"
+  },
+  {
+    "words": "Faith is not asking for possible things.",
+    "source": "TB"
+  },
+  {
+    "words": "No one can do the work of cross but God.",
+    "source": "TB"
+  },
+  {
+    "words": "If you are not born of the Spirit, you are not a true Christian.",
+    "source": "TB"
+  },
+  {
+    "words": "Our main reward is peace of heart.",
+    "source": "TB"
+  },
+  {
+    "words": "Solution is to walk in the Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "God wants us to always be ready. This will make me to watch and pray.",
+    "source": "TB"
+  },
+  {
+    "words": "What you feel depends on what you give your attention to. We are responsible for what we give attention to.",
+    "source": "TB"
+  },
+  {
+    "words": "Daniel, if prayed, would receive a victory, but what God meant for him was much greater.",
+    "source": "TB"
+  },
+  {
+    "words": "Lack of dynamic faith limits what God can do through us.",
+    "source": "TB"
+  },
+  {
+    "words": "Prayer has a language and the language is in the Word of God.",
+    "source": "TB"
+  },
+  {
+    "words": "Prayer is the master key to bind and loose.",
+    "source": "TB"
+  },
+  {
+    "words": "Meditate till God gives a clear light to pray.",
+    "source": "TB"
+  },
+  {
+    "words": "Holy Spirit is most sensitive of being and is easily offended by lack of attention.",
+    "source": "TB"
+  },
+  {
+    "words": "Before reading the Bible we need to seek the attention of the Holy Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "When you want to find the truth, look within and outside your palace.",
+    "source": "TB"
+  },
+  {
+    "words": "If you are conscious of yourself, you cannot be conscious of your faith - JOSEPH",
+    "source": "Josheph"
+  },
+  {
+    "words": "My reward for the relationship with Jesus is power.",
+    "source": "TB"
+  },
+  {
+    "words": "He who continually goes forth weeping, Bearing seed for sowing, Shall doubtless come again with rejoicing, Bringing his sheaves with him.",    "source": "Ps 126:6"
+  },
+  {
+    "words": "Every response - take it to God, Every response - take it for prayer ",
+    "source": "TB"
+  },
+  {
+    "words": "To be in faith is recognise spiritual unity with Jesus Christ.",
+    "source": "TB"
+  },
+  {
+    "words": "You can never live above the level of your thoughts.",
+    "source": "TB Phil 4:8"
+  },
+  {
+    "words": "Joy is your conquering power.",
+    "source": "TB Acts 16:25-26"
+  },
+  {
+    "words": "All men fall but great men get back up.",
+    "source": "TB Prov 24:16"
+  },
+  {
+    "words": "The Word of God is a treasure that produces great riches in the life of those who meditate on it.",
+    "source": "TB Job 23:12"
+  },
+  {
+    "words": "To pray as God wants us to pray is the greatest achievement on earth.",
+    "source": "TB 1 John 5:14-15"
+  },
+  {
+    "words": "Faith is not the imitation or copy.",
+    "source": "TB Acts 19:13"
+  },
+  {
+    "words": "You are not too small for salvation.",
+    "source": "TB Matt 18:1-35"
+  },
+  {
+    "words": "Mountain climbing is the picture of a life of faith.",
+    "source": "TB Is 40:4"
+  },
+  {
+    "words": "To become God's person follow His process.",
+    "source": "TB Rom 9:21-23"
+  },
+  {
+    "words": "Spiritual prayer releases the power of God.",
+    "source": "TB Heb 4:12"
+  },
+  {
+    "words": "Warfare is necessary for your victory.",
+    "source": "TB Eph 6:10-11"
+  },
+  {
+    "words": "I will make you fishers of men.",
+    "source": "TB Matt 4:19"
+  },
+  {
+    "words": "It's highly profitable to store the Word of God in our hearts.",
+    "source": "TB Prov 4:20-27"
+  },
+  {
+    "words": "As Christians, our mistakes draw us closer to God.",
+    "source": "TB Heb 4:16"
+  },
+  {
+    "words": "The love you give away is the only love you keep.",
+    "source": "TB James 2:14-17"
+  },
+  {
+    "words": "Our situations are tests to mature us.",
+    "source": "TB 1 Pet 1:6-8"
+  },
+  {
+    "words": "Christianity lies in the heart. Are you such in heart?",
+    "source": "TB Rm 10:10"
+  },
+  {
+    "words": "",
+    "source": ""
+  },
 ];
 
 function pickRandomQuote(q) {
