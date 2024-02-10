@@ -2,11 +2,11 @@ let display = document.getElementById('displayDiv');
 let powerWords = [
   {
     "words": "Godliness is not means of gain. From such withdraw yourself.",
-    "source": "1 Timothy 6:5"
+    "source": "1 Tim 6:5"
   },
   {
     "words": "Meditate on these things; give yourself entirely to them, that your progress may be evident to all.",
-    "source": "1 Timothy 4:15"
+    "source": "1 Tim 4:15"
   },
   {
     "words": "The Lord did not make this covenant with our fathers, but with us, those who are here today, all of us who are alive.",
@@ -18,7 +18,7 @@ let powerWords = [
   },
   {
     "words": "These are sensual persons, who cause divisions, not having the Spirit.",
-    "source": "Jud 1:19"
+    "source": "Jude 1:19"
   },
   {
     "words": "For to you it has been granted on behalf of Christ, not only to believe in Him, but also to suffer for His sake,",      
@@ -26,7 +26,7 @@ let powerWords = [
   },
   {
     "words": "Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.",      
-    "source": "Jm 5:15"
+    "source": "James 5:15"
   },
   {
     "words": "Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself.",      
@@ -66,11 +66,11 @@ let powerWords = [
   },
   {
     "words": "and said, “Assuredly, I say to you, unless you are converted and become as little children, you will by no means enter the kingdom of heaven.",
-    "source": "Mt 18:3"
+    "source": "Matt 18:3"
   },
   {
     "words": "Do not labor for the food which perishes, but for the food which endures to everlasting life, which the Son of Man will give you, because God the Father has set His seal on Him.",
-    "source": "J 6:27"
+    "source": "John 6:27"
   },
   {
     "words": "Only do not rebel against the Lord, nor fear the people of the land, for they are our bread; their protection has departed from them, and the Lord is with us. Do not fear them.",
@@ -78,27 +78,27 @@ let powerWords = [
   },
   {
     "words": "Take My yoke upon you and learn from Me, for I am gentle and lowly in heart, and you will find rest for your souls.",
-    "source": "Mt 11:29"
+    "source": "Matt 11:29"
   },
   {
     "words": "But Jesus answered and said, “You do not know what you ask. Are you able to drink the cup that I am about to drink, and be baptized with the baptism that I am baptized with?” ",
-    "source": "Mt 20:22"
+    "source": "Matt 20:22"
   },
   {
     "words": "But Jesus did not commit Himself to them, because He knew all men, and had no need that anyone should testify of man, for He knew what was in man.",
-    "source": "J 2:24-25"
+    "source": "John 2:24-25"
   },
   {
     "words": "And in vain they worship Me, teaching as doctrines the commandments of men.",
-    "source": "Mt 15:9"
+    "source": "Matt 15:9"
   },
   {
     "words": "Then He came to the disciples and found them sleeping, and said to Peter, “What! Could you not watch with Me one hour?",
-    "source": "Mt 26:40"
+    "source": "Matt 26:40"
   },
   {
     "words": "But He kept silent and answered nothing. Again the high priest asked Him, saying to Him, “Are You the Christ, the Son of the Blessed?” Jesus said, “I am. And you will see the Son of Man sitting at the right hand of the Power, and coming with the clouds of heaven.” ",
-    "source": "Mk 14: 61-62"
+    "source": "Mark 14: 61-62"
   },
   {
     "words": "I came to send fire on the earth, and how I wish it were already kindled!",
@@ -106,11 +106,11 @@ let powerWords = [
   },
   {
     "words": "And the Lord said to Satan, “The Lord rebuke you, Satan! The Lord who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?” ",
-    "source": "Ze 3:2"
+    "source": "Zech 3:2"
   },
   {
     "words": "And of the angels He says: “Who makes His angels spirits And His ministers a flame of fire.” ",
-    "source": "Hb 1:7"
+    "source": "Heb 1:7"
   },
   {
     "words": "Likewise the soldiers asked him, saying, “And what shall we do?” So he said to them, “Do not intimidate anyone or accuse falsely, and be content with your wages.”",
@@ -130,7 +130,7 @@ let powerWords = [
   },
   {
     "words": "And He said to them, “You are those who justify yourselves before men, but God knows your hearts. For what is highly esteemed among men is an abomination in the sight of God.",
-    "source": "Lk 16:15"
+    "source": "Luke 16:15"
   },
   {
     "words": "“Do not touch My anointed ones, And do My prophets no harm.”",
@@ -138,15 +138,15 @@ let powerWords = [
   },
   {
     "words": "When Israel was a child, I loved him, And out of Egypt I called My son.",
-    "source": "Hs 11:1"
+    "source": "Hos 11:1"
   },
   {
     "words": "By a prophet the Lord brought Israel out of Egypt, And by a prophet he was preserved.",
-    "source": "Hs 12:13"
+    "source": "Hos 12:13"
   },
   {
     "words": "So you, by the help of your God, return; Observe mercy and justice, And wait on your God continually.",
-    "source": "Hs 12:6"
+    "source": "Hos 12:6"
   },
   {
     "words": "Where the word of a king is, there is power; And who may say to him, “What are you doing?” ",
@@ -154,7 +154,7 @@ let powerWords = [
   },
   {
     "words": "Thus says the Lord: “Let not the wise man glory in his wisdom, Let not the mighty man glory in his might, Nor let the rich man glory in his riches; But let him who glories glory in this, That he understands and knows Me, That I am the Lord, exercising lovingkindness, judgment, and righteousness in the earth. For in these I delight,” says the Lord.",
-    "source": "Jr 9:23-24"
+    "source": "Jer 9:23-24"
   },
   {
     "words": "Then King David said to Ornan, “No, but I will surely buy it for the full price, for I will not take what is yours for the Lord, nor offer burnt offerings with that which costs me nothing.”",
@@ -182,7 +182,7 @@ let powerWords = [
   },
   {
     "words": "Do not trust in a friend; Do not put your confidence in a companion; Guard the doors of your mouth From her who lies in your bosom.",
-    "source": "Mi 7:5"
+    "source": "Mic 7:5"
   },
   {
     "words": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.",
@@ -198,7 +198,7 @@ let powerWords = [
   },
   {
     "words": "For we are the circumcision, who worship God in the Spirit, rejoice in Christ Jesus, and have no confidence in the flesh,",
-    "source": "Ph 3:3"
+    "source": "Phil 3:3"
   },
   {
     "words": "Now Saul was afraid of David, because the Lord was with him, but had departed from Saul. Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people. And David behaved wisely in all his ways, and the Lord was with him. Therefore, when Saul saw that he behaved very wisely, he was afraid of him. But all Israel and Judah loved David, because he went out and came in before them.",
@@ -210,59 +210,59 @@ let powerWords = [
   },
   {
     "words": "And Jesus said to them, “I am the bread of life. He who comes to Me shall never hunger, and he who believes in Me shall never thirst.",
-    "source": "J 6:35"
+    "source": "John 6:35"
   },
   {
     "words": "I am the living bread which came down from heaven. If anyone eats of this bread, he will live forever; and the bread that I shall give is My flesh, which I shall give for the life of the world.”",
-    "source": "J 6:51"
+    "source": "John 6:51"
   },
   {
     "words": "Then Jesus spoke to them again, saying, “I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life.”",
-    "source": "J 8:12"
+    "source": "John 8:12"
   },
   {
     "words": "And He said to them, “You are from beneath; I am from above. You are of this world; I am not of this world.",
-    "source": "J 8:23"
+    "source": "John 8:23"
   },
   {
     "words": "Jesus said to them, “Most assuredly, I say to you, before Abraham was, I am.”",
-    "source": "J 8:58"
+    "source": "John 8:58"
   },
   {
     "words": "As long as I am in the world, I am the light of the world.”",
-    "source": "J 9:5"
+    "source": "John 9:5"
   },
   {
     "words": "Then Jesus said to them again, “Most assuredly, I say to you, I am the door of the sheep. ",
-    "source": "J 10:7"
+    "source": "John 10:7"
   },
   {
     "words": "I am the door. If anyone enters by Me, he will be saved, and will go in and out and find pasture.",
-    "source": "J 10:9"
+    "source": "John 10:9"
   },
   {
     "words": "“I am the good shepherd. The good shepherd gives His life for the sheep.",
-    "source": "J 10:11"
+    "source": "John 10:11"
   },
   {
     "words": "I am the good shepherd; and I know My sheep, and am known by My own.",
-    "source": "J 10:14"
+    "source": "John 10:14"
   },
   {
     "words": "Jesus said to her, “I am the resurrection and the life. He who believes in Me, though he may die, he shall live.",
-    "source": "J 11:25"
+    "source": "John 11:25"
   },
   {
     "words": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through Me.",
-    "source": "J 14:6"
+    "source": "John 14:6"
   },
   {
     "words": "“I am the true vine, and My Father is the vinedresser.",
-    "source": "J 15:1"
+    "source": "John 15:1"
   },
   {
     "words": "“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.",
-    "source": "J 15:5"
+    "source": "John 15:5"
   },
   {
     "words": "And he hastened to take the bandage away from his eyes; and the king of Israel recognized him as one of the prophets.",
@@ -270,7 +270,7 @@ let powerWords = [
   },
   {
     "words": "Nor do they light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house.",
-    "source": "Mt 5:14"
+    "source": "Matt 5:14"
   },
   {
     "words": "Who is like a wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, And the sternness of his face is changed.",
@@ -294,7 +294,7 @@ let powerWords = [
   },
   {
     "words": "So they were offended at Him. But Jesus said to them, “A prophet is not without honor except in his own country and in his own house.”",
-    "source": "Mt 13:57"
+    "source": "Matt 13:57"
   },
   {
     "words": "I now rejoice in my sufferings for you, and fill up in my flesh what is lacking in the afflictions of Christ, for the sake of His body, which is the church,",
@@ -322,31 +322,31 @@ let powerWords = [
   },
   {
     "words": "For I desire mercy and not sacrifice, And the knowledge of God more than burnt offerings.",
-    "source": "Ho 6:6"
+    "source": "Hos 6:6"
   },
   {
     "words": "who desires all men to be saved and to come to the knowledge of the truth.",
-    "source": "1 Timothy 2:4"
+    "source": "1 Tim 2:4"
   },
   {
     "words": "Do not be afraid of their faces, For I am with you to deliver you,” says the Lord.",
-    "source": "Jr 1:8"
+    "source": "Jer 1:8"
   },
   {
     "words": "And I will give you shepherds according to My heart, who will feed you with knowledge and understanding.",
-    "source": "Jr 3:15"
+    "source": "Jer 3:15"
   },
   {
     "words": "Circumcise yourselves to the Lord, And take away the foreskins of your hearts, You men of Judah and inhabitants of Jerusalem, Lest My fury come forth like fire, And burn so that no one can quench it, Because of the evil of your doings.",
-    "source": "Jr 4:4"
+    "source": "Jer 4:4"
   },
   {
     "words": "Seek the Lord, all you meek of the earth, Who have upheld His justice. Seek righteousness, seek humility. It may be that you will be hidden In the day of the Lord’s anger.",
-    "source": "Zep 2:3"
+    "source": "Zeph 2:3"
   },
   {
     "words": "His brightness was like the light; He had rays flashing from His hand, And there His power was hidden.",
-    "source": "Hb 3:4"
+    "source": "Hab 3:4"
   },
   {
     "words": "He covers His hands with lightning, And commands it to strike.",
@@ -362,7 +362,7 @@ let powerWords = [
   },
   {
     "words": "Pilate therefore said to Him, “Are You a king then?” Jesus answered, “You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.”",
-    "source": "J 18:37"
+    "source": "John 18:37"
   },
   {
     "words": "Now it happened, when Sanballat, Tobiah, the Arabs, the Ammonites, and the Ashdodites heard that the walls of Jerusalem were being restored and the gaps were beginning to be closed, that they became very angry, and all of them conspired together to come and attack Jerusalem and create confusion.",
@@ -374,7 +374,7 @@ let powerWords = [
   },
   {
     "words": "And whatever you ask in My name, that I will do, that the Father may be glorified in the Son. If you ask anything in My name, I will do it.",
-    "source": "J 14:13-14"
+    "source": "John 14:13-14"
   },
   {
     "words": "This being so, I myself always strive to have a conscience without offense toward God and men.",
@@ -386,7 +386,7 @@ let powerWords = [
   },
   {
     "words": "Now it happened on a certain day, as He was teaching, that there were Pharisees and teachers of the law sitting by, who had come out of every town of Galilee, Judea, and Jerusalem. And the power of the Lord was present to heal them.",
-    "source": "Lk 5:17"
+    "source": "Luke 5:17"
   },
   {
     "words": "Then he said to him, “Did not my heart go with you when the man turned back from his chariot to meet you? Is it time to receive money and to receive clothing, olive groves and vineyards, sheep and oxen, male and female servants?",
@@ -410,11 +410,11 @@ let powerWords = [
   },
   {
     "words": "When evening had come, they brought to Him many who were demon-possessed. And He cast out the spirits with a word, and healed all who were sick,",
-    "source": "Mt 8:18"
+    "source": "Matt 8:18"
   },
   {
     "words": "And you will be blessed, because they cannot repay you; for you shall be repaid at the resurrection of the just.",
-    "source": "Lk 14:14"
+    "source": "Luke 14:14"
   },
   {
     "words": "The king said moreover to Shimei, “You know, as your heart acknowledges, all the wickedness that you did to my father David; therefore the Lord will return your wickedness on your own head. ",
@@ -446,7 +446,7 @@ let powerWords = [
   },
   {
     "words": "And His mercy is on those who fear Him From generation to generation.",
-    "source": "Lk 1:50"
+    "source": "Luke 1:50"
   },
   {
     "words": "Then they put him in custody, that the mind of the Lord might be shown to them.",
@@ -466,7 +466,7 @@ let powerWords = [
   },
   {
     "words": "So I prophesied as I was commanded; and as I prophesied, there was a noise, and suddenly a rattling; and the bones came together, bone to bone.",
-    "source": "Ez 37:7"
+    "source": "Ezek 37:7"
   },
   {
     "words": "They hate the one who rebukes in the gate, And they abhor the one who speaks uprightly.",
@@ -526,7 +526,7 @@ let powerWords = [
   },
   {
     "words": "But refuse the younger widows; for when they have begun to grow wanton against Christ, they desire to marry, having condemnation because they have cast off their first faith. ",
-    "source": "1 Timothy 5:11-13"
+    "source": "1 Tim 5:11-13"
   },
   {
     "words": "that no one should be shaken by these afflictions; for you yourselves know that we are appointed to this.",
@@ -538,7 +538,7 @@ let powerWords = [
   },
   {
     "words": "But the Pharisees and lawyers rejected the will of God for themselves, not having been baptized by him.",
-    "source": "Lk 7:30"
+    "source": "Luke 7:30"
   },
   {
     "words": "When a man takes hold of his brother In the house of his father, saying, “You have clothing; You be our ruler, And let these ruins be under your power,” In that day he will protest, saying, “I cannot cure your ills, For in my house is neither food nor clothing; Do not make me a ruler of the people.”",
@@ -554,7 +554,7 @@ let powerWords = [
   },
   {
     "words": "for if a man does not know how to rule his own house, how will he take care of the church of God?",
-    "source": "1 Timothy 3:5"
+    "source": "1 Tim 3:5"
   },
   {
     "words": "For I wish that all men were even as I myself. But each one has his own gift from God, one in this manner and another in that.",
@@ -566,11 +566,11 @@ let powerWords = [
   },
   {
     "words": "And if a son of peace is there, your peace will rest on it; if not, it will return to you.",
-    "source": "Lk 10:6"
+    "source": "Luke 10:6"
   },
   {
     "words": "And the scribes and chief priests heard it and sought how they might destroy Him; for they feared Him, because all the people were astonished at His teaching.",
-    "source": "Mk 11:18"
+    "source": "Mark 11:18"
   },
   {
     "words": "He who is slow to wrath has great understanding, But he who is impulsive exalts folly.",
@@ -606,15 +606,15 @@ let powerWords = [
   },
   {
     "words": "However, the report went around concerning Him all the more; and great multitudes came together to hear, and to be healed by Him of their infirmities. So He Himself often withdrew into the wilderness and prayed.",
-    "source": "Lk 5:15-16"
+    "source": "Luke 5:15-16"
   },
   {
     "words": "Yet if anyone suffers as a Christian, let him not be ashamed, but let him glorify God in this matter.",
-    "source": "1 Peter 4:16"
+    "source": "1 Pet 4:16"
   },
   {
     "words": "For they had not understood about the loaves, because their heart was hardened.",
-    "source": "Mk 6:52"
+    "source": "Mark 6:52"
   },
   {
     "words": "This man heard Paul speaking. Paul, observing him intently and seeing that he had faith to be healed,",
@@ -622,19 +622,19 @@ let powerWords = [
   },
   {
     "words": "Therefore I say to you, the kingdom of God will be taken from you and given to a nation bearing the fruits of it.",
-    "source": "Mt 21:43"
+    "source": "Matt 21:43"
   },
   {
     "words": "Not that I seek the gift, but I seek the fruit that abounds to your account. Indeed I have all and abound. I am full, having received from Epaphroditus the things sent from you, a sweet-smelling aroma, an acceptable sacrifice, well pleasing to God.",
-    "source": "Ph 4:17-18"
+    "source": "Phil 4:17-18"
   },
   {
     "words": "And another angel followed, saying, “Babylon is fallen, is fallen, that great city, because she has made all nations drink of the wine of the wrath of her fornication.”",
-    "source": "Rv 14:8"
+    "source": "Rev 14:8"
   },
   {
     "words": "But the wisdom that is from above is first pure, then peaceable, gentle, willing to yield, full of mercy and good fruits, without partiality and without hypocrisy.",
-    "source": "Jm 3:17"
+    "source": "James 3:17"
   },
   {
     "words": "Whoever transgresses and does not abide in the doctrine of Christ does not have God. He who abides in the doctrine of Christ has both the Father and the Son.",
@@ -642,7 +642,7 @@ let powerWords = [
   },
   {
     "words": "For He whom God has sent speaks the words of God, for God does not give the Spirit by measure.",
-    "source": "J 3:34"
+    "source": "John 3:34"
   },
   {
     "words": "And he said, 'O man greatly beloved, fear not! Peace be to you; be strong, yes, be strong!' So when he spoke to me I was strengthened, and said, 'Let my lord speak, for you have strengthened me.' ",
@@ -650,11 +650,11 @@ let powerWords = [
   },
   {
     "words": "And you have done worse than your fathers, for behold, each one follows the dictates of his own evil heart, so that no one listens to Me. Therefore I will cast you out of this land into a land that you do not know, neither you nor your fathers; and there you shall serve other gods day and night, where I will not show you favor.'",
-    "source": "Jr 16:12-13"
+    "source": "Jer 16:12-13"
   },
   {
     "words": "And seek the peace of the city where I have caused you to be carried away captive, and pray to the Lord for it; for in its peace you will have peace.",
-    "source": "Jr 29:7"
+    "source": "Jer 29:7"
   },
   {
     "words": "And David said to Gad, 'I am in great distress. Please let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hand of man.' ",
@@ -702,7 +702,7 @@ let powerWords = [
   },
   {
     "words": "O LORD, are not Your eyes on the truth? You have stricken them, But they have not grieved; You have consumed them, But they have refused to receive correction. They have made their faces harder than rock; They have refused to return.",
-    "source": "Jr 5:3"
+    "source": "Jer 5:3"
   },
   {
     "words": "I said in my heart, 'Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.",
@@ -767,8 +767,7 @@ display.onclick = () => {
   let picked = pickRandomQuote(powerWords)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' //+ powerWords.indexOf(picked)
   display.innerHTML = forDiplay;
-  //let words = []
-//
+  //let words = []  
   //powerWords.forEach((e) => words.push(e.source+'</br>'))
   //display.innerHTML = words.sort();
 }
