@@ -765,7 +765,7 @@ function pickRandomQuote(q) {
 
 display.onclick = () => {
   let picked = pickRandomQuote(powerWords)
-  let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' + powerWords.indexOf(picked)
+  let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' //+ powerWords.indexOf(picked)
   display.innerHTML = forDiplay;
   //let words = []
 //
