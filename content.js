@@ -1,3 +1,4 @@
+//hello
 let display = document.getElementById('displayDiv');
 let powerWords = [
   {
