@@ -666,7 +666,7 @@ let powerWords = [
   },
   {
     "words": "that the sharing of your faith may become effective by the acknowledgment of every good thing which is in you in Christ Jesus.",
-    "source": "Phil 1:6"
+    "source": "Philem 1:6"
   },
   {
     "words": "Thus says the Lord, your Redeemer, The Holy One of Israel: I am the Lord your God, Who teaches you to profit, Who leads you by the way you should go.",
@@ -950,10 +950,6 @@ let powerWords = [
   {
     "words": "Christianity lies in the heart. Are you such in heart?",
     "source": "TB Rm 10:10"
-  },
-  {
-    "words": "",
-    "source": ""
   },
 ];
 
