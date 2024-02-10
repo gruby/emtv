@@ -951,7 +951,34 @@ let powerWords = [
     "words": "Christianity lies in the heart. Are you such in heart?",
     "source": "TB Rm 10:10"
   },
+  {
+    "words": "My help comes from the LORD, Who made heaven and earth.",
+    "source": "Ps 121:2"
+  },
+  {
+    "words": "Hear my prayer, O LORD, And give ear to my cry; Do not be silent at my tears; For I am a stranger with You, A sojourner, as all my fathers were.",
+    "source": "Ps 39:12"
+  },
+  {
+    "words": "The angel of the LORD encamps all around those who fear Him, And delivers them.",
+    "source": "Ps 34:7"
+  },
+  {
+    "words": "For You are my rock and my fortress; Therefore, for Your name's sake, Lead me and guide me.",
+    "source": "Ps 31:3"
+  },
+  {
+    "words": "I will hear what God the LORD will speak, For He will speak peace To His people and to His saints; But let them not turn back to folly.",
+    "source": "Psalm 85:8"
+  },
 ];
+
+/* 
+{
+      "words": "",
+      "source": ""
+    },
+*/
 
 function pickRandomQuote(q) {
   let pick = q[Math.floor(Math.random()*q.length)];
@@ -966,10 +993,3 @@ display.onclick = () => {
   //powerWords.forEach((e) => words.push(e.source+'</br>'))
   //display.innerHTML = words.sort();
 }
-
-/* 
-{
-      "words": "",
-      "source": ""
-    },
-*/
