@@ -971,6 +971,246 @@ let powerWords = [
     "words": "I will hear what God the LORD will speak, For He will speak peace To His people and to His saints; But let them not turn back to folly.",
     "source": "Ps 85:8"
   },
+  {
+    "words": "Something that does not qualify for meditation does not qualify for conversation. What does not qualify for your heart does not qualify for your mouth.",
+    "source": "TB"
+  },
+  {
+    "words": "Using the Word Of God you have read helps you ensure that your prayer lines up with God's will and intention for your life.",
+    "source": "TB"
+  },
+  {
+    "words": "What we do for Christ is only a reflection of the relationship we have with God. ",
+    "source": "TB"
+  },
+  {
+    "words": "The beauty of life does not depend on how happy you are but on how happy others can be because of you.",
+    "source": "TB Heb 13:16"
+  },
+  {
+    "words": "To believe God is to love Him above all.",
+    "source": "TB"
+  },
+  {
+    "words": "True humility is total dependence on God for everything.",
+    "source": "TB"
+  },
+  {
+    "words": "I have never seen where hatred overcomes love. When you love you overcome",
+    "source": "TB"
+  },
+  {
+    "words": "If a lie goes on for 100 year, truth one day will reach it (Psalm 94:15). As truth was older than terror, so it will survive it. It got the start and it will get the race.",
+    "source": "TB"
+  },
+  {
+    "words": "Successful people don't just drift to the top; it takes focused action, personal discipline and lots of energy every day to make things happen.",
+    "source": "TB"
+  },
+  {
+    "words": "Letting the Word have right of way in your life is letting Christ have right of way.",
+    "source": "TB"
+  },
+  {
+    "words": "To the extent that you think the thoughts of Christ, to that same extent do you have the power of Christ.",
+    "source": "TB"
+  },
+  {
+    "words": "It honours God to believe Him even while every sense contradicts Him.",
+    "source": "TB"
+  },
+  {
+    "words": "Each day has it's own destiny: Yesterday is history, today is opportunity, while tomorrow is mystery.",
+    "source": "TB"
+  },
+  {
+    "words": "You are a work of art; if you want to become God's person, follow His process.",
+    "source": "TB"
+  },
+  {
+    "words": "Nothing good happens without discipline.",
+    "source": "TB Prov 3:11-12"
+  },
+  {
+    "words": "My son, do not despise the chastening of the LORD, Nor detest His correction; For whom the LORD loves He corrects, Just as a father the son in whom he delights.",
+    "source": "Prov 3:11-12"
+  },
+  {
+    "words": "No wound no pearl.",
+    "source": "TB Matt 5:10-12"
+  },
+  {
+    "words": "Meditation in the Word brings revelation.",
+    "source": "TB Ps 119:99"
+  },
+  {
+    "words": "Gold is not valued until it is tested. What is your test?",
+    "source": "TB James 1:3"
+  },
+  {
+    "words": "A Christian is somebody who is lifting the load with God.",
+    "source": "TB Phil 4:13"
+  },
+  {
+    "words": "God sometimes puts us in the dark so that we may appreciate the light when it finally comes.",
+    "source": "TB Acts 9:8-22"
+  },
+  {
+    "words": "But without a parable He did not speak to them. And when they were alone, He explained all things to His disciples.",
+    "source": "Mark 4:34"
+  },
+  {
+    "words": "A break in prayer is a break in faith.",
+    "source": "TB"
+  },
+  {
+    "words": "God speaks through the meek.",
+    "source": "TB"
+  },
+  {
+    "words": "Whenever Jesus' name is glorified Holy Spirit arrives immediately.",
+    "source": "TB"
+  },
+  {
+    "words": "Silence is the best reply to your enemies.",
+    "source": "TB"
+  },
+  {
+    "words": "Your spirit must be free to attract Spirit of God.",
+    "source": "TB"
+  },
+  {
+    "words": "To identify and acknowledge our weakness is victory itself.",
+    "source": "TB"
+  },
+  {
+    "words": "There must be secret around the servant of God.",
+    "source": "TB"
+  },
+  {
+    "words": "In every situation God has something to say.",
+    "source": "TB"
+  },
+  {
+    "words": "And let our people also learn to maintain good works, to meet urgent needs, that they may not be unfruitful.",
+    "source": "Titus 3:14"
+  },
+  {
+    "words": "... I took my time and asked God for every African country.",
+    "source": "TB"
+  },
+  {
+    "words": "What you wish for others, God makes happen to you!",
+    "source": "TB"
+  },
+  {
+    "words": "A man’s life is what he thinks about all day long. A man’s life is what his thoughts make it. The soul which thinks error is sick. The greatest sickness is when there is uncertainty, when you don’t know what will happen next.",
+    "source": "TB"
+  },
+  {
+    "words": "Million Joshuas wouldn't be enough...",
+    "source": "TB"
+  },
+  {
+    "words": "If you defend yourself, God will leave you to your own strength.",
+    "source": "TB"
+  },
+  {
+    "words": "If an answer is not given to the first prayer nor to the second, we must hold on and hold out 'til we received an answer. ",
+    "source": "TB"
+  },
+  {
+    "words": "I said to God, 'I need to change the Bible' but God said 'No'. ",
+    "source": "TB"
+  },
+  {
+    "words": "'To learn how to hear from God after prayer is a much greater blessing than what you are looking for.",
+    "source": "TB"
+  },
+  {
+    "words": "Man of faith smiles at every insult or persecution.",
+    "source": "TB"
+  },
+  {
+    "words": "Our only responsibility as a Christian is to trust the Holy Spirit, keep the Word of God in our heart and in our mouth and in every conversation, because the Word is our contact with Him.",
+    "source": "TB"
+  },
+  {
+    "words": "The only thing you need is God's agenda.",
+    "source": "TB"
+  },
+  {
+    "words": "You talk to God and God talks to you accordingly - according to the state of your heart.",
+    "source": "TB"
+  },
+  {
+    "words": "When you love pleasure more than God, you are bound to destroy the grace of God in your life!",
+    "source": "TB"
+  },
+  {
+    "words": "Faith is a vacuum that draws an annointing from Jesus.",
+    "source": "TB"
+  },
+  {
+    "words": "Jesus always wants to give us what we don't know how to do so that He Himself can teach us.",
+    "source": "TB"
+  },
+  {
+    "words": "- why do you want to free him? <br>- Me?! Ha ha!",
+    "source": "TB"
+  },
+  {
+    "words": "Learn to forgive yourself, then you can forgive others. What you do not have, you cannot give to others.",
+    "source": "TB"
+  },
+  {
+    "words": "If Jesus is aware of the situation, it is as good as having it solved. Jesus will solve it immediately or will guide you through it.",
+    "source": "TB"
+  },
+  {
+    "words": "If in my ministry I would receive money coming from iniquity, I would be punished for that.",
+    "source": "TB"
+  },
+  {
+    "words": "Wisdom consists of all gracious, Heavenly thoughts of God embodied in Christ for the enlightenment of our souls. Ability to communicate this wisdom to others is the best and highest spiritual gift.",
+    "source": "TB"
+  },
+  {
+    "words": "Knowledge means to explain the unfolding and the correlation of Gospel facts.",
+    "source": "TB"
+  },
+  {
+    "words": "I judge people by the peace of heart.",
+    "source": "TB"
+  },
+  {
+    "words": "If everything goes too well for too long, I go to fast and pray - Christianity is not a bed of roses.",
+    "source": "TB"
+  },
+  {
+    "words": "The challenges before us cannot be withstood without God's Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "If you have been truly born again, it was the Holy Spirit who convicted you of sin and drew you into a relationship with Jesus.",
+    "source": "TB"
+  },
+  {
+    "words": "Blaming others, you will never repent.",
+    "source": "TB"
+  },
+  {
+    "words": "The more God uses me, the more humble I must be.",
+    "source": "TB"
+  },
+  {
+    "words": "Servant of God - very sensitive job.",
+    "source": "TB"
+  },
+  {
+    "words": "To be spiritually fit you must be fit physically (it's our responsibility)",
+    "source": "TB"
+  },
 ];
 
 /* 
