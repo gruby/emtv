@@ -969,7 +969,7 @@ let powerWords = [
   },
   {
     "words": "I will hear what God the LORD will speak, For He will speak peace To His people and to His saints; But let them not turn back to folly.",
-    "source": "Psalm 85:8"
+    "source": "Ps 85:8"
   },
 ];
 
