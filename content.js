@@ -1257,7 +1257,7 @@ let powerWords = [
   },
   {
     "words": "Many a time they have afflicted me from my youth; Yet they have not prevailed against me.",
-    "source": "Psalm 129:2"
+    "source": "Ps 129:2"
   },
   {
     "words": "We are created to keep our hearts busy with the Lord. Keep your heart praising God - that is what you are created for.",
@@ -1273,6 +1273,90 @@ let powerWords = [
   },
   {
     "words": "Right knowledge of God settles peace.",
+    "source": "TB"
+  },
+  {
+    "words": "99% of things that happen to Christians is not because of their fault, but because of the glory to be revealed.",
+    "source": "TB"
+  },
+  {
+    "words": "You keep opening the door God did not open for you.",
+    "source": "TB"
+  },
+  {
+    "words": "Mother asked me to pray against the bad dream. Then I understood prayer is the way to go.",
+    "source": "TB"
+  },
+  {
+    "words": "You can be a man of prayer and yet not a man of faith.",
+    "source": "TB"
+  },
+  {
+    "words": "See your weakness as a reason to pray more; it should not be the reason for sadness or to abandon your post.",
+    "source": "TB"
+  },
+  {
+    "words": "Each one wants to be a CEO but he can't even manage his home.",
+    "source": "TB"
+  },
+  {
+    "words": "You can pray amiss but you can naver praise amiss.",
+    "source": "TB"
+  },
+  {
+    "words": "We get to Jesus by meditation. Meditate and then pray.",
+    "source": "TB"
+  },
+  {
+    "words": "The kind of peace that comes determines where your breakthrough comes from. (Stupid self-effort)",
+    "source": "TB"
+  },
+  {
+    "words": "If you are totally committed to God Almighty, He will take up satan’s challenge against you!",
+    "source": "TB"
+  },
+  {
+    "words": "If I don't see you healed in my heart, I will not even come to you.",
+    "source": "TB"
+  },
+  {
+    "words": "When I touch you, I feel your sickness in my body. That's why I know when you are healed.",
+    "source": "TB"
+  },
+  {
+    "words": "I call it timid soul - impatient.",
+    "source": "TB"
+  },
+  {
+    "words": "90% of possessed are not aware what they do.",
+    "source": "TB"
+  },
+  {
+    "words": "If God is with you, you will be comforted in whatever situation you find yourself in.",
+    "source": "TB"
+  },
+  {
+    "words": "We need to use our faith to put a demand on the anointing.",
+    "source": "TB"
+  },
+  {
+    "words": "Gifts minus character = satan",
+    "source": "TB"
+  },
+  {
+    "words": "Sometimes relationships are too deep to quit.",
+    "source": "TB"
+  },
+  {
+    "words": "As a Christian, receive trials as your friends.",
+    "source": "TB"
+  },
+  {
+    "words": "We will continue to be faced with issues that violate our conscience.",
+    "source": "TB"
+  },
+  {
+    "words": "When you are born again you have the privilege of letting the Creator to assist you. (Beeing free to walk among scorpions)",
     "source": "TB"
   },
 ];
