@@ -1359,6 +1359,30 @@ let powerWords = [
     "words": "When you are born again you have the privilege of letting the Creator to assist you. (Beeing free to walk among scorpions)",
     "source": "TB"
   },
+  {
+    "words": "He who sends a message by the hand of a fool Cuts off his own feet and drinks violence.",
+    "source": "Prov 26:6"
+  },
+  {
+    "words": "The great God who formed everything Gives the fool his hire and the transgressor his wages.",
+    "source": "Prov 26:10"
+  },
+  {
+    "words": "He who has pity on the poor lends to the LORD, And He will pay back what he has given.",
+    "source": "Prov 19:17"
+  },
+  {
+    "words": "Keep my commands and live, And my law as the apple of your eye.",
+    "source": "Prov 7:2"
+  },
+  {
+    "words": "The blessing of the LORD makes one rich, And He adds no sorrow with it.",
+    "source": "Prov 10:22"
+  },
+  {
+    "words": "For jealousy is a husband's fury; Therefore he will not spare in the day of vengeance.",
+    "source": "Prov 6:34"
+  },
 ];
 
 /* 
