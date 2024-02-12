@@ -865,7 +865,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "If you are conscious of yourself, you cannot be conscious of your faith - JOSEPH",
+    "words": "If you are conscious of yourself, you cannot be conscious of your faith.",
     "source": "Josheph"
   },
   {
