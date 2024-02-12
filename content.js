@@ -1235,6 +1235,46 @@ let powerWords = [
     "words": "When God Almighty is executing His plan in our lives, He also designs and arrange events which continues to unfold until His purpose is revealed in our lives.",
     "source": "TB"
   },
+  {
+    "words": "The heaven, even the heavens, are the LORD's; But the earth He has given to the children of men.",
+    "source": "Ps 115:16 "
+  },
+  {
+    "words": "And Mordecai told them to answer Esther: Do not think in your heart that you will escape in the king's palace any more than all the other Jews. For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father's house will perish. Yet who knows whether you have come to the kingdom for such a time as this?",
+    "source": "Esther 4:13-14"
+  },
+  {
+    "words": "Prayer changes us, faith changes things.",
+    "source": "TB"
+  },
+  {
+    "words": "The only hindrance to your prayer is when you continue to hold a grudge against your neighbour.",
+    "source": "TB"
+  },
+  {
+    "words": "The secret of joy and peace is sharing with others.",
+    "source": "TB"
+  },
+  {
+    "words": "Many a time they have afflicted me from my youth; Yet they have not prevailed against me.",
+    "source": "Psalm 129:2"
+  },
+  {
+    "words": "We are created to keep our hearts busy with the Lord. Keep your heart praising God - that is what you are created for.",
+    "source": "TB"
+  },
+  {
+    "words": "Everything done in God's time is EFFORTLESS.",
+    "source": "TB"
+  },
+  {
+    "words": "One can be a prophet but not according to the will of God",
+    "source": "TB"
+  },
+  {
+    "words": "Right knowledge of God settles peace.",
+    "source": "TB"
+  },
 ];
 
 /* 
