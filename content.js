@@ -1383,6 +1383,10 @@ let powerWords = [
     "words": "For jealousy is a husband's fury; Therefore he will not spare in the day of vengeance.",
     "source": "Prov 6:34"
   },
+  {
+    "words": "Then Jesus answered and said, while He taught in the temple, "How is it that the scribes say that the Christ is the Son of David?",
+    "source": "Mark 12:35"
+  },
 ];
 
 /* 
