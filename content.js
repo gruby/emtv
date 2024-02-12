@@ -1387,6 +1387,10 @@ let powerWords = [
     "words": "Then Jesus answered and said, while He taught in the temple, "How is it that the scribes say that the Christ is the Son of David?",
     "source": "Mark 12:35"
   },
+    {
+    "words": " saying with a loud voice: 'Worthy is the Lamb who was slain To receive power and riches and wisdom, And strength and honor and glory and blessing!'",
+    "source": "Rev 5:12"
+  },
 ];
 
 /* 
