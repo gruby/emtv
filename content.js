@@ -1211,6 +1211,30 @@ let powerWords = [
     "words": "To be spiritually fit you must be fit physically (it's our responsibility)",
     "source": "TB"
   },
+  {
+    "words": "There is no superstar in the ministry of the Holy Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "Where God wants us to be is where His mercy and His blessing is.",
+    "source": "TB"
+  },
+  {
+    "words": "Your coach has to have a PhD in persecution.",
+    "source": "TB"
+  },
+  {
+    "words": "If we want to be able to do great things, we need to have a great relationship.",
+    "source": "TB"
+  },
+  {
+    "words": "If you are in haste to achieve something, you are likely to make costly mistakes that will pull you back, if not down.",
+    "source": "TB"
+  },
+  {
+    "words": "When God Almighty is executing His plan in our lives, He also designs and arrange events which continues to unfold until His purpose is revealed in our lives.",
+    "source": "TB"
+  },
 ];
 
 /* 
