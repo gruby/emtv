@@ -1384,7 +1384,7 @@ let powerWords = [
     "source": "Prov 6:34"
   },
   {
-    "words": "Then Jesus answered and said, while He taught in the temple, "How is it that the scribes say that the Christ is the Son of David?",
+    "words": "Then Jesus answered and said, while He taught in the temple, 'How is it that the scribes say that the Christ is the Son of David?'",
     "source": "Mark 12:35"
   },
     {
