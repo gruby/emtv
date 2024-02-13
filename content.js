@@ -1395,6 +1395,10 @@ let powerWords = [
     "words": "Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test Solomon with hard questions, having a very great retinue, camels that bore spices, gold in abundance, and precious stones; and when she came to Solomon, she spoke with him about all that was in her heart.",
     "source": "2 Chr 1:9"
   },
+  {
+    "words": "The look on their countenance witnesses against them, And they declare their sin as Sodom; They do not hide it. Woe to their soul! For they have brought evil upon themselves.",
+    "source": "Is 3:9"
+  },
 ];
 
 /* 
