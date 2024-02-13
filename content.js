@@ -1241,7 +1241,7 @@ let powerWords = [
   },
   {
     "words": "And Mordecai told them to answer Esther: Do not think in your heart that you will escape in the king's palace any more than all the other Jews. For if you remain completely silent at this time, relief and deliverance will arise for the Jews from another place, but you and your father's house will perish. Yet who knows whether you have come to the kingdom for such a time as this?",
-    "source": "Esther 4:13-14"
+    "source": "Esth 4:13-14"
   },
   {
     "words": "Prayer changes us, faith changes things.",
@@ -1403,14 +1403,58 @@ let powerWords = [
     "words": "I acknowledged my sin to You, And my iniquity I have not hidden. I said, 'I will confess my transgressions to the LORD,' And You forgave the iniquity of my sin.",
     "source": "Ps 32:5"
   },
-];
-
+  {
+    "words": "God constantly puts us to test.",
+    "source": "TB"
+  },
+  {
+    "words": "Sin easily hides where there is no heat of trial.",
+    "source": "TB"
+  },
+  {
+    "words": "satan is afraid of lack of response after his attack. When men finish, God starts.",
+    "source": "TB"
+  },
+  {
+    "words": "Fear changes focus.",
+    "source": "TB"
+  },
+  {
+    "words": "Your concictency in faithfulness and prayer is the only way out.",
+    "source": "TB"
+  },
+  {
+    "words": "To pray in Spirit is to pray in compliance with Scripture",
+    "source": "TB"
+  },
+  {
+    "words": "Anything happens - WHY GOD?",
+    "source": "TB"
+  },
+  {
+    "words": "Our weapon is REPENTANCE.",
+    "source": "TB"
+  },
+  {
+    "words": "Infallibility comes from baptism in the Holy Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "I don't want to correct you more than once for the same thing.",
+    "source": "TB"
+  },
+  {
+    "words": "If God is with you, He will show you a picture of future you desire, not the future you fear. ",
+    "source": "TB"
+  },
+  
 /* 
-{
-      "words": "",
-      "source": ""
-    },
+  {
+    "words": "",
+    "source": ""
+  },
 */
+];
 
 function pickRandomQuote(q) {
   let pick = q[Math.floor(Math.random()*q.length)];
