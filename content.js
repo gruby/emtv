@@ -1391,6 +1391,10 @@ let powerWords = [
     "words": " saying with a loud voice: 'Worthy is the Lamb who was slain To receive power and riches and wisdom, And strength and honor and glory and blessing!'",
     "source": "Rev 5:12"
   },
+  {
+    "words": "Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test Solomon with hard questions, having a very great retinue, camels that bore spices, gold in abundance, and precious stones; and when she came to Solomon, she spoke with him about all that was in her heart.",
+    "source": "2 Chr 1:9"
+  },
 ];
 
 /* 
