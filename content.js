@@ -1400,7 +1400,7 @@ let powerWords = [
     "source": "Is 3:9"
   },
   {
-    "words": "I acknowledged my sin to You, And my iniquity I have not hidden. I said, "I will confess my transgressions to the LORD," And You forgave the iniquity of my sin.",
+    "words": "I acknowledged my sin to You, And my iniquity I have not hidden. I said, 'I will confess my transgressions to the LORD,' And You forgave the iniquity of my sin.",
     "source": "Ps 32:5"
   },
 ];
