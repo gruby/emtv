@@ -1399,6 +1399,10 @@ let powerWords = [
     "words": "The look on their countenance witnesses against them, And they declare their sin as Sodom; They do not hide it. Woe to their soul! For they have brought evil upon themselves.",
     "source": "Is 3:9"
   },
+  {
+    "words": "I acknowledged my sin to You, And my iniquity I have not hidden. I said, "I will confess my transgressions to the LORD," And You forgave the iniquity of my sin.",
+    "source": "Ps 32:5"
+  },
 ];
 
 /* 
