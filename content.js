@@ -1467,6 +1467,14 @@ let powerWords = [
     "words": "rather let it be the hidden person of the heart, with the incorruptible beauty of a gentle and quiet spirit, which is very precious in the sight of God.",
     "source": "1 Pet 3:4"
   },
+  {
+    "words": "Therefore, as the elect of God, holy and beloved, put on tender mercies, kindness, humility, meekness, longsuffering;",
+    "source": "Col 3:12"
+  },
+  {
+    "words": "But above all these things put on love, which is the bond of perfection.",
+    "source": "Col 3:14"
+  },
 /* 
   {
     "words": "",
