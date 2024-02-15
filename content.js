@@ -1447,7 +1447,14 @@ let powerWords = [
     "words": "If God is with you, He will show you a picture of future you desire, not the future you fear. ",
     "source": "TB"
   },
-  
+  {
+    "words": "And blessed is he who is not offended because of Me.",
+    "source": "Luke 7:23"
+  },
+  {
+    "words": "saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of thieves.’” And He was teaching daily in the temple. But the chief priests, the scribes, and the leaders of the people sought to destroy Him, and were unable to do anything; for all the people were very attentive to hear Him.",
+    "source": "Luke 19:46-48"
+  },  
 /* 
   {
     "words": "",
