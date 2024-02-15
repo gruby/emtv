@@ -1454,7 +1454,19 @@ let powerWords = [
   {
     "words": "saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of thieves.’” And He was teaching daily in the temple. But the chief priests, the scribes, and the leaders of the people sought to destroy Him, and were unable to do anything; for all the people were very attentive to hear Him.",
     "source": "Luke 19:46-48"
-  },  
+  },
+  {
+    "words": "while we do not look at the things which are seen, but at the things which are not seen. For the things which are seen are temporary, but the things which are not seen are eternal.",
+    "source": "2 Cor 4:18"
+  },
+  {
+    "words": "If I bear witness of Myself, My witness is not true.",
+    "source": "John 5:31"
+  },
+  {
+    "words": "rather let it be the hidden person of the heart, with the incorruptible beauty of a gentle and quiet spirit, which is very precious in the sight of God.",
+    "source": "1 Pet 3:4"
+  },
 /* 
   {
     "words": "",
