@@ -1,5 +1,11 @@
 let display = document.getElementById('displayDiv');
 let powerWords = [
+  /*
+  {
+    "words": "",
+    "source": ""
+  },
+  */
   {
     "words": "Godliness is not means of gain. From such withdraw yourself.",
     "source": "1 Tim 6:5"
@@ -1490,137 +1496,7 @@ let powerWords = [
   {
     "words": "(as it is written, “I have made you a father of many nations”) in the presence of Him whom he believed—God, who gives life to the dead and calls those things which do not exist as though they did;",
     "source": "Rom 4:17"
-  },
-/*
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-  {
-    "words": "",
-    "source": ""
-  },
-*/
+  }
 ];
 
 function pickRandomQuote(q) {
