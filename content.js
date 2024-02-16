@@ -1487,11 +1487,11 @@ let powerWords = [
     "words": "So the LORD said to Moses, 'I will also do this thing that you have spoken; for you have found grace in My sight, and I know you by name.'",
     "source": "Ex 33:17"
   },
-/* 
   {
-    "words": "",
-    "source": ""
+    "words": "(as it is written, “I have made you a father of many nations”) in the presence of Him whom he believed—God, who gives life to the dead and calls those things which do not exist as though they did;",
+    "source": "Rom 4:17"
   },
+/*
   {
     "words": "",
     "source": ""
