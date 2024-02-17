@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "A good man out of the good treasure of his heart brings forth good; and an evil man out of the evil treasure of his heart brings forth evil. For out of the abundance of the heart his mouth speaks.",
+    "source": "Luke 6:45"
+  },
+  {
     "words": "And if you call on the Father, who without partiality judges according to each one's work, conduct yourselves throughout the time of your stay here in fear;",
     "source": "1 Pet 1:17"
   },
