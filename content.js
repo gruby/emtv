@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
+    "source": "1 Pet 3:15"
+  },
+  {
     "words": "It is the right time that brings about the right person, not right person brings about the right time.",
     "source": "TB"
   },
