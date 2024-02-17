@@ -2,10 +2,14 @@ let display = document.getElementById('displayDiv');
 let powerWords = [
   /*
   {
+    "words": "And you will be hated by all for My name’s sake. But not a hair of your head shall be lost. By your patience possess your souls.",
+    "source": "Luke 21:17-19"
+  },
+  */
+  {
     "words": "",
     "source": ""
   },
-  */
   {
     "words": "So then faith comes by hearing, and hearing by the word of God.",
     "source": "Rom 10:17"
