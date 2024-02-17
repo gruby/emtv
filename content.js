@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
+    "source": "Prov 19:11"
+  },
+  {
     "words": "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry, although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did it ignorantly in unbelief.",
     "source": "1 Tim 1:12-13"
   },
