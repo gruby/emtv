@@ -1,11 +1,15 @@
 let display = document.getElementById('displayDiv');
 let powerWords = [
-  /*
+/*
   {
     "words": "",
     "source": ""
   },
 */
+  {
+    "words": "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry, although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did it ignorantly in unbelief.",
+    "source": "1 Tim 1:12-13"
+  },
   {
     "words": "And you will be hated by all for My name’s sake. But not a hair of your head shall be lost. By your patience possess your souls.",
     "source": "Luke 21:17-19"
