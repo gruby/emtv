@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And if you call on the Father, who without partiality judges according to each one's work, conduct yourselves throughout the time of your stay here in fear;",
+    "source": "1 Pet 1:17"
+  },
+  {
     "words": "And in that day you will say: O LORD, I will praise You; Though You were angry with me, Your anger is turned away, and You comfort me. Behold, God is my salvation, I will trust and not be afraid; For YAH, the LORD, is my strength and song; He also has become my salvation.",
     "source": "Is 12:1-2"
   },
