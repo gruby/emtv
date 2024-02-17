@@ -7,6 +7,10 @@ let powerWords = [
   },
   */
   {
+    "words": "So then faith comes by hearing, and hearing by the word of God.",
+    "source": "Rom 10:17"
+  },
+  {
     "words": "Godliness is not means of gain. From such withdraw yourself.",
     "source": "1 Tim 6:5"
   },
