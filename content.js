@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Nevertheless, neither is man independent of woman, nor woman independent of man, in the Lord.",
+    "source": "1 Cor 11:11"
+  },
+  {
     "words": "The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
     "source": "Prov 19:11"
   },
