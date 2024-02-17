@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And in that day you will say: O LORD, I will praise You; Though You were angry with me, Your anger is turned away, and You comfort me. Behold, God is my salvation, I will trust and not be afraid; For YAH, the LORD, is my strength and song; He also has become my salvation.",
+    "source": "Is 12:1-2"
+  },
+  {
     "words": "You shall do no injustice in judgment. You shall not be partial to the poor, nor honor the person of the mighty. In righteousness you shall judge your neighbor.",
     "source": "Lev 19:15"
   },
