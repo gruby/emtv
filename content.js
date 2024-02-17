@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For if you live according to the flesh you will die; but if by the Spirit you put to death the deeds of the body, you will live.",
+    "source": "Rom 8:13"
+  },
+  {
     "words": "But I want you to know that the head of every man is Christ, the head of woman is man, and the head of Christ is God.",
     "source": "1 Cor 11:3"
   },
