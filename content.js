@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But I want you to know that the head of every man is Christ, the head of woman is man, and the head of Christ is God.",
+    "source": "1 Cor 11:3"
+  },
+  {
     "words": "Nevertheless, neither is man independent of woman, nor woman independent of man, in the Lord.",
     "source": "1 Cor 11:11"
   },
