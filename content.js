@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "It is the right time that brings about the right person, not right person brings about the right time.",
+    "source": "TB"
+  },
+  {
+    "words": "The little you have now - if you can be content, it will grow. The moment you are content, you are leaving the battle for God.",
+    "source": "TB"
+  },
+  {
     "words": "O God, You are more awesome than Your holy places. The God of Israel is He who gives strength and power to His people.",
     "source": "Ps 68:35"
   },
