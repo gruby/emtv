@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "O God, You are more awesome than Your holy places. The God of Israel is He who gives strength and power to His people.",
+    "source": "Ps 68:35"
+  },
+  {
     "words": "These things indeed have an appearance of wisdom in self-imposed religion, false humility, and neglect of the body, but are of no value against the indulgence of the flesh.",
     "source": "Col 2:23"
   },
