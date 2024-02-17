@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "These things indeed have an appearance of wisdom in self-imposed religion, false humility, and neglect of the body, but are of no value against the indulgence of the flesh.",
+    "source": "Col 2:23"
+  },
+  {
     "words": "For if you live according to the flesh you will die; but if by the Spirit you put to death the deeds of the body, you will live.",
     "source": "Rom 8:13"
   },
