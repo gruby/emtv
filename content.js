@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "You shall do no injustice in judgment. You shall not be partial to the poor, nor honor the person of the mighty. In righteousness you shall judge your neighbor.",
+    "source": "Lev 19:15"
+  },
+  {
     "words": "But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
     "source": "1 Pet 3:15"
   },
