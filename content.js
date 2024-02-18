@@ -7,6 +7,18 @@ let powerWords = [
   },
 */
   {
+    "words": "So Moses' father-in-law said to him, "The thing that you do is not good.",
+    "source": "Ex 18:17"
+  },
+  {
+    "words": "Now the men were watching closely to see whether any sign of mercy would come from him; and they quickly grasped at this word and said, 'Your brother Ben-Hadad.' So he said, 'Go, bring him.' Then Ben-Hadad came out to him; and he had him come up into the chariot.",
+    "source": "1 Kin 20:33"
+  },
+  {
+    "words": "By pride comes nothing but strife, But with the well-advised is wisdom.",
+    "source": "Prov 13:10"
+  },
+  {
     "words": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
     "source": "1 Pet 1:22"
   },
