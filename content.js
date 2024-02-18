@@ -7,6 +7,22 @@ let powerWords = [
   },
 */
   {
+    "words": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; who once were not a people but are now the people of God, who had not obtained mercy but now have obtained mercy.",
+    "source": "1 Pet 2:9-10"
+  },
+  {
+    "words": "Coming to Him as to a living stone, rejected indeed by men, but chosen by God and precious, you also, as living stones, are being built up a spiritual house, a holy priesthood, to offer up spiritual sacrifices acceptable to God through Jesus Christ.",
+    "source": "1 Pet 2:4-5"
+  },
+  {
+    "words": "Now godliness with contentment is great gain. For we brought nothing into this world, and it is certain we can carry nothing out. And having food and clothing, with these we shall be content.",
+    "source": "1 Tim 6:6-8"
+  },
+  {
+    "words": "Do not lay hands on anyone hastily, nor share in other people’s sins; keep yourself pure.",
+    "source": "1 Tim 5:22"
+  },
+  {
     "words": "A good man out of the good treasure of his heart brings forth good; and an evil man out of the evil treasure of his heart brings forth evil. For out of the abundance of the heart his mouth speaks.",
     "source": "Luke 6:45"
   },
