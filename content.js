@@ -7,8 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "19 So then, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath;
-20 for the wrath of man does not produce the righteousness of God.",
+    "words": "So then, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath; for the wrath of man does not produce the righteousness of God.",
     "source": "James 1:19-20"
   },
   {
