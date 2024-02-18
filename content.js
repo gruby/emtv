@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "So Moses' father-in-law said to him, 'The thing that you do is not good.',
+    "words": "So Moses' father-in-law said to him, 'The thing that you do is not good.",
     "source": "Ex 18:17"
   },
   {
