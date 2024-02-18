@@ -7,6 +7,11 @@ let powerWords = [
   },
 */
   {
+    "words": "19 So then, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath;
+20 for the wrath of man does not produce the righteousness of God.",
+    "source": "James 1:19-20"
+  },
+  {
     "words": "But he answered, 'You shall not kill them. Would you kill those whom you have taken captive with your sword and your bow? Set food and water before them, that they may eat and drink and go to their master.' Then he prepared a great feast for them; and after they ate and drank, he sent them away and they went to their master. So the bands of Syrian raiders came no more into the land of Israel.",
     "source": "2 Kin 6:22-23"
   },
