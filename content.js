@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Since you have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,",
+    "source": "1 Pet 1:22"
+  },
+  {
     "words": "But you are a chosen generation, a royal priesthood, a holy nation, His own special people, that you may proclaim the praises of Him who called you out of darkness into His marvelous light; who once were not a people but are now the people of God, who had not obtained mercy but now have obtained mercy.",
     "source": "1 Pet 2:9-10"
   },
