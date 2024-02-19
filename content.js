@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Then Jesus said, 'Father, forgive them, for they do not know what they do.' And they divided His garments and cast lots. ",
+    "source": "Luke 23:34"
+  },
+  {
+    "words": "Enter by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and there are many who go in by it. Because narrow is the gate and difficult is the way which leads to life, and there are few who find it.",
+    "source": "Matt 7:13-14"
+  },
+  {
     "words": "Don't bring to God what you want to hear from Him.",
     "source": "TB"
   },
