@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Then he said, 'Take the arrows'; so he took them. And he said to the king of Israel, 'Strike the ground'; so he struck three times, and stopped. And the man of God was angry with him, and said, 'You should have struck five or six times; then you would have struck Syria till you had destroyed it! But now you will strike Syria only three times.'",
+    "source": "2 Kin 13:18-19"
+  },
+  {
     "words": "Then Jesus said, 'Father, forgive them, for they do not know what they do.' And they divided His garments and cast lots. ",
     "source": "Luke 23:34"
   },
