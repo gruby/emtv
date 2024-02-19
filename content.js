@@ -7,6 +7,42 @@ let powerWords = [
   },
 */
   {
+    "words": "Don't bring to God what you want to hear from Him.",
+    "source": "TB"
+  },
+  {
+    "words": "Worship must be pure. Sacrifice must be offered from a pure heart. ",
+    "source": "TB"
+  },
+  {
+    "words": "Faith comes when word prevails over thinking processes.",
+    "source": "TB"
+  },
+  {
+    "words": "When Jesus supports my position, there is consolation and strength in your weakness. ",
+    "source": "TB"
+  },
+  {
+    "words": "Use my situation oh Lord, to advance my cause. ",
+    "source": "TB"
+  },
+  {
+    "words": "You must be prepared in areas of mind, material, human management and self-control. ",
+    "source": "TB"
+  },
+  {
+    "words": "Work as if everything depends on you, pray as if everything depends on God.",
+    "source": "TB"
+  },
+  {
+    "words": "You must talk walk laugh as an overcomer.",
+    "source": "TB"
+  },
+  {
+    "words": "And it came to pass, when Joshua was by Jericho, that he lifted his eyes and looked, and behold, a Man stood opposite him with His sword drawn in His hand. And Joshua went to Him and said to Him, 'Are You for us or for our adversaries?' So He said, 'No, but as Commander of the army of the LORD I have now come.' And Joshua fell on his face to the earth and worshiped, and said to Him, 'What does my Lord say to His servant?",
+    "source": "Joshua 5:13-14"
+  },
+  {
     "words": "So then, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath; for the wrath of man does not produce the righteousness of God.",
     "source": "James 1:19-20"
   },
