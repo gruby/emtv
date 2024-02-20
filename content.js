@@ -7,8 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "The wicked in his proud countenance does not seek God;
-God is in none of his thoughts.",
+    "words": "The wicked in his proud countenance does not seek God; God is in none of his thoughts.",
     "source": "Ps 10:4"
   },
   {
