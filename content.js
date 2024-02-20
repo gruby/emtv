@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and was heard because of His godly fear, though He was a Son, yet He learned obedience by the things which He suffered. And having been perfected, He became the author of eternal salvation to all who obey Him, called by God as High Priest “according to the order of Melchizedek,”",
+    "source": "Heb 5:7-10"
+  },
+  {
     "words": "The wicked in his proud countenance does not seek God; God is in none of his thoughts.",
     "source": "Ps 10:4"
   },
