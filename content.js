@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!'",
+    "source": "Luke 11:13"
+  },
+  {
     "words": "If my heart has been enticed by a woman, Or if I have lurked at my neighbor's door, Then let my wife grind for another, And let others bow down over her.",
     "source": "Job 31:9-10"
   },
