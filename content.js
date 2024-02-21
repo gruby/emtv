@@ -7,6 +7,22 @@ let powerWords = [
   },
 */
   {
+    "words": "If my heart has been enticed by a woman, Or if I have lurked at my neighbor's door, Then let my wife grind for another, And let others bow down over her.",
+    "source": "Job 31:9-10"
+  },
+  {
+    "words": "For since, in the wisdom of God, the world through wisdom did not know God, it pleased God through the foolishness of the message preached to save those who believe.",
+    "source": "1 Cor 1:21"
+  },
+  {
+    "words": "The LORD was also angry with me for your sakes, saying, 'Even you shall not go in there.",
+    "source": "Deut 1:37"
+  },
+  {
+    "words": "Nor was man created for the woman, but woman for the man.",
+    "source": "1 Cor 11:9"
+  },
+  {
     "words": "For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin. Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need.",
     "source": "Heb 4:15-16"
   },
