@@ -7,6 +7,18 @@ let powerWords = [
   },
 */
   {
+    "words": "For if you return to the LORD, your brethren and your children will be treated with compassion by those who lead them captive, so that they may come back to this land; for the LORD your God is gracious and merciful, and will not turn His face from you if you return to Him.'",
+    "source": "2 Chr 30:9"
+  },
+  {
+    "words": "So Moses went down from the mountain to the people and sanctified the people, and they washed their clothes. And he said to the people, 'Be ready for the third day; do not come near your wives.'",
+    "source": "Ex 19:14-15"
+  },
+  {
+    "words": "Now we know that whatever the law says, it says to those who are under the law, that every mouth may be stopped, and all the world may become guilty before God. Therefore by the deeds of the law no flesh will be justified in His sight, for by the law is the knowledge of sin.",
+    "source": "Rom 3:19-20"
+  },
+  {
     "words": "who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and was heard because of His godly fear, though He was a Son, yet He learned obedience by the things which He suffered. And having been perfected, He became the author of eternal salvation to all who obey Him, called by God as High Priest “according to the order of Melchizedek,”",
     "source": "Heb 5:7-10"
   },
