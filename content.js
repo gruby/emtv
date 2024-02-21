@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For we do not have a High Priest who cannot sympathize with our weaknesses, but was in all points tempted as we are, yet without sin. Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need.",
+    "source": "Heb 4:15-16"
+  },
+  {
     "words": "Through You we will push down our enemies; Through Your name we will trample those who rise up against us.",
     "source": "Ps 44:5"
   },
