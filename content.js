@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Through You we will push down our enemies; Through Your name we will trample those who rise up against us.",
+    "source": "Ps 44:5"
+  },
+  {
     "words": "So Jesus said to them again, 'Peace to you! As the Father has sent Me, I also send you.' And when He had said this, He breathed on them, and said to them, 'Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.'",
     "source": "John 20:21-23"
   },
