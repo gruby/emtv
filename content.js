@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "So Jesus said to them again, 'Peace to you! As the Father has sent Me, I also send you.' And when He had said this, He breathed on them, and said to them, 'Receive the Holy Spirit. If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.'",
+    "source": "John 20:21-23"
+  },
+  {
     "words": "For if you return to the LORD, your brethren and your children will be treated with compassion by those who lead them captive, so that they may come back to this land; for the LORD your God is gracious and merciful, and will not turn His face from you if you return to Him.'",
     "source": "2 Chr 30:9"
   },
