@@ -11,6 +11,14 @@ let powerWords = [
     "source": ""
   },
   {
+    "words": "Do not be deceived: 'Evil company corrupts good habits.'",
+    "source": "1 Cor 15:33"
+  },
+  {
+    "words": "Then the fifth angel poured out his bowl on the throne of the beast, and his kingdom became full of darkness; and they gnawed their tongues because of the pain. They blasphemed the God of heaven because of their pains and their sores, and did not repent of their deeds.",
+    "source": "Rev 16:10-11"
+  },
+  {
     "words": "And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.",
     "source": "1 Cor 5:2"
   },
