@@ -11,6 +11,18 @@ let powerWords = [
     "source": ""
   },
   {
+    "words": "And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.",
+    "source": "1 Cor 5:2"
+  },
+  {
+    "words": "Do you not know that you are the temple of God and that the Spirit of God dwells in you? If anyone defiles the temple of God, God will destroy him. For the temple of God is holy, which temple you are.",
+    "source": "1 Cor 3:16-17"
+  },
+  {
+    "words": "So then neither he who plants is anything, nor he who waters, but God who gives the increase.",
+    "source": "1 Cor 3:7"
+  },
+  {
     "words": "God is not a man, that He should lie, Nor a son of man, that He should repent. Has He said, and will He not do? Or has He spoken, and will He not make it good?",
     "source": "Num 23:19"
   },
