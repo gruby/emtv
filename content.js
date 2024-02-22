@@ -14,6 +14,7 @@ let powerWords = [
     "words": "",
     "source": ""
   },
+  {
     "words": "",
     "source": ""
   },
