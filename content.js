@@ -7,6 +7,21 @@ let powerWords = [
   },
 */
   {
+    "words": "",
+    "source": ""
+  },
+  {
+    "words": "",
+    "source": ""
+  },
+    "words": "",
+    "source": ""
+  },
+  {
+    "words": "But of Him you are in Christ Jesus, who became for us wisdom from God—and righteousness and sanctification and redemption",
+    "source": "1 Cor 1:30"
+  },
+  {
     "words": "If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!'",
     "source": "Luke 11:13"
   },
