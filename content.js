@@ -11,12 +11,12 @@ let powerWords = [
     "source": ""
   },
   {
-    "words": "",
-    "source": ""
+    "words": "God is not a man, that He should lie, Nor a son of man, that He should repent. Has He said, and will He not do? Or has He spoken, and will He not make it good?",
+    "source": "Num 23:19"
   },
   {
-    "words": "",
-    "source": ""
+    "words": "And balaam said to Balak, 'Look, I have come to you! Now, have I any power at all to say anything? The word that God puts in my mouth, that I must speak.",
+    "source": "Num 22:38"
   },
   {
     "words": "But of Him you are in Christ Jesus, who became for us wisdom from God—and righteousness and sanctification and redemption",
