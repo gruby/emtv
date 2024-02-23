@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Let integrity and uprightness preserve me, For I wait for You.",
+    "source": "Ps 25:21"
+  },
+  {
+    "words": "And He Himself is the propitiation for our sins, and not for ours only but also for the whole world.",
+    "source": "1 John 2:2"
+  },
+  {
     "words": "He said to him, 'I too am a prophet as you are, and an angel spoke to me by the word of the LORD, saying, 'Bring him back with you to your house, that he may eat bread and drink water.'' (He was lying to him.)",
     "source": "1 Kin 13:18"
   },
