@@ -7,6 +7,26 @@ let powerWords = [
   },
 */
   {
+    "words": "Rejoice the soul of Your servant, For to You, O Lord, I lift up my soul.",
+    "source": "Ps 86:4"
+  },
+  {
+    "words": "God has spoken once, Twice I have heard this: That power belongs to God.",
+    "source": "Ps 62:11"
+  },
+  {
+    "words": "The LORD will give strength to His people; The LORD will bless His people with peace.",
+    "source": "Ps 29:11"
+  },
+  {
+    "words": "Thus they have rewarded me evil for good, And hatred for my love.",
+    "source": "Ps 109:5"
+  },
+  {
+    "words": "They have closed up their fat hearts; With their mouths they speak proudly.",
+    "source": "Ps 17:10"
+  },
+  {
     "words": "Let integrity and uprightness preserve me, For I wait for You.",
     "source": "Ps 25:21"
   },
