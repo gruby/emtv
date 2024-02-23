@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "He said to him, 'I too am a prophet as you are, and an angel spoke to me by the word of the LORD, saying, 'Bring him back with you to your house, that he may eat bread and drink water.'' (He was lying to him.)",
+    "source": "1 Kin 13:18"
+  },
+  {
     "words": "For if we would judge ourselves, we would not be judged.",
     "source": "1 Cor 11:31"
   },
