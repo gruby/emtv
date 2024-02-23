@@ -7,8 +7,8 @@ let powerWords = [
   },
 */
   {
-    "words": "",
-    "source": ""
+    "words": "In those days Hezekiah was sick and near death, and he prayed to the Lord; and He spoke to him and gave him a sign. But Hezekiah did not repay according to the favor shown him, for his heart was lifted up; therefore wrath was looming over him and over Judah and Jerusalem.",
+    "source": "2 Chr 32:24-25"
   },
   {
     "words": "Do not be deceived: 'Evil company corrupts good habits.'",
