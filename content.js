@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "For the ear tests words As the palate tastes food.",
+    "source": "Job 34:3"
+  },
+  {
+    "words": "Then it shall be, if you heed all that I command you, walk in My ways, and do what is right in My sight, to keep My statutes and My commandments, as My servant David did, then I will be with you and build for you an enduring house, as I built for David, and will give Israel to you.",
+    "source": "1 Kin 11:38"
+  },
+  {
     "words": "A woman shall not wear anything that pertains to a man, nor shall a man put on a woman's garment, for all who do so are an abomination to the LORD your God.",
     "source": "Deut 22:5"
   },
