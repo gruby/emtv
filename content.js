@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But Jesus called them to Himself and said, 'You know that the rulers of the Gentiles lord it over them, and those who are great exercise authority over them. Yet it shall not be so among you; but whoever desires to become great among you, let him be your servant. And whoever desires to be first among you, let him be your slave--just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.'",
+    "source": "Matt 20:25-28"
+  },
+  {
     "words": "Rejoice the soul of Your servant, For to You, O Lord, I lift up my soul.",
     "source": "Ps 86:4"
   },
