@@ -2,10 +2,14 @@ let display = document.getElementById('displayDiv');
 let powerWords = [
 /*
   {
-    "words": "",
+    "words": "But first He must suffer many things and be rejected by this generation.",
     "source": ""
   },
 */
+  {
+    "words": "",
+    "source": "Luke 17:25"
+  },
   {
     "words": "But Peter and the other apostles answered and said: 'We ought to obey God rather than men. The God of our fathers raised up Jesus whom you murdered by hanging on a tree. Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins. And we are His witnesses to these things, and so also is the Holy Spirit whom God has given to those who obey Him.",
     "source": "Acts 5:29-32"
