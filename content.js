@@ -2,12 +2,12 @@ let display = document.getElementById('displayDiv');
 let powerWords = [
 /*
   {
-    "words": "But first He must suffer many things and be rejected by this generation.",
+    "words": "",
     "source": ""
   },
 */
   {
-    "words": "",
+    "words": "But first He must suffer many things and be rejected by this generation.",
     "source": "Luke 17:25"
   },
   {
