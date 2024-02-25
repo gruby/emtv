@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Sometimes you will see me fixing my buttons while I run...",
+    "source": "TB"
+  },
+  {
     "words": "But first He must suffer many things and be rejected by this generation.",
     "source": "Luke 17:25"
   },
