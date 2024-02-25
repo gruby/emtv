@@ -7,6 +7,18 @@ let powerWords = [
   },
 */
   {
+    "words": "But Peter and the other apostles answered and said: 'We ought to obey God rather than men. The God of our fathers raised up Jesus whom you murdered by hanging on a tree. Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins. And we are His witnesses to these things, and so also is the Holy Spirit whom God has given to those who obey Him.",
+    "source": "Acts 5:29-32"
+  },
+  {
+    "words": "to speak evil of no one, to be peaceable, gentle, showing all humility to all men. For we ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another. But when the kindness and the love of God our Savior toward man appeared, not by works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit, whom He poured out on us abundantly through Jesus Christ our Savior,",
+    "source": "Tit 3:2-6"
+  },
+  {
+    "words": "So the Lord said, 'If you have faith as a mustard seed, you can say to this mulberry tree, 'Be pulled up by the roots and be planted in the sea,' and it would obey you.",
+    "source": "Luke 17:6"
+  },
+  {
     "words": "For the ear tests words As the palate tastes food.",
     "source": "Job 34:3"
   },
