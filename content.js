@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Everything big starts little.",
+    "source": "TB"
+  },
+  {
+    "words": "You only fast when you have a problem. I fast to understand vision or dream. To know the God's opinion. To receive words to pray from the Holy Spirit",
+    "source": "TB"
+  },
+  {
     "words": "But to the wicked God says: 'What right have you to declare My statutes, Or take My covenant in your mouth, Seeing you hate instruction And cast My words behind you? When you saw a thief, you consented with him, And have been a partaker with adulterers. You give your mouth to evil, And your tongue frames deceit. You sit and speak against your brother; You slander your own mother’s son.",
     "source": "Ps 50:16-20"
   },
