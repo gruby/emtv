@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "We want you to take it as your assignment...",
+    "source": "TB"
+  },
+  {
     "words": "Everything big starts little.",
     "source": "TB"
   },
