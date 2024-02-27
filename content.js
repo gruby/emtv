@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "If one man sins against another, God will judge him. But if a man sins against the Lord, who will intercede for him?” Nevertheless they did not heed the voice of their father, because the Lord desired to kill them.",
+    "source": "1 Sam 2:25"
+  },
+  {
     "words": "We want you to take it as your assignment...",
     "source": "TB"
   },
