@@ -7,8 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Shall the throne of iniquity, which devises evil by law,
-Have fellowship with You?",
+    "words": "Shall the throne of iniquity, which devises evil by law, Have fellowship with You?",
     "source": "Ps 94:20"
   },
   {
