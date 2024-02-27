@@ -1815,7 +1815,7 @@ let powerWords = [
   },
   {
     "words": "But he shall not multiply horses for himself, nor cause the people to return to Egypt to multiply horses, for the Lord has said to you, ‘You shall not return that way again.’ Neither shall he multiply wives for himself, lest his heart turn away; nor shall he greatly multiply silver and gold for himself. Also it shall be, when he sits on the throne of his kingdom, that he shall write for himself a copy of this law in a book, from the one before the priests, the Levites. And it shall be with him, and he shall read it all the days of his life, that he may learn to fear the Lord his God and be careful to observe all the words of this law and these statutes, that his heart may not be lifted above his brethren, that he may not turn aside from the commandment to the right hand or to the left, and that he may prolong his days in his kingdom, he and his children in the midst of Israel.",
-    "source": "Deut 17 16-20"
+    "source": "Deut 17:16-20"
   },
   {
     "words": "So the LORD said to Moses, 'I will also do this thing that you have spoken; for you have found grace in My sight, and I know you by name.'",
