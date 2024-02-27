@@ -7,6 +7,16 @@ let powerWords = [
   },
 */
   {
+    "words": "But to the wicked God says:
+'What right have you to declare My statutes, Or take My covenant in your mouth, Seeing you hate instruction
+And cast My words behind you? When you saw a thief, you consented with him, And have been a partaker with adulterers. You give your mouth to evil, And your tongue frames deceit. You sit and speak against your brother; You slander your own mother’s son.",
+    "source": "Ps 50:16-20"
+  },
+  {
+    "words": "Gather My saints together to Me, Those who have made a covenant with Me by sacrifice.",
+    "source": "Ps 50:5"
+  },
+  {
     "words": "Shall the throne of iniquity, which devises evil by law, Have fellowship with You?",
     "source": "Ps 94:20"
   },
