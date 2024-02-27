@@ -7,6 +7,15 @@ let powerWords = [
   },
 */
   {
+    "words": "Shall the throne of iniquity, which devises evil by law,
+Have fellowship with You?",
+    "source": "Ps 94:20"
+  },
+  {
+    "words": "By faith we understand that the worlds were framed by the word of God, so that the things which are seen were not made of things which are visible.",
+    "source": "Heb 11:3"
+  },
+  {
     "words": "Sometimes you will see me fixing my buttons while I run...",
     "source": "TB"
   },
