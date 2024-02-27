@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "So Samuel grew, and the Lord was with him and let none of his words fall to the ground.",
+    "source": "1 Sam 3:19"
+  },
+  {
+    "words": "Then I will raise up for Myself a faithful priest who shall do according to what is in My heart and in My mind. I will build him a sure house, and he shall walk before My anointed forever.",
+    "source": "1 Sam 2:35"
+  },
+  {
     "words": "If one man sins against another, God will judge him. But if a man sins against the Lord, who will intercede for him?” Nevertheless they did not heed the voice of their father, because the Lord desired to kill them.",
     "source": "1 Sam 2:25"
   },
