@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But I tell you truly, there are some standing here who shall not taste death till they see the kingdom of God.",
+    "source": "Luke 9:27"
+  },
+  {
     "words": "So Samuel grew, and the Lord was with him and let none of his words fall to the ground.",
     "source": "1 Sam 3:19"
   },
