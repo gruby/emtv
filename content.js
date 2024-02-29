@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "They soon forgot His works; They did not wait for His counsel, But lusted exceedingly in the wilderness, And tested God in the desert. And He gave them their request, But sent leanness into their soul.",
+    "source": "Ps 106:13-15"
+  },
+  {
     "words": "Blows that hurt cleanse away evil, As do stripes the inner depths of the heart.",
     "source": "Prov 20:30"
   },
