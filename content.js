@@ -15,7 +15,7 @@ let powerWords = [
     "source": "Prov 20:28"
   },
   {
-    "words": "8 A king who sits on the throne of judgment Scatters all evil with his eyes.",
+    "words": "A king who sits on the throne of judgment Scatters all evil with his eyes.",
     "source": "Prov 20:8"
   },
   {
