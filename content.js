@@ -7,6 +7,18 @@ let powerWords = [
   },
 */
   {
+    "words": "Blows that hurt cleanse away evil, As do stripes the inner depths of the heart.",
+    "source": "Prov 20:30"
+  },
+  {
+    "words": "Mercy and truth preserve the king, And by lovingkindness he upholds his throne.",
+    "source": "Prov 20:28"
+  },
+  {
+    "words": "8 A king who sits on the throne of judgment Scatters all evil with his eyes.",
+    "source": "Prov 20:8"
+  },
+  {
     "words": "But I tell you truly, there are some standing here who shall not taste death till they see the kingdom of God.",
     "source": "Luke 9:27"
   },
