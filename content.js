@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Give us help from trouble, For the help of man is useless.",
+    "source": "Ps 108:12"
+  },
+  {
     "words": "They soon forgot His works; They did not wait for His counsel, But lusted exceedingly in the wilderness, And tested God in the desert. And He gave them their request, But sent leanness into their soul.",
     "source": "Ps 106:13-15"
   },
