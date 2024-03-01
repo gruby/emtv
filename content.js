@@ -7,11 +7,11 @@ let powerWords = [
   },
 */
   {
-    "words": "How many of you hear from God? Pray? You hear "fast" - you drop everything; even when you are eating, you hear "fast", you just drop the food.",
+    "words": "How many of you hear from God? Pray? You hear 'fast' - you drop everything; even when you are eating, you hear 'fast', you just drop the food.",
     "source": "TB"
   },
   {
-    "words": "How can the Word join the Spirit? If the Spirit does not give the Word, you are speaking to yourself. If you say, "Be healed" without Spirit suggestion, you are talking to yourself. Your confession cannot give you possession, without the Spirit giving that Word.",
+    "words": "How can the Word join the Spirit? If the Spirit does not give the Word, you are speaking to yourself. If you say, 'Be healed' without Spirit suggestion, you are talking to yourself. Your confession cannot give you possession, without the Spirit giving that Word.",
     "source": "TB"
   },
   {
