@@ -1,4 +1,3 @@
- let display = document.getElementById('displayDiv');
 let powerWords = [
 /*
   {
@@ -1898,6 +1897,8 @@ let powerWords = [
     "source": "Rom 4:17"
   }
 ];
+
+let display = document.getElementById('displayDiv');
 
 function pickRandomQuote(q) {
   let pick = q[Math.floor(Math.random()*q.length)];
