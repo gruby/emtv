@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "If you give anything without love, it cannot prosper the beneficiary",
+    "source": "TB"
+  },
+  {
     "words": "But I will spare a few of their men from the sword, from famine, and from pestilence, that they may declare all their abominations among the Gentiles wherever they go. Then they shall know that I am the LORD.",
     "source": "Ezek 12:16"
   },
