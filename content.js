@@ -1900,16 +1900,10 @@ let powerWords = [
 
 let display = document.getElementById('displayDiv');
 
-function pickRandomQuote(q) {
-  let pick = q[Math.floor(Math.random()*q.length)];
-  return pick
-}
-
 display.onclick = () => {
-  let picked = pickRandomQuote(powerWords)
-  let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>' //+ powerWords.indexOf(picked)
+  let ran = Math.floor(Math.random() * powerWords.length );
+  let picked = powerWords[ran];
+  powerWords.splice(ran,1)
+  let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
   display.innerHTML = forDiplay;
-  //let words = []  
-  //powerWords.forEach((e) => words.push(e.source+'</br>'))
-  //display.innerHTML = words.sort();
 }
