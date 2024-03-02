@@ -1,4 +1,4 @@
-let display = document.getElementById('displayDiv');
+ let display = document.getElementById('displayDiv');
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": ""
   },
 */
+  {
+    "words": "But I will spare a few of their men from the sword, from famine, and from pestilence, that they may declare all their abominations among the Gentiles wherever they go. Then they shall know that I am the LORD.",
+    "source": "Ezek 12:16"
+  },
   {
     "words": "How many of you hear from God? Pray? You hear 'fast' - you drop everything; even when you are eating, you hear 'fast', you just drop the food.",
     "source": "TB"
