@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Anyone can cry, but only a cry born of faith can attract the man of God.",
+    "source": "TB MIRROR"
+  },
+  {
     "words": "If you give anything without love, it cannot prosper the beneficiary",
     "source": "TB"
   },
