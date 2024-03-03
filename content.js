@@ -6,6 +6,11 @@ let powerWords = [
   },
 */
   {
+    "words": "James later recalled 'When he laid his hands upon me I felt as if a
+dozen hands were placed all over my body, and I felt every bone going back into place. I was instantly released and I was completely healed.",
+    "source": "GG GEORGE JEFFREYS"
+  },
+  {
     "words": "Anyone can cry, but only a cry born of faith can attract the man of God.",
     "source": "TB MIRROR"
   },
