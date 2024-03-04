@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And if you call on the Father, who without partiality judges according to each one’s work, conduct yourselves throughout the time of your stay here in fear; knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+    "source": "1 Pet 1:17-19"
+  },
+  {
     "words": "James later recalled 'When he laid his hands upon me I felt as if a dozen hands were placed all over my body, and I felt every bone going back into place. I was instantly released and I was completely healed.",
     "source": "GG GEORGE JEFFREYS"
   },
