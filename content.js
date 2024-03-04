@@ -6,6 +6,14 @@ let powerWords = [
   },
 */
   {
+    "words": "When you are desperate, you don't mind where the solution comes from. ",
+    "source": "TB"
+  },
+  {
+    "words": "Now there was a famine in the days of David for three years, year after year; and David inquired of the LORD. And the LORD answered, 'It is because of Saul and his bloodthirsty house, because he killed the Gibeonites.' So the king called the Gibeonites and spoke to them. Now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; the children of Israel had sworn protection to them, but Saul had sought to kill them in his zeal for the children of Israel and Judah.",
+    "source": "1 Sam 21:1-2"
+  },
+  {
     "words": "And if you call on the Father, who without partiality judges according to each one’s work, conduct yourselves throughout the time of your stay here in fear; knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.",
     "source": "1 Pet 1:17-19"
   },
