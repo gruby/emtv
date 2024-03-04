@@ -6,6 +6,22 @@ let powerWords = [
   },
 */
   {
+    "words": "Until you experience Jesus, there would be dissatisfaction in your life. ",
+    "source": "TB"
+  },
+  {
+    "words": "Man without mystery will always be controlled by possession. ",
+    "source": "TB"
+  },
+  {
+    "words": "Keep your mystery - it is a grace to protect you. When they don't understand you, all their plans to set you up will fail.",
+    "source": "TB"
+  },
+  {
+    "words": "Those who dodge tests are postponing the evil day.",
+    "source": "TB"
+  },
+  {
     "words": "When you are desperate, you don't mind where the solution comes from. ",
     "source": "TB"
   },
