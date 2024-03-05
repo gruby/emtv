@@ -6,6 +6,38 @@ let powerWords = [
   },
 */
   {
+    "words": "Saying 'I am born again' - it is hypocrisy. We can read that from your life.",
+    "source": "TB"
+  },
+  {
+    "words": "Power to walk among scorpions - we are not aware of our whereabouts.",
+    "source": "TB"
+  },
+  {
+    "words": "If help is not sanctioned by God - it will not help you.",
+    "source": "TB"
+  },
+  {
+    "words": "Being born-again is the priviledge to have the Creator to assist you.",
+    "source": "TB"
+  },
+  {
+    "words": "It is not body that is dreaming - it is the spirit. ",
+    "source": "TB"
+  },
+  {
+    "words": "You know you are born-again when everything becomes different. You think and dream differently. ",
+    "source": "TB"
+  },
+  {
+    "words": "The hightest motive to serve God is to please Him. ",
+    "source": "TB"
+  },
+  {
+    "words": "If you are born-again, your pain will prepare you for an extraordinary service. ",
+    "source": "TB"
+  },
+  {
     "words": "Until you experience Jesus, there would be dissatisfaction in your life. ",
     "source": "TB"
   },
