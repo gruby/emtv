@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But I want you to be without care. He who is unmarried cares for the things of the Lord--how he may please the Lord.",
+    "source": "1 Cor 7:32"
+  },
+  {
     "words": "For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all.",
     "source": "James 2:10"
   },
