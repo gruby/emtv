@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "No weapon formed against you shall prosper, And every tongue which rises against you in judgment You shall condemn. This is the heritage of the servants of the Lord, And their righteousness is from Me,” Says the Lord.",
+    "source": "Is 54:17"
+  },
+  {
     "words": "Saying 'I am born again' - it is hypocrisy. We can read that from your life.",
     "source": "TB"
   },
