@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For whoever shall keep the whole law, and yet stumble in one point, he is guilty of all.",
+    "source": "James 2:10"
+  },
+  {
     "words": "No weapon formed against you shall prosper, And every tongue which rises against you in judgment You shall condemn. This is the heritage of the servants of the Lord, And their righteousness is from Me,” Says the Lord.",
     "source": "Is 54:17"
   },
