@@ -6,6 +6,22 @@ let powerWords = [
   },
 */
   {
+    "words": "And so it is written, 'The first man Adam became a living being.' The last Adam became a life-giving spirit.",
+  "source": "1 Cor 15:45"
+  },
+  {
+    "words": "The sting of death is sin, and the strength of sin is the law.",
+    "source": "1 Cor 15:56"
+  },
+  {
+    "words": "And my speech and my preaching were not with persuasive words of human wisdom, but in demonstration of the Spirit and of power, that your faith should not be in the wisdom of men but in the power of God.",
+    "source": "1 Cor 2:4-5"
+  },
+  {
+    "words": "But I discipline my body and bring it into subjection, lest, when I have preached to others, I myself should become disqualified.",
+    "source": "1 Cor 9:27"
+  },
+  {
     "words": "But I want you to be without care. He who is unmarried cares for the things of the Lord--how he may please the Lord.",
     "source": "1 Cor 7:32"
   },
