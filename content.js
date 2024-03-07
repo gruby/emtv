@@ -6,6 +6,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Now in the morning, having risen a long while before daylight, He went out and departed to a solitary place; and there He prayed.",
+    "source": "Mark 1:35"
+  },
+  {
+    "words": "Now concerning the things of which you wrote to me: It is good for a man not to touch a woman.",
+    "source": "1 Cor 7:1"
+  },
+  {
     "words": "And so it is written, 'The first man Adam became a living being.' The last Adam became a life-giving spirit.",
   "source": "1 Cor 15:45"
   },
