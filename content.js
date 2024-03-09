@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For the gifts and the calling of God are irrevocable.",
+    "source": "Rom 11:29"
+  },
+  {
     "words": "Now in the morning, having risen a long while before daylight, He went out and departed to a solitary place; and there He prayed.",
     "source": "Mark 1:35"
   },
