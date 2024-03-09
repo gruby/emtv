@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?",
+    "source": "Rom 6:3"
+  },
+  {
     "words": "For the gifts and the calling of God are irrevocable.",
     "source": "Rom 11:29"
   },
