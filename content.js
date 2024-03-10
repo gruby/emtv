@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But these, like natural brute beasts made to be caught and destroyed, speak evil of the things they do not understand, and will utterly perish in their own corruption,",
+    "source": "2 Pet 2:12"
+  },
+  {
     "words": "Or do you not know that as many of us as were baptized into Christ Jesus were baptized into His death?",
     "source": "Rom 6:3"
   },
