@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Consider the work of God; For who can make straight what He has made crooked?",
+    "source": "Eccl 7:13"
+  },
+  {
     "words": "But these, like natural brute beasts made to be caught and destroyed, speak evil of the things they do not understand, and will utterly perish in their own corruption,",
     "source": "2 Pet 2:12"
   },
