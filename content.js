@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Truly, this only I have found: That God made man upright, But they have sought out many schemes.",
+    "source": "Eccl 7:29"
+  },
+  {
     "words": "Consider the work of God; For who can make straight what He has made crooked?",
     "source": "Eccl 7:13"
   },
