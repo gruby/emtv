@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "knowing this first, that no prophecy of Scripture is of any private interpretation, for prophecy never came by the will of man, but holy men of God spoke as they were moved by the Holy Spirit.",
+    "source": "2 Pet 1:20-21"
+  },
+  {
     "words": "Truly, this only I have found: That God made man upright, But they have sought out many schemes.",
     "source": "Eccl 7:29"
   },
