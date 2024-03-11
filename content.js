@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But love your enemies, do good, and lend, hoping for nothing in return; and your reward will be great, and you will be sons of the Most High. For He is kind to the unthankful and evil.",
+    "source": "Luke 6:35"
+  },
+  {
     "words": "knowing this first, that no prophecy of Scripture is of any private interpretation, for prophecy never came by the will of man, but holy men of God spoke as they were moved by the Holy Spirit.",
     "source": "2 Pet 1:20-21"
   },
