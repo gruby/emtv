@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And He who sent Me is with Me. The Father has not left Me alone, for I always do those things that please Him.",
+    "source": "John 8:29"
+  },
+  {
     "words": "But love your enemies, do good, and lend, hoping for nothing in return; and your reward will be great, and you will be sons of the Most High. For He is kind to the unthankful and evil.",
     "source": "Luke 6:35"
   },
