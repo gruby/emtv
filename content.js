@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Woe to you lawyers! For you have taken away the key of knowledge. You did not enter in yourselves, and those who were entering in you hindered.",
+    "source": "Luke 11:52"
+  },
+  {
     "words": "Where there is no revelation, the people cast off restraint; But happy is he who keeps the law. A servant will not be corrected by mere words; For though he understands, he will not respond.",
     "source": "Prov 29:18-19"
   },
