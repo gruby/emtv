@@ -6,6 +6,18 @@ let powerWords = [
   },
 */
   {
+    "words": "Where there is no revelation, the people cast off restraint; But happy is he who keeps the law. A servant will not be corrected by mere words; For though he understands, he will not respond.",
+    "source": "Prov 29:18-19"
+  },
+  {
+    "words": "He who trusts in his own heart is a fool, But whoever walks wisely will be delivered.",
+    "source": "Prov 28:26"
+  },
+  {
+    "words": "Happy is the man who is always reverent, But he who hardens his heart will fall into calamity.",
+    "source": "Prov 28:14"
+  },
+  {
     "words": "And He who sent Me is with Me. The Father has not left Me alone, for I always do those things that please Him.",
     "source": "John 8:29"
   },
