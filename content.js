@@ -6,6 +6,22 @@ let powerWords = [
   },
 */
   {
+    "words": "For God will bring every work into judgment, Including every secret thing, Whether good or evil.",
+    "source": "Eccl 12:14"
+  },
+  {
+    "words": "For God gives wisdom and knowledge and joy to a man who is good in His sight; but to the sinner He gives the work of gathering and collecting, that he may give to him who is good before God. This also is vanity and grasping for the wind.",
+    "source": "Eccl 2:26"
+  },
+  {
+    "words": "No one has power over the spirit to retain the spirit, And no one has power in the day of death. There is no release from that war, And wickedness will not deliver those who are given to it.",
+    "source": "Eccl 8:8"
+  },
+  {
+    "words": "The fear of the LORD leads to life, And he who has it will abide in satisfaction; He will not be visited with evil.",
+    "source": "Prov 19:23"
+  },
+  {
     "words": "Woe to you lawyers! For you have taken away the key of knowledge. You did not enter in yourselves, and those who were entering in you hindered.",
     "source": "Luke 11:52"
   },
