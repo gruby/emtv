@@ -6,6 +6,14 @@ let powerWords = [
   },
 */
   {
+    "words": "The eyes of the LORD are in every place, Keeping watch on the evil and the good.",
+    "source": "Prov 15:3"
+  },
+  {
+    "words": "Do not be wise in your own eyes; Fear the LORD and depart from evil.",
+    "source": "Prov 3:7"
+  },
+  {
     "words": "For God will bring every work into judgment, Including every secret thing, Whether good or evil.",
     "source": "Eccl 12:14"
   },
