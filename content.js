@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "They removed miracles from my program. Then I went to the mountain, and God said 'Yes, I want you to discover yourself'.",
+    "source": "TB"
+  },
+  {
     "words": "The eyes of the LORD are in every place, Keeping watch on the evil and the good.",
     "source": "Prov 15:3"
   },
