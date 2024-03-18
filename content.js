@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For to me, to live is Christ, and to die is gain.",
+    "source": "Phil 1:21"
+  },
+  {
     "words": "They removed miracles from my program. Then I went to the mountain, and God said 'Yes, I want you to discover yourself'.",
     "source": "TB"
   },
