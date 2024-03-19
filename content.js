@@ -6,6 +6,14 @@ let powerWords = [
   },
 */
   {
+    "words": "When Jesus therefore saw His mother, and the disciple whom He loved standing by, He said to His mother, “Woman, behold your son!”",
+    "source": "John 19:26"
+  },
+  {
+    "words": "'- I am archbishop...','It is a man of God. There is no trace of evil in him'.",
+    "source": "TB"
+  },
+  {
     "words": "For to me, to live is Christ, and to die is gain.",
     "source": "Phil 1:21"
   },
