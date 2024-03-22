@@ -6,6 +6,18 @@ let powerWords = [
   },
 */
   {
+    "words": "",
+    "source": ""
+  },
+  {
+    "words": "Whatever affliction comes, take it to God for His opinion.",
+    "source": "TB"
+  },
+  {
+    "words": "Nothing of our appearance can cover our sin.",
+    "source": "TB"
+  },
+  {
     "words": "When Jesus therefore saw His mother, and the disciple whom He loved standing by, He said to His mother, “Woman, behold your son!”",
     "source": "John 19:26"
   },
