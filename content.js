@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Whether world scoffs us or praises us - it is our enemy.",
+    "source": "TB"
+  },
+  {
     "words": "Whatever I command you, be careful to observe it; you shall not add to it nor take away from it.",
     "source": "Deut 12:32"
   },
