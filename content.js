@@ -6,6 +6,34 @@ let powerWords = [
   },
 */
   {
+    "words": "Humility will not do anything without asking Jesus.",
+    "source": "TB"
+  },
+  {
+    "words": "Bad feelings towards anyone is a reason of fear.",
+    "source": "TB"
+  },
+  {
+    "words": "To saw love in the Spirit is honoring God.",
+    "source": "TB"
+  },
+  {
+    "words": "Controlling your meditation while reading the Bible gives ability to control your conduct and your speech.",
+    "source": "TB"
+  },
+  {
+    "words": "Feeding on the Word is feeding on God's very life.",
+    "source": "TB"
+  },
+  {
+    "words": "Heart that is busy cannot focus.",
+    "source": "TB"
+  },
+  {
+    "words": "We always defend our bitterness to justify our reason.",
+    "source": "TB"
+  },
+  {
     "words": "Whether world scoffs us or praises us - it is our enemy.",
     "source": "TB"
   },
