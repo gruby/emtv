@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "You are baptized already. \n Maybe you will at last understand.",
+    "source": "BR Daniel"
+  },
+  {
     "words": "Humility will not do anything without asking Jesus.",
     "source": "TB"
   },
