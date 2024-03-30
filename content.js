@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Saul vs David? Purity of repentance.",
+    "source": "RB"
+  },
+  {
     "words": "You are baptized already. \n Maybe you will at last understand.",
     "source": "BR Daniel"
   },
