@@ -6,7 +6,11 @@ let powerWords = [
   },
 */
   {
-    "words": "Suffering from obiedience glorifies us. ",
+    "words": "Don't allow your situation to determine what you are praying for.",
+    "source": "TB"
+  },
+  {
+    "words": "Suffering from obiedience glorifies us.",
     "source": "EV"
   },
   {
