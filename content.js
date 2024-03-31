@@ -4,7 +4,11 @@ let powerWords = [
     "words": "",
     "source": ""
   },
-*/  
+*/
+  {
+    "words": "Suffering from obiedience glorifies us. ",
+    "source": "EV"
+  },
   {
     "words": "Yes, and all who desire to live godly in Christ Jesus will suffer persecution.",
     "source": "2 Tim 3:12"
