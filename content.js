@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "When you are born again, you can pray and you will be healed of your sickness. But when you have a demon, you need a man of God to deliver you.",
+    "source": "TB"
+  },
+  {
     "words": "There is a time to send our petition to God, and there is time to sit back and listen to what God has to say.",
     "source": "TB"
   },
