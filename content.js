@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "There is a time to send our petition to God, and there is time to sit back and listen to what God has to say.",
+    "source": "TB"
+  },
+  {
     "words": "Don't allow your situation to determine what you are praying for.",
     "source": "TB"
   },
