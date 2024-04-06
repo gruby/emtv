@@ -1206,8 +1206,8 @@ let powerWords = [
     "source": "1 Thess 3:3"
   },
   {
-    "words": "Therefore receive one another, just as Christ also received us, to the glory of God.",
-    "source": "Rom 15:7"
+    "words": "Therefore receive one another, just as Christ also received us, to the glory of God. Now I say that Jesus Christ has become a servant to the circumcision for the truth of God, to confirm the promises made to the fathers,",
+    "source": "Rom 15:7-8"
   },
   {
     "words": "But the Pharisees and lawyers rejected the will of God for themselves, not having been baptized by him.",
