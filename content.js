@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "God's Word refreshes our mind; God's Spirit renews our strength.",
+    "source": "TB"
+  },
+  {
     "words": "When you are born again, you can pray and you will be healed of your sickness. But when you have a demon, you need a man of God to deliver you.",
     "source": "TB"
   },
