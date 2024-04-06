@@ -6,6 +6,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Heart needs to be delivered to meditate.",
+    "source": "TB"
+  },
+  {
+    "words": "It is God who keeps us in integrity.",
+    "source": "TB"
+  },
+  {
     "words": "God's Word refreshes our mind; God's Spirit renews our strength.",
     "source": "TB"
   },
