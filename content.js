@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "I took care of my relationship with Jesus, He took care of my success.",
+    "source": "TB"
+  },
+  {
     "words": "Heart needs to be delivered to meditate.",
     "source": "TB"
   },
