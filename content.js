@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "We overcome obstacles because we give out freely.",
+    "source": ""
+  },
+  {
     "words": "I took care of my relationship with Jesus, He took care of my success.",
     "source": "TB"
   },
