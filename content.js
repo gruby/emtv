@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.",
+    "source": "Eccl 8:3"
+  },
+  {
     "words": "The sleep of a laboring man is sweet, Whether he eats little or much; But the abundance of the rich will not permit him to sleep.",
     "source": "Eccl 5:12"
   },
