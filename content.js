@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Houses and riches are an inheritance from fathers, But a prudent wife is from the LORD.",
+    "source": "Prov 19:14"
+  },
+  {
     "words": "We overcome obstacles because we give out freely.",
     "source": ""
   },
