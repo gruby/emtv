@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "The sleep of a laboring man is sweet, Whether he eats little or much; But the abundance of the rich will not permit him to sleep.",
+    "source": "Eccl 5:12"
+  },
+  {
     "words": "Houses and riches are an inheritance from fathers, But a prudent wife is from the LORD.",
     "source": "Prov 19:14"
   },
