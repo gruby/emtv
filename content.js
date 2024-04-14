@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Worship is my weapon. This is how I win the battles.",
+    "source": "TB song"
+  },
+  {
     "words": "Do not be hasty to go from his presence. Do not take your stand for an evil thing, for he does whatever pleases him.",
     "source": "Eccl 8:3"
   },
