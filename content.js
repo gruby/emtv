@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And if you are Christ’s, then you are Abraham’s seed, and heirs according to the promise.",
+    "source": "Gal 3:29"
+  },
+  {
     "words": "Worship is my weapon. This is how I win the battles.",
     "source": "TB song"
   },
