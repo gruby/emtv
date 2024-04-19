@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "A blessing might have been released by God and 'fly in the air' - and you are not aware of it.",
+    "source": "TB, Ex 14:15"
+  },
+  {
     "words": "And if you are Christ’s, then you are Abraham’s seed, and heirs according to the promise.",
     "source": "Gal 3:29"
   },
