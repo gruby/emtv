@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Anything that comes by force is not faith. Faith is something that comes spontaneously, naturally.",
+    "source": "TB"
+  },
+  {
     "words": "A blessing might have been released by God and 'fly in the air' - and you are not aware of it.",
     "source": "TB, Ex 14:15"
   },
