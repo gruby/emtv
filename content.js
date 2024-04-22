@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And pray that your flight may not be in winter.",
+    "source": "Mark 13:18 ?"
+  },
+  {
     "words": "Pray against your weakness, not against your situation.",
     "source": "TB"
   },
