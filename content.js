@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Pray against your weakness, not against your situation.",
+    "source": "TB"
+  },
+  {
     "words": "You are wisdom, you are light. More humility!",
     "source": "BR Chris"
   },
