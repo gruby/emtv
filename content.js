@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "You are wisdom, you are light. More humility!",
+    "source": "BR Chris"
+  },
+  {
     "words": "Anything that comes by force is not faith. Faith is something that comes spontaneously, naturally.",
     "source": "TB"
   },
