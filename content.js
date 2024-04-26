@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Action must come from the heart.",
+    "source": "TB"
+  },
+  {
     "words": "And pray that your flight may not be in winter.",
     "source": "Mark 13:18 ?"
   },
