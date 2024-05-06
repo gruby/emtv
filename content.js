@@ -22,22 +22,6 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.",
-    "source": "3 John 1:9-10"
-  },
-  {
-    "words": "Pray against your weakness, not against your situation.",
-    "source": "TB"
-  },
-  {
-    "words": "You are wisdom, you are light. More humility!",
-    "source": "BR Chris"
-  },
-  {
-    "words": "Anything that comes by force is not faith. Faith is something that comes spontaneously, naturally.",
-    "source": "TB"
-  },
-  {
     "words": "A blessing might have been released by God and 'fly in the air' - and you are not aware of it.",
     "source": "TB, Ex 14:15"
   },
