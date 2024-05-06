@@ -5,7 +5,20 @@ let powerWords = [
     "source": ""
   },
 */
-{
+  {
+    "words":"He gives power to the weak,
+And to those who have no might He increases strength.",
+    "source": "Is 40:29"
+  },
+  {
+    "words":"Action must come from the heart.",
+    "source": "TB"
+  },
+  {
+    "words": "And pray that your flight may not be in winter.",
+    "source": "Mark 13:18 ?"
+  },
+  {
     "words": "I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.",
     "source": "3 John 1:9-10"
   },
