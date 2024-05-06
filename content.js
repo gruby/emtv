@@ -6,6 +6,11 @@ let powerWords = [
   },
 */
   {
+    "words": "He gives power to the weak,
+And to those who have no might He increases strength.",
+    "source": "Is 40:29"
+  },
+  {
     "words": "Action must come from the heart.",
     "source": "TB"
   },
