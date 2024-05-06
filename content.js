@@ -10,7 +10,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "You are wisdom,you are light. More humility!",
+    "words": "You are wisdom, you are light. More humility!",
     "source": "BR Chris"
   },
   {
