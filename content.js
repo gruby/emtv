@@ -6,19 +6,6 @@ let powerWords = [
   },
 */
   {
-    "words":"He gives power to the weak,
-And to those who have no might He increases strength.",
-    "source": "Is 40:29"
-  },
-  {
-    "words":"Action must come from the heart.",
-    "source": "TB"
-  },
-  {
-    "words": "And pray that your flight may not be in winter.",
-    "source": "Mark 13:18 ?"
-  },
-  {
     "words": "Pray against your weakness, not against your situation.",
     "source": "TB"
   },
