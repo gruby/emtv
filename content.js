@@ -5,6 +5,10 @@ let powerWords = [
     "source": ""
   },
 */
+{
+    "words": "I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.",
+    "source": "3 John 1:9-10"
+  },
   {
     "words": "Pray against your weakness, not against your situation.",
     "source": "TB"
