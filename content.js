@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Apostolic ministry is the one led by the Holy Spirit",
+    "source": "TB"
+  },
+  {
     "words": "The controversy resulting in his resignation never slowed Smith down. In fact, it seemed to speed him up.",
     "source": "GG Smith"
   },
