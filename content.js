@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Men listened to me and waited, And kept silence for my counsel.",
+    "source": "Job 29:21"
+  },
+  {
     "words": "Many are the afflictions of the righteous, But the LORD delivers him out of them all.",
     "source": "Ps 34:19"
   },
