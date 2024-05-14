@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Many are the afflictions of the righteous, But the LORD delivers him out of them all.",
+    "source": "Ps 34:19"
+  },
+  {
     "words": "'Behold, the days are coming,' says the Lord God, 'That I will send a famine on the land, Not a famine of bread, Nor a thirst for water, But of hearing the words of the Lord. They shall wander from sea to sea, And from north to east; They shall run to and fro, seeking the word of the Lord, But shall not find it.",
     "source": "Amos 8:11-12"
   },
