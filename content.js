@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Cast your burden on the Lord,And He shall sustain you; He shall never permit the righteous to be moved.",
+    "source": "Ps 55:22"
+  },
+  {
     "words": "Men listened to me and waited, And kept silence for my counsel.",
     "source": "Job 29:21"
   },
