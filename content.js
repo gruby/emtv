@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Those who trouble us-Christians, are doing it to themselves. ",
+    "source": "TB"
+  },
+  {
     "words": "Cast your burden on the Lord,And He shall sustain you; He shall never permit the righteous to be moved.",
     "source": "Ps 55:22"
   },
