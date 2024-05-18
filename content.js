@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For the redemption of their souls is costly, And it shall cease forever",
+    "source": "Ps 49:8"
+  },
+  {
     "words": "Loving without explanations, is to sow to the Spirit. ",
     "source": "TB"
   },
