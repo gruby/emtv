@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Loving without explanations, is to sow to the Spirit. ",
+    "source": "TB"
+  },
+  {
     "words": "Those who trouble us-Christians, are doing it to themselves. ",
     "source": "TB"
   },
