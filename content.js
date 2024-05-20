@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "We can only reach God through the language of the Bible. ",
+    "source": "TB"
+  },
+  {
     "words": "For the redemption of their souls is costly, And it shall cease forever",
     "source": "Ps 49:8"
   },
