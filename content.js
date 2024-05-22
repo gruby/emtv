@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "I will be his Father, and he shall be My son. If he commits iniquity, I will chasten him with the rod of men and with the blows of the sons of men. But My mercy shall not depart from him, as I took it from Saul, whom I removed from before you.",
+    "source": "2 Sam 7:14-15"
+  },
+  {
     "words": "We can only reach God through the language of the Bible. ",
     "source": "TB"
   },
