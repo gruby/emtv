@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Our hear refines the Word and takes it to the Holy Spirit to make it 'alive tool'.",
+    "source": "TB"
+  },
+  {
     "words": "Never doubt God's will or ability to bless/heal you.",
     "source": "TB"
   },
