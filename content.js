@@ -6,6 +6,38 @@ let powerWords = [
   },
 */
   {
+    "words": "When you sleep, your sickness sleep.",
+    "source": "TB"
+  },
+  {
+    "words": "Jesus always responds to those who put a demand on the anointing.",
+    "source": "TB"
+  },
+  {
+    "words": "When you are reading Bible, put your knowledge away.",
+    "source": "TB"
+  },
+  {
+    "words": "God breathed His Spirit into certain men and book (Bible).",
+    "source": "TB"
+  },
+  {
+    "words": "TB - human, prophet TB - divine.",
+    "source": "TB"
+  },
+  {
+    "words": "Jesus needs your heart - this is our contact.",
+    "source": "TB"
+  },
+  {
+    "words": "God gives being to the His Word.",
+    "source": "TB"
+  },
+  {
+    "words": "God speaks strength through difficulties.",
+    "source": "TB"
+  },
+  {
     "words": "Jesus knew He would be betrayed, but He remained obiedient.",
     "source": "TB"
   },
