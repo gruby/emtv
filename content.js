@@ -6,6 +6,18 @@ let powerWords = [
   },
 */
   {
+    "words": "Jesus knew He would be betrayed, but He remained obiedient.",
+    "source": "TB"
+  },
+  {
+    "words": "We must know the fellowhsip of suffering with Christ - those that drink of this cup - they will be baptized with His baptizm.",
+    "source": "TB"
+  },
+  {
+    "words": "Without baptizm in the Holy Spirit, you cannot represent Jesus.",
+    "source": "TB"
+  },
+  {
     "words": "I will be his Father, and he shall be My son. If he commits iniquity, I will chasten him with the rod of men and with the blows of the sons of men. But My mercy shall not depart from him, as I took it from Saul, whom I removed from before you.",
     "source": "2 Sam 7:14-15"
   },
