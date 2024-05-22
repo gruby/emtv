@@ -330,10 +330,6 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Being born-again is the priviledge to have the Creator to assist you.",
-    "source": "TB"
-  },
-  {
     "words": "It is not body that is dreaming - it is the spirit. ",
     "source": "TB"
   },
