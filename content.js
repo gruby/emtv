@@ -42,7 +42,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "God gives being to the His Word.",
+    "words": "God gives being to His Word.",
     "source": "TB"
   },
   {
