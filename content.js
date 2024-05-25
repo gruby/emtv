@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "It is God who fights for spiritual people.",
+    "source": "TB"
+  },
+  {
     "words": "Our hear refines the Word and takes it to the Holy Spirit to make it 'alive tool'.",
     "source": "TB"
   },
