@@ -10,7 +10,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Our hear refines the Word and takes it to the Holy Spirit to make it 'alive tool'.",
+    "words": "Our heart refines the Word and takes it to the Holy Spirit to make it 'alive tool'.",
     "source": "TB"
   },
   {
