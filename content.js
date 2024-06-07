@@ -6,6 +6,18 @@ let powerWords = [
   },
 */
   {
+    "words": "If I don't love, I will not be able to see to your spiritual.",
+    "source": "TB"
+  },
+  {
+    "words": "God does not start what He has not finished.",
+    "source": "EV Ope"
+  },
+  {
+    "words": "To fast is to abstain from unrighteousness",
+    "source": "TB"
+  },
+  {
     "words": "It is God who fights for spiritual people.",
     "source": "TB"
   },
@@ -2230,7 +2242,7 @@ let powerWords = [
   },
   {
     "words": "Now when the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test Solomon with hard questions, having a very great retinue, camels that bore spices, gold in abundance, and precious stones; and when she came to Solomon, she spoke with him about all that was in her heart.",
-    "source": "2 Chr 1:9"
+    "source": "2 Chr 9:1"
   },
   {
     "words": "The look on their countenance witnesses against them, And they declare their sin as Sodom; They do not hide it. Woe to their soul! For they have brought evil upon themselves.",
