@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "The greatest failure in life is being successful but in the wrong assignment.",
+    "source": "BR Harry"
+  },
+  {
     "words": "Now this is the confidence that we have in Him, that if we ask anything according to His will, He hears us. And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him. If anyone sees his brother sinning a sin which does not lead to death, he will ask, and He will give him life for those who commit sin not leading to death. There is sin leading to death. I do not say that he should pray about that. All unrighteousness is sin, and there is sin not leading to death.",
     "source": "1 John 5:14-17"
   },
