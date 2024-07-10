@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "It is good for me that I have been afflicted, That I may learn Your statutes.",
+    "source": "Ps 119:71"
+  },
+  {
     "words": "The greatest failure in life is being successful but in the wrong assignment.",
     "source": "BR Harry"
   },
