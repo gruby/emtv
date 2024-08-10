@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Are you a pastor?",
+    "source": "Sis Promise"
+  },
+  {
     "words": "And to love Him with all the heart, with all the understanding, with all the soul, and with all the strength, and to love one’s neighbor as oneself, is more than all the whole burnt offerings and sacrifices.",
     "source": "Mark 12:33"
   },
