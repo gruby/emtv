@@ -6,6 +6,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Faith is a pure gift from God",
+    "source": "TB"
+  },
+  {
+    "words": "Christ is God's Word",
+    "source": "TB"
+  },
+  {
     "words": "Are you a pastor?",
     "source": "Sis Promise"
   },
