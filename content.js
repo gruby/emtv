@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
+    "source": "TB"
+  },
+  {
     "words": "Faith is a pure gift from God",
     "source": "TB"
   },
