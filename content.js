@@ -22,11 +22,11 @@ contentment, but giving can.",
     "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
     "source": "TB"
   },
+*/
   {
     "words": "Faith does not originate in ourselves. Faith is a pure gift from God",
     "source": "TB"
   },
-*/
   {
     "words": "Christ is God's Word",
     "source": "TB"
