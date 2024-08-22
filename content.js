@@ -18,11 +18,11 @@ let powerWords = [
 contentment, but giving can.",
     "source": "TB"
   },
+*/
   {
     "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
     "source": "TB"
   },
-*/
   {
     "words": "Faith does not originate in ourselves. Faith is a pure gift from God",
     "source": "TB"
