@@ -6,7 +6,7 @@ let powerWords = [
   },
 */
   {
-    "words": "You must consider everything: the manner how you dress, greet give...",
+    "words": "You must consider everything - the manner how you dress, greet give...",
     "source": "TB"
   },
   {
