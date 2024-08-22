@@ -6,11 +6,24 @@ let powerWords = [
   },
 */
   {
+    "words": "You must consider everything: the manner how you dress, greet give...",
+    "source": "TB"
+  },
+  {
+    "words": "Contentment is savation.",
+    "source": "TB"
+  },
+  {
+    "words": "Possession cannot give you
+contentment, but giving can.",
+    "source": "TB"
+  },
+  {
     "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
     "source": "TB"
   },
   {
-    "words": "Faith is a pure gift from God",
+    "words": "Faith does not originate in ourselves. Faith is a pure gift from God",
     "source": "TB"
   },
   {
