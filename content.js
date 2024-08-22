@@ -4,7 +4,7 @@ let powerWords = [
     "words": "",
     "source": ""
   },
-*/
+
   {
     "words": "You must consider everything - the manner how you dress, greet give...",
     "source": "TB"
@@ -26,6 +26,7 @@ contentment, but giving can.",
     "words": "Faith does not originate in ourselves. Faith is a pure gift from God",
     "source": "TB"
   },
+*/
   {
     "words": "Christ is God's Word",
     "source": "TB"
