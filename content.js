@@ -13,12 +13,12 @@ let powerWords = [
     "words": "Contentment is savation.",
     "source": "TB"
   },
+*/
   {
     "words": "Possession cannot give you
 contentment, but giving can.",
     "source": "TB"
   },
-*/
   {
     "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
     "source": "TB"
