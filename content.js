@@ -4,7 +4,7 @@ let powerWords = [
     "words": "",
     "source": ""
   },
-
+*/
   {
     "words": "You must consider everything - the manner how you dress, greet give...",
     "source": "TB"
@@ -13,7 +13,6 @@ let powerWords = [
     "words": "Contentment is savation.",
     "source": "TB"
   },
-*/
   {
     "words": "Possession cannot give you
 contentment, but giving can.",
