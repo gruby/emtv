@@ -4,7 +4,6 @@ let powerWords = [
     "words": "",
     "source": ""
   },
-*/
   {
     "words": "You must consider everything - the manner how you dress, greet give...",
     "source": "TB"
@@ -18,6 +17,7 @@ let powerWords = [
 contentment, but giving can.",
     "source": "TB"
   },
+*/
   {
     "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
     "source": "TB"
