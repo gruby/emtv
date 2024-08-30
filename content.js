@@ -4,8 +4,9 @@ let powerWords = [
     "words": "",
     "source": ""
   },
+*/
   {
-    "words": "You must consider everything - the manner how you dress, greet give...",
+    "words": "You must consider everything - the manner how you dress, greet give etc.",
     "source": "TB"
   },
   {
@@ -13,11 +14,9 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Possession cannot give you
-contentment, but giving can.",
+    "words": "Possession cannot give you contentment, but giving can.",
     "source": "TB"
   },
-*/
   {
     "words": "The only way to get the peace of heart is to consider your neighbor while getting the way out. ",
     "source": "TB"
