@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Christians don't focus on their problem, they focus on what God says about it. ",
+    "source": "TB"
+  },
+  {
     "words": "You must consider everything - the manner how you dress, greet give etc.",
     "source": "TB"
   },
