@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "I read many times my destiny document.",
+    "source": "TB"
+  },
+  {
     "words": "Christians don't focus on their problem, they focus on what God says about it. ",
     "source": "TB"
   },
