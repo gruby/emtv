@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Don't force people to believe you.",
+    "source": "TB"
+  },
+  {
     "words": "I read many times my destiny document.",
     "source": "TB"
   },
