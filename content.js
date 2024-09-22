@@ -6,7 +6,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Don't force people to believe you.",
+    "words": "Do not force people to believe you.",
     "source": "TB"
   },
   {
