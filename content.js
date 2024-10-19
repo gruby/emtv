@@ -2,9 +2,25 @@ let powerWords = [
 /*
   {
     "words": "",
-    "source": ""
+    "source": "TB"
   },
 */
+  {
+    "words": "Prophet will not pray without Spirit suggestion. ",
+    "source": "TB"
+  },
+  {
+    "words": "Prophet - this spirit will speak only if God wishes it to speak.",
+    "source": "TB"
+  },
+  {
+    "words": "You cannot be faster than the Holy Ghost.",
+    "source": "TB"
+  },
+  {
+    "words": "If you are not armed for the battle, you are fighting the wrong battle. The One who armed you will teach you how to fight.",
+    "source": "TB"
+  },
   {
     "words": "Do not force people to believe you.",
     "source": "TB"
@@ -22,7 +38,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Contentment is savation.",
+    "words": "Contentment is salvation.",
     "source": "TB"
   },
   {
