@@ -6,6 +6,26 @@ let powerWords = [
   },
 */
   {
+    "words": "I'm married to Jesus, satan leave me alone. My husband is coming to take me away to everlasting home.",
+    "source": "TB"
+  },
+  {
+    "words": "Human spirit, when free is sensitive to the Spirit of God. Free is to be without sin: grudges, bitterness...",
+    "source": "TB"
+  },
+  {
+    "words": "Prayer and Bible reading must always go together: like faith and believe.",
+    "source": "TB"
+  },
+  {
+    "words": "It is not enough to believe - we need to reach out in faith. We say Jesus will heal me, but we are still worried. Where is your faith?",
+    "source": "TB"
+  },
+  {
+    "words": "Joyful heart is where Jesus is.",
+    "source": "TB"
+  },
+  {
     "words": "Prophet will not pray without Spirit suggestion. ",
     "source": "TB"
   },
