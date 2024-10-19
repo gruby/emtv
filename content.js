@@ -6,6 +6,42 @@ let powerWords = [
   },
 */
   {
+    "words": "What we don't understand is of God. What we understand is of us.",
+    "source": "TB"
+  },
+  {
+    "words": "To hear God's Word with heart requires openness and hunger for God's Word.",
+    "source": "TB"
+  },
+  {
+    "words": "How do we test the spirit? We go for the prayer.",
+    "source": "TB"
+  },
+  {
+    "words": "If you speak word without connection to the Spirit, you speak today's word language.",
+    "source": "TB"
+  },
+  {
+    "words": "You cannot pray to God, if you are worried (if your heart is not free, at it's best).",
+    "source": "TB"
+  },
+  {
+    "words": "You cannot remember the dream you don't understand.",
+    "source": "TB"
+  },
+  {
+    "words": "If you love your enemy, you see him as Christ does.",
+    "source": "TB"
+  },
+  {
+    "words": "The breaking Christ body is commemorated by breaking the bread.",
+    "source": "TB"
+  },
+  {
+    "words": "No matter how much you are blessed, you can never have peace if people around you are suffering!",
+    "source": "TB"
+  },
+  {
     "words": "I'm married to Jesus, satan leave me alone. My husband is coming to take me away to everlasting home.",
     "source": "TB"
   },
