@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have spoken to you.",
+    "source": "Gen 28:15"
+  },
+  {
     "words": "What we don't understand is of God. What we understand is of us.",
     "source": "TB"
   },
