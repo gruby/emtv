@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But now, do not therefore be grieved or angry with yourselves because you sold me here; for God sent me before you to preserve life.",
+    "source": "Gen 45:5"
+  },
+  {
     "words": "Behold, I am with you and will keep you wherever you go, and will bring you back to this land; for I will not leave you until I have done what I have spoken to you.",
     "source": "Gen 28:15"
   },
