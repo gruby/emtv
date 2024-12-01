@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "You shall not show partiality to a poor man in his dispute.",
+    "source": "Ex 23:3"
+  },
+  {
     "words": "But now, do not therefore be grieved or angry with yourselves because you sold me here; for God sent me before you to preserve life.",
     "source": "Gen 45:5"
   },
