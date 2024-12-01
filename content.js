@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Then He spoke a parable to them, that men always ought to pray and not lose heart",
+    "source": "Luke 18:1"
+  },
+  {
     "words": "You shall not show partiality to a poor man in his dispute.",
     "source": "Ex 23:3"
   },
