@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For the Lord had said to Moses, “Say to the children of Israel, ‘You are a stiff-necked people. I could come up into your midst in one moment and consume you. Now therefore, take off your ornaments, that I may know what to do to you.",
+    "source": "Ex 33:5"
+  },
+  {
     "words": "Then He spoke a parable to them, that men always ought to pray and not lose heart",
     "source": "Luke 18:1"
   },
