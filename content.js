@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And no man shall come up with you, and let no man be seen throughout all the mountain; let neither flocks nor herds feed before that mountain.”",
+    "source": "Ex 34:3"
+  },
+  {
     "words": "For the Lord had said to Moses, “Say to the children of Israel, ‘You are a stiff-necked people. I could come up into your midst in one moment and consume you. Now therefore, take off your ornaments, that I may know what to do to you.",
     "source": "Ex 33:5"
   },
