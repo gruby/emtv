@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Both riches and honor come from You, And You reign over all. In Your hand is power and might; In Your hand it is to make great And to give strength to all.",
+    "source": "1 Chr 29:12"
+  },
+  {
     "words": "And no man shall come up with you, and let no man be seen throughout all the mountain; let neither flocks nor herds feed before that mountain.”",
     "source": "Ex 34:3"
   },
