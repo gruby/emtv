@@ -6,6 +6,86 @@ let powerWords = [
   },
 */
   {
+    "words": "",
+    "source": "TB"
+  },
+  {
+    "words": "We employ much flesh to the things of the Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "The belief in our heart is released by faith and faith requires us to speak before we feel of see it.",
+    "source": "TB"
+  },
+  {
+    "words": "Prayer cannot do anything if the prayer is not offered according to His Spirit, His Word. There is no prayer without your heart acting upon the Word.",
+    "source": "TB"
+  },
+  {
+    "words": "If you are in faith, you are not satisfied by the world but you look beyond it.",
+    "source": "TB"
+  },
+  {
+    "words": "Money is a good thing but the love of it is bad.",
+    "source": "TB"
+  },
+  {
+    "words": "It is easy to give God your quality time when we are nobody.",
+    "source": "TB"
+  },
+  {
+    "words": "If God wants to promote you, He will promote you for the needs of others. How much you help the poor is how much you progress.",
+    "source": "TB"
+  },
+  {
+    "words": "If you are not ready to bless others, there is no need to bless you.",
+    "source": "TB"
+  },
+  {
+    "words": "Paul knew his challanges were to correct him from being proud or conceited.",
+    "source": "TB"
+  },
+  {
+    "words": "Oftentimes, we ignore our conscience, the very instrument used by the Holy Spirit - our heart.",
+    "source": "TB"
+  },
+  {
+    "words": "If your do not lose control, satan cannot use you as a disciple or servant.",
+    "source": "TB"
+  },
+  {
+    "words": "When you don't respond, it means you have a big God who is fighting for you.",
+    "source": "TB"
+  },
+  {
+    "words": "Oftentimes the person that attacks me does not matter but the position of God concerning that attack matters.",
+    "source": "TB"
+  },
+  {
+    "words": "Nothing makes you better than your enemy when you respond to offences",
+    "source": "TB"
+  },
+  {
+    "words": "The words a man speaks create the blessings or curses in his way. The words you speak determine the life you enjoy.",
+    "source": "TB"
+  },
+  {
+    "words": "Determination to do the right, proper thing separtates strong from the weak.",
+    "source": "TB"
+  },
+  {
+    "words": "What is in heart will happen in time.",
+    "source": "TB"
+  },
+  {
+    "words": "Resist the temptation to isolate yourself because doubt feeds on loneliness",
+    "source": "TB"
+  },
+  {
+    "words": "How faith works? Problem -> Meditation/Asking God/Prayer -> Reply from God -> FAITH in HIS promise",
+    "source": "TB"
+  },
+  {
     "words": "Crisis - it is not the time to relax and become discouraged. Dig deep and fight it through.",
     "source": "TB"
   },
@@ -2069,7 +2149,7 @@ let powerWords = [
     "source": "Mark 4:34"
   },
   {
-    "words": "A break in prayer is a break in faith.",
+    "words": "A break in prayer is a break in faith and a break in faith is a break with God.",
     "source": "TB"
   },
   {
