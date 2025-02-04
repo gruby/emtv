@@ -4,7 +4,7 @@ vlet powerWords = [
     "words": "",
     "source": "TB"
   },
-*/
+
   {
     "words": "",
     "source": "TB"
@@ -37,6 +37,7 @@ vlet powerWords = [
     "words": "We employ much flesh to the things of the Spirit.",
     "source": "TB"
   },
+  */
   {
     "words": "The belief in our heart is released by faith and faith requires us to speak before we feel of see it.",
     "source": "TB"
