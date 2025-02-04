@@ -10,6 +10,30 @@ let powerWords = [
     "source": "TB"
   },
   {
+    "words": "",
+    "source": "TB"
+  },
+  {
+    "words": "",
+    "source": "TB"
+  },
+  {
+    "words": "",
+    "source": "TB"
+  },
+  {
+    "words": "",
+    "source": "TB"
+  },
+  {
+    "words": "Persecution is not the time to relax and become discouraged. We fight through our failures and fear by maximising our forward motion.",
+    "source": "TB"
+  },
+  {
+    "words": "God gives us strength to overcome whatever situation.",
+    "source": "TB"
+  },
+  {
     "words": "We employ much flesh to the things of the Spirit.",
     "source": "TB"
   },
