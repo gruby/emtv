@@ -1,4 +1,4 @@
-vlet powerWords = [
+let powerWords = [
 /*
   {
     "words": "",
