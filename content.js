@@ -37,7 +37,6 @@ vlet powerWords = [
     "words": "We employ much flesh to the things of the Spirit.",
     "source": "TB"
   },
-  */
   {
     "words": "The belief in our heart is released by faith and faith requires us to speak before we feel of see it.",
     "source": "TB"
@@ -82,6 +81,7 @@ vlet powerWords = [
     "words": "When you don't respond, it means you have a big God who is fighting for you.",
     "source": "TB"
   },
+  */
   {
     "words": "Oftentimes the person that attacks me does not matter but the position of God concerning that attack matters.",
     "source": "TB"
