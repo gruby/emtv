@@ -9,6 +9,7 @@ vlet powerWords = [
     "words": "",
     "source": "TB"
   },
+*/
   {
     "words": "Faith is a trust that arises out of the fact that the other party is honest, reliable, trustworthy.",
     "source": "TB"
@@ -109,7 +110,6 @@ vlet powerWords = [
     "words": "How faith works? Problem -> Meditation/Asking God/Prayer -> Reply from God -> FAITH in HIS promise",
     "source": "TB"
   },
-  */
   {
     "words": "Crisis - it is not the time to relax and become discouraged. Dig deep and fight it through.",
     "source": "TB"
