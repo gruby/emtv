@@ -1,4 +1,4 @@
-let powerWords = [
+vlet powerWords = [
 /*
   {
     "words": "",
@@ -10,19 +10,19 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "",
+    "words": "Faith is a trust that arises out of the fact that the other party is honest, reliable, trustworthy.",
     "source": "TB"
+  },
+  {
+    "words": "The moment you let go of your past, you discover yourself.",
+    "source": "Ev Chisom"
   },
   {
     "words": "",
     "source": "TB"
   },
   {
-    "words": "",
-    "source": "TB"
-  },
-  {
-    "words": "",
+    "words": "Serving the Lord, our Saviour is the road to comfort and peace, while serving the devil, is a sure way to bitterness, pain and death.",
     "source": "TB"
   },
   {
