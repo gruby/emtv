@@ -81,7 +81,6 @@ vlet powerWords = [
     "words": "When you don't respond, it means you have a big God who is fighting for you.",
     "source": "TB"
   },
-  */
   {
     "words": "Oftentimes the person that attacks me does not matter but the position of God concerning that attack matters.",
     "source": "TB"
@@ -110,6 +109,7 @@ vlet powerWords = [
     "words": "How faith works? Problem -> Meditation/Asking God/Prayer -> Reply from God -> FAITH in HIS promise",
     "source": "TB"
   },
+  */
   {
     "words": "Crisis - it is not the time to relax and become discouraged. Dig deep and fight it through.",
     "source": "TB"
