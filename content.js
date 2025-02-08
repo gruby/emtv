@@ -4,12 +4,11 @@ let powerWords = [
     "words": "",
     "source": "TB"
   },
-
-  {
-    "words": "",
-    "source": "TB"
-  },
 */
+  {
+    "words": "So we are always confident, knowing that while we are at home in the body we are absent from the Lord.",
+    "source": "2 Cor 5:6"
+  },
     {
     "words": "Faith is a trust that arises out of the fact that the other party is honest, reliable, trustworthy.",
     "source": "TB"
