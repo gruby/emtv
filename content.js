@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "It takes man of faith to recognize a man of faith.",
+    "source": "TB"
+  },
+  {
     "words": "So we are always confident, knowing that while we are at home in the body we are absent from the Lord.",
     "source": "2 Cor 5:6"
   },
