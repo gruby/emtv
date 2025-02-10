@@ -10,6 +10,10 @@ let powerWords = [
     "source": "TB"
   },
   {
+    "words": "Jesus's response is not for those who are in hurry.",
+    "source": "TB"
+  },
+  {
     "words": "It takes man of faith to recognize a man of faith.",
     "source": "TB"
   },
