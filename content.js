@@ -22,10 +22,6 @@ let powerWords = [
     "source": "Ev Chisom"
   },
   {
-    "words": "",
-    "source": "TB"
-  },
-  {
     "words": "Serving the Lord, our Saviour is the road to comfort and peace, while serving the devil, is a sure way to bitterness, pain and death.",
     "source": "TB"
   },
