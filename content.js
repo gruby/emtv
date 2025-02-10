@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "When you endure trials and persecution, God will deal you as a Son.",
+    "source": "TB"
+  },
+  {
     "words": "It takes man of faith to recognize a man of faith.",
     "source": "TB"
   },
