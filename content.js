@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Self-effort is wrong attitude towards sin. It is the Holy Spirit that has to destroy the root of sin.",
+    "source": "TB"
+  },
+  {
     "words": "When you endure trials and persecution, God will deal you as a Son.",
     "source": "TB"
   },
