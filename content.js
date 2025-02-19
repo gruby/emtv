@@ -6,6 +6,34 @@ let powerWords = [
   },
 */
   {
+    "words": "Whatever good is in us is the reason for envy of others.",
+    "source": "TB"
+  },
+  {
+    "words": "The better the man is, the worse he is thought of by his rivals.",
+    "source": "TB"
+  },
+  {
+    "words": "The persecution we suffer makes us known.",
+    "source": "TB"
+  },
+  {
+    "words": "God knowing challenges before us, gives us enough grace.",
+    "source": "TB"
+  },
+  {
+    "words": "John decided to try to model their example (Moravians) of how fearing God meant nothing else in this life.",
+    "source": "GG John Wesley"
+  },
+  {
+    "words": "Worry about future destroys our sense of judgement.",
+    "source": "TB"
+  },
+  {
+    "words": "Power received from God is not to be used according to our will.",
+    "source": "TB"
+  },
+  {
     "words": "Self-effort is wrong attitude towards sin. It is the Holy Spirit that has to destroy the root of sin.",
     "source": "TB"
   },
