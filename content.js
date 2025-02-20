@@ -22,7 +22,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "John decided to try to model their example (Moravians) of how fearing God meant nothing else in this life.",
+    "words": "John decided to try to model their example (Moravians) of how fearing God meant fearing nothing else in this life.",
     "source": "GG John Wesley"
   },
   {
