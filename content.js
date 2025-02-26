@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Your purpose of life will never be fulfilled without heat of trial.",
+    "source": "TB"
+  },
+  {
     "words": "Whatever good is in us is the reason for envy of others.",
     "source": "TB"
   },
