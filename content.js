@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "We should pray against poverty not because it is an affliction, but temptation - Mt 4",
+    "source": "TB"
+  },
+  {
     "words": "Your purpose of life will never be fulfilled without heat of trial.",
     "source": "TB"
   },
