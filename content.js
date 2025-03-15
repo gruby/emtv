@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "You must command satan to go. Otherwise he will not go.",
+    "source": "TB"
+  },
+  {
     "words": "We should pray against poverty not because it is an affliction, but temptation - Mt 4",
     "source": "TB"
   },
