@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "People with supernatural power - they don't fight for themselves. God fights for them.",
+    "source": "TB"
+  },
+  {
     "words": "You must command satan to go. Otherwise he will not go.",
     "source": "TB"
   },
