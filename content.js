@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Ask God for the grace to forgive yourself.",
+    "source": "TB"
+  },
+  {
     "words": "People with supernatural power - they don't fight for themselves. God fights for them.",
     "source": "TB"
   },
