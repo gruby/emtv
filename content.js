@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "As you do not control the flow of blood, so you should not control your prayer. Holy Spirit should.",
+    "source": "TB"
+  },
+  {
     "words": "Ask God for the grace to forgive yourself.",
     "source": "TB"
   },
