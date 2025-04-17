@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Today, for a pastor to heal you, he must be highly annointed, because today faith is little.",
+    "source": "TB"
+  },
+  {
     "words": "We need something to bother us - God bless me to help these people. Then you live beyond the human destruction.",
     "source": "TB"
   },
