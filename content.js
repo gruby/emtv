@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "We need something to bother us - God bless me to help these people. Then you live beyond the human destruction.",
+    "source": "TB"
+  },
+  {
     "words": "As you do not control the flow of blood, so you should not control your prayer. Holy Spirit should.",
     "source": "TB"
   },
