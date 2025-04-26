@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "I, even I, am He who comforts you. Who are you that you should be afraid Of a man who will die, And of the son of a man who will be made like grass?",
+    "source": "Is 51:12"
+  },
+  {
     "words": "Today, for a pastor to heal you, he must be highly annointed, because today faith is little.",
     "source": "TB"
   },
