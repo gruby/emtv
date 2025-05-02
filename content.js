@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Whenever I am afraid, I will trust in You. In God (I will praise His word), In God I have put my trust; I will not fear. What can flesh do to me?",
+    "source": "Ps 56:3-4"
+  },
+  {
     "words": "Little annointing, yet they travel over the world.",
     "source": "TB"
   },
