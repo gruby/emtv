@@ -6,7 +6,7 @@ let powerWords = [
   },
 */
   {
-    "words": "The Lord is in His holy temple, The Lord’s throne is in heaven; His eyes behold, His eyelids test the sons of men. The Lord tests the righteous, But the wicked and the one who loves violence His soul hates.",
+    "words": "The Lord is in His holy temple,<br>The Lord’s throne is in heaven;<br><span>His eyes behold</span>,<br>His eyelids test the sons of men.<br>The Lord tests the righteous,<br>But the wicked and the one who loves violence His soul hates.",
     "source": "Ps 11:4-5"
   },
   {
@@ -2701,7 +2701,8 @@ let powerWords = [
 let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
-  let ran = Math.floor(Math.random() * powerWords.length );
+  //let ran = Math.floor(Math.random() * powerWords.length );
+  let ran = 0;
   let picked = powerWords[ran];
   powerWords.splice(ran,1)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
