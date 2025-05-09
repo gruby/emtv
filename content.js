@@ -933,29 +933,28 @@ let powerWords = [
     "words": "But Jesus called them to Himself and said, 'You know that the rulers of the Gentiles lord it over them, and those who are great exercise authority over them. Yet it shall not be so among you; but whoever desires to become great among you, let him be your servant. And whoever desires to be first among you, let him be your slave--just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.'",
     "source": "Matt 20:25-28"
   },
-  //TUTAJ
   {
-    "words": "Rejoice the soul of Your servant, For to You, O Lord, I lift up my soul.",
+    "words": "Rejoice the soul of Your servant,<br>For to You, O Lord, I lift up my soul.",
     "source": "Ps 86:4"
   },
   {
-    "words": "God has spoken once, Twice I have heard this: That power belongs to God.",
+    "words": "God has spoken once,<br>Twice I have heard this:<br>That power belongs to God.",
     "source": "Ps 62:11"
   },
   {
-    "words": "The LORD will give strength to His people; The LORD will bless His people with peace.",
+    "words": "The LORD will give strength to His people;<br>The LORD will bless His people with peace.",
     "source": "Ps 29:11"
   },
   {
-    "words": "Thus they have rewarded me evil for good, And hatred for my love.",
+    "words": "Thus they have rewarded me evil for good,<br>And hatred for my love.",
     "source": "Ps 109:5"
   },
   {
-    "words": "They have closed up their fat hearts; With their mouths they speak proudly.",
+    "words": "They have closed up their fat hearts;<br>With their mouths they speak proudly.",
     "source": "Ps 17:10"
   },
   {
-    "words": "Let integrity and uprightness preserve me, For I wait for You.",
+    "words": "Let integrity and uprightness preserve me,<br>For I wait for You.",
     "source": "Ps 25:21"
   },
   {
@@ -983,7 +982,7 @@ let powerWords = [
     "source": "Rev 16:10-11"
   },
   {
-    "words": "And you are puffed up, and have not rather mourned, that he who has done this deed might be taken away from among you.",
+    "words": "And <span>you are puffed up,</span> and have not rather mourned, that he who has done this deed might be taken away from among you.",
     "source": "1 Cor 5:2"
   },
   {
@@ -1003,7 +1002,7 @@ let powerWords = [
     "source": "Num 22:38"
   },
   {
-    "words": "But of Him you are in Christ Jesus, who became for us wisdom from God—and righteousness and sanctification and redemption",
+    "words": "But <span>of Him you are in Christ Jesus,</span> who became for us wisdom from God—and righteousness and sanctification and redemption",
     "source": "1 Cor 1:30"
   },
   {
@@ -1011,7 +1010,7 @@ let powerWords = [
     "source": "Luke 11:13"
   },
   {
-    "words": "If my heart has been enticed by a woman, Or if I have lurked at my neighbor's door, Then let my wife grind for another, And let others bow down over her.",
+    "words": "If my heart has been enticed by a woman,<br>Or if I have lurked at my neighbor's door,<br>Then let my wife grind for another,<br>And let others bow down over her.",
     "source": "Job 31:9-10"
   },
   {
@@ -1019,7 +1018,7 @@ let powerWords = [
     "source": "1 Cor 1:21"
   },
   {
-    "words": "The LORD was also angry with me for your sakes, saying, 'Even you shall not go in there.",
+    "words": "<span>The LORD was also angry with me for your sakes,</span> saying, 'Even you shall not go in there.",
     "source": "Deut 1:37"
   },
   {
@@ -1031,7 +1030,7 @@ let powerWords = [
     "source": "Heb 4:15-16"
   },
   {
-    "words": "Through You we will push down our enemies; Through Your name we will trample those who rise up against us.",
+    "words": "Through You we will push down our enemies;<br>Through Your name we will trample those who rise up against us.",
     "source": "Ps 44:5"
   },
   {
@@ -1051,11 +1050,11 @@ let powerWords = [
     "source": "Rom 3:19-20"
   },
   {
-    "words": "who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and was heard because of His godly fear, though He was a Son, yet He learned obedience by the things which He suffered. And having been perfected, He became the author of eternal salvation to all who obey Him, called by God as High Priest “according to the order of Melchizedek,”",
+    "words": "who, in the days of His flesh, when He had offered up prayers and supplications, with vehement cries and tears to Him who was able to save Him from death, and <span>was heard because of His godly fear,</span> though He was a Son, yet He learned obedience by the things which He suffered. And having been perfected, He became the author of eternal salvation to all who obey Him, called by God as High Priest “according to the order of Melchizedek,”",
     "source": "Heb 5:7-10"
   },
   {
-    "words": "The wicked in his proud countenance does not seek God; God is in none of his thoughts.",
+    "words": "The wicked in his proud countenance does not seek God;<br>God is in none of his thoughts.",
     "source": "Ps 10:4"
   },
   {
@@ -1071,7 +1070,7 @@ let powerWords = [
     "source": "Matt 7:13-14"
   },
   {
-    "words": "Don't bring to God what you want to hear from Him.",
+    "words": "<span>Don't bring to God what you want to hear from Him.</span>",
     "source": "TB"
   },
   {
@@ -1083,11 +1082,11 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "When Jesus supports my position, there is consolation and strength in your weakness. ",
+    "words": "When Jesus supports my position, there is consolation and strength in your weakness.",
     "source": "TB"
   },
   {
-    "words": "Use my situation oh Lord, to advance my cause. ",
+    "words": "Use my situation oh Lord, to advance my cause.",
     "source": "TB"
   },
   {
@@ -1123,7 +1122,7 @@ let powerWords = [
     "source": "1 Kin 20:33"
   },
   {
-    "words": "By pride comes nothing but strife, But with the well-advised is wisdom.",
+    "words": "By pride comes nothing but strife,<br>But with the well-advised is wisdom.",
     "source": "Prov 13:10"
   },
   {
@@ -1143,7 +1142,7 @@ let powerWords = [
     "source": "1 Tim 6:6-8"
   },
   {
-    "words": "Do not lay hands on anyone hastily, nor share in other people’s sins; keep yourself pure.",
+    "words": "Do not lay hands on anyone hastily, nor share in other people\'s sins; keep yourself pure.",
     "source": "1 Tim 5:22"
   },
   {
@@ -1151,11 +1150,7 @@ let powerWords = [
     "source": "Luke 6:45"
   },
   {
-    "words": "And if you call on the Father, who without partiality judges according to each one's work, conduct yourselves throughout the time of your stay here in fear;",
-    "source": "1 Pet 1:17"
-  },
-  {
-    "words": "And in that day you will say: O LORD, I will praise You; Though You were angry with me, Your anger is turned away, and You comfort me. Behold, God is my salvation, I will trust and not be afraid; For YAH, the LORD, is my strength and song; He also has become my salvation.",
+    "words": "And in that day you will say:<br><br>O LORD, I will praise You;<br>Though You were angry with me,<br>Your anger is turned away, and You comfort me.<br>Behold, God is my salvation,<br>I will trust and not be afraid;<br>For YAH, the LORD, is my strength and song;<br>He also has become my salvation.",
     "source": "Is 12:1-2"
   },
   {
@@ -1163,7 +1158,7 @@ let powerWords = [
     "source": "Lev 19:15"
   },
   {
-    "words": "But sanctify the Lord God in your hearts, and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
+    "words": "But <span>sanctify the Lord God in your hearts,</span> and always be ready to give a defense to everyone who asks you a reason for the hope that is in you, with meekness and fear;",
     "source": "1 Pet 3:15"
   },
   {
@@ -1175,11 +1170,11 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "O God, You are more awesome than Your holy places. The God of Israel is He who gives strength and power to His people.",
+    "words": "O God, You are more awesome than Your holy places.<br>The God of Israel is He who gives strength and power to His people.",
     "source": "Ps 68:35"
   },
   {
-    "words": "These things indeed have an appearance of wisdom in self-imposed religion, false humility, and neglect of the body, but are of no value against the indulgence of the flesh.",
+    "words": "These things indeed have an appearance of wisdom in self-imposed religion, false humility, and neglect of the body, <span>but are of no value against the indulgence of the flesh.</span>",
     "source": "Col 2:23"
   },
   {
@@ -1195,15 +1190,15 @@ let powerWords = [
     "source": "1 Cor 11:11"
   },
   {
-    "words": "The discretion of a man makes him slow to anger, And his glory is to overlook a transgression.",
+    "words": "The discretion of a man makes him slow to anger,<br><span>And his glory is to overlook a transgression.</span>",
     "source": "Prov 19:11"
   },
   {
-    "words": "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry, although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did it ignorantly in unbelief.",
+    "words": "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry, although I was formerly a blasphemer, a persecutor, and an insolent man; but <span>I obtained mercy because I did it ignorantly in unbelief.</span>",
     "source": "1 Tim 1:12-13"
   },
   {
-    "words": "And you will be hated by all for My name’s sake. But not a hair of your head shall be lost. By your patience possess your souls.",
+    "words": "And you will be hated by all for My name\'s sake. But not a hair of your head shall be lost. By your patience possess your souls.",
     "source": "Luke 21:17-19"
   },
   {
@@ -1227,7 +1222,7 @@ let powerWords = [
     "source": "1 Cor 16:13-14"
   },
   {
-    "words": "These are sensual persons, who cause divisions, not having the Spirit.",
+    "words": "These are sensual persons, who cause divisions, <span>not having the Spirit.</span>",
     "source": "Jude 1:19"
   },
   {
@@ -1235,7 +1230,7 @@ let powerWords = [
     "source": "Phil 1:29"
   },
   {
-    "words": "Confess your trespasses to one another, and pray for one another, that you may be healed. The effective, fervent prayer of a righteous man avails much.",      
+    "words": "Confess your trespasses to one another, and pray for one another, that you may be healed. <span>The effective, fervent prayer of a righteous man avails much.</span>",      
     "source": "James 5:15"
   },
   {
@@ -1247,7 +1242,7 @@ let powerWords = [
     "source": "Deut 28:47-48"
   },
   {
-    "words": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control. Against such there is no law.",      
+    "words": "But the fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, <span>self-control.</span> Against such there is no law.",      
     "source": "Gal 5:22-23"
   },
   {
@@ -1255,7 +1250,7 @@ let powerWords = [
     "source": "Eccl 1:16-18"
   },
   {
-    "words": "I beseech you therefore, brethren, by the mercies of God, that you present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service.",      
+    "words": "I beseech you therefore, brethren, by the mercies of God, that you <span>present your bodies a living sacrifice,</span> holy, acceptable to God, which is your reasonable service.",      
     "source": "Rom 12:1"
   },
   {
@@ -1267,7 +1262,7 @@ let powerWords = [
     "source": "Rom 9:8"
   },
   {
-    "words": "Surely His salvation is near to those who fear Him, That glory may dwell in our land.",
+    "words": "Surely His salvation is near to those who fear Him,<br>That glory may dwell in our land.",
     "source": "Ps 85:9"
   },
   {
@@ -1275,7 +1270,7 @@ let powerWords = [
     "source": "Luke 21:37"
   },
   {
-    "words": "and said, “Assuredly, I say to you, unless you are converted and become as little children, you will by no means enter the kingdom of heaven.",
+    "words": "and said, \“Assuredly, I say to you, unless you are converted and become as little children, you will by no means enter the kingdom of heaven.",
     "source": "Matt 18:3"
   },
   {
@@ -1327,7 +1322,7 @@ let powerWords = [
     "source": "Luke 3:14"
   },
   {
-    "words": "Let not those who wait for You, O Lord GOD of hosts, be ashamed because of me. Let not those who seek You be confounded because of me, O God of Israel.",
+    "words": "Let not those who wait for You, O Lord GOD of hosts, be ashamed because of me.<br>Let not those who seek You be confounded because of me, O God of Israel.",
     "source": "Ps 69:6"
   },
   {
@@ -1339,35 +1334,35 @@ let powerWords = [
     "source": "Eph 2:18"
   },
   {
-    "words": "And He said to them, “You are those who justify yourselves before men, but God knows your hearts. For what is highly esteemed among men is an abomination in the sight of God.",
+    "words": "And He said to them, “You are those who justify yourselves before men, but God knows your hearts. <span>For what is highly esteemed among men is an abomination in the sight of God.</span>",
     "source": "Luke 16:15"
   },
   {
-    "words": "“Do not touch My anointed ones, And do My prophets no harm.”",
+    "words": "“Do not touch My anointed ones,<br>And do My prophets no harm.”",
     "source": "Ps 105:15, 1 Chr 16:22"
   },
   {
-    "words": "When Israel was a child, I loved him, And out of Egypt I called My son.",
+    "words": "When Israel was a child, I loved him,<br>And out of Egypt I called My son.",
     "source": "Hos 11:1"
   },
   {
-    "words": "By a prophet the Lord brought Israel out of Egypt, And by a prophet he was preserved.",
+    "words": "By a prophet the Lord brought Israel out of Egypt,<br>And by a prophet he was preserved.",
     "source": "Hos 12:13"
   },
   {
-    "words": "So you, by the help of your God, return; Observe mercy and justice, And wait on your God continually.",
+    "words": "So you, by the help of your God, return;<br>Observe mercy and justice,<br>And wait on your God continually.",
     "source": "Hos 12:6"
   },
   {
-    "words": "Where the word of a king is, there is power; And who may say to him, “What are you doing?” ",
+    "words": "Where the word of a king is, there is power; And who may say to him, \“What are you doing?\” ",
     "source": "Eccl 8:4"
   },
   {
-    "words": "Thus says the Lord: “Let not the wise man glory in his wisdom, Let not the mighty man glory in his might, Nor let the rich man glory in his riches; But let him who glories glory in this, That he understands and knows Me, That I am the Lord, exercising lovingkindness, judgment, and righteousness in the earth. For in these I delight,” says the Lord.",
+    "words": "Thus says the Lord:<br><br>\“Let not the wise man glory in his wisdom,<br>Let not the mighty man glory in his might,<br>Nor let the rich man glory in his riches;<br><span>But let him who glories glory in this,<br>That he understands and knows Me,<br>That I am the Lord, exercising lovingkindness, judgment, and righteousness in the earth.</span><br>For in these I delight,” says the Lord.",
     "source": "Jer 9:23-24"
   },
   {
-    "words": "Then King David said to Ornan, “No, but I will surely buy it for the full price, for I will not take what is yours for the Lord, nor offer burnt offerings with that which costs me nothing.”",
+    "words": "Then King David said to Ornan, \“No, but I will surely buy it for the full price, for <span>I will not take what is yours for the Lord, nor offer burnt offerings with that which costs me nothing.\”</span>",
     "source": "1 Chr 21:24"
   },
   {
@@ -1375,7 +1370,7 @@ let powerWords = [
     "source": "2 Kin 18:5"
   },
   {
-    "words": "Dead flies putrefy the perfumer’s ointment, And cause it to give off a foul odor; So does a little folly to one respected for wisdom and honor.",
+    "words": "Dead flies putrefy the perfumer\'s ointment,<br>And cause it to give off a foul odor;<br>So does a little folly to one respected for wisdom and honor.",
     "source": "Eccl 10:1"
   },
   {
@@ -1383,23 +1378,23 @@ let powerWords = [
     "source": "Eccl 8:11"
   },
   {
-    "words": "For the wicked boasts of his heart’s desire; He blesses the greedy and renounces the Lord.",
+    "words": "For the wicked boasts of his heart\'s desire;<br>He blesses the greedy and renounces the Lord.",
     "source": "Ps 10:3"
   },
   {
-    "words": "Arise, O God, plead Your own cause; Remember how the foolish man reproaches You daily. Do not forget the voice of Your enemies; The tumult of those who rise up against You increases continually.",
+    "words": "Arise, O God, plead Your own cause;<br>Remember how the foolish man reproaches You daily.<br>Do not forget the voice of Your enemies;<br><span>The tumult of those who rise up against You increases continually.</span>",
     "source": "Ps 74:22-23"
   },
   {
-    "words": "Do not trust in a friend; Do not put your confidence in a companion; Guard the doors of your mouth From her who lies in your bosom.",
+    "words": "Do not trust in a friend;<br>Do not put your confidence in a companion;<br>Guard the doors of your mouth<br>From her who lies in your bosom.",
     "source": "Mic 7:5"
   },
   {
-    "words": "He who believes in the Son of God has the witness in himself; he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.",
+    "words": "<span>He who believes in the Son of God has the witness in himself;</span> he who does not believe God has made Him a liar, because he has not believed the testimony that God has given of His Son.",
     "source": "1 John 5:10"
   },
   {
-    "words": "Then Saul said to Samuel, “I have sinned, for I have transgressed the commandment of the Lord and your words, because I feared the people and obeyed their voice.",
+    "words": "Then Saul said to Samuel, <span>\“I have sinned, for I have transgressed the commandment of the Lord and your words, because I feared the people and obeyed their voice.\“</span>",
     "source": "1 Sam 15:24"
   },
   {
@@ -1411,7 +1406,7 @@ let powerWords = [
     "source": "Phil 3:3"
   },
   {
-    "words": "Now Saul was afraid of David, because the Lord was with him, but had departed from Saul. Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people. And David behaved wisely in all his ways, and the Lord was with him. Therefore, when Saul saw that he behaved very wisely, he was afraid of him. But all Israel and Judah loved David, because he went out and came in before them.",
+    "words": "Now Saul was afraid of David, because the Lord was with him, but had departed from Saul. Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people. <span>And David behaved wisely in all his ways, and the Lord was with him. Therefore, when Saul saw that he behaved very wisely, he was afraid of him.</span> But all Israel and Judah loved David, because he went out and came in before them.",
     "source": "1 Sam 18:12-16"
   },
   {
@@ -1471,7 +1466,7 @@ let powerWords = [
     "source": "John 15:1"
   },
   {
-    "words": "“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.",
+    "words": "“I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for <span>without Me you can do nothing.</span>",
     "source": "John 15:5"
   },
   {
@@ -1483,7 +1478,7 @@ let powerWords = [
     "source": "Matt 5:14"
   },
   {
-    "words": "Who is like a wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, And the sternness of his face is changed.",
+    "words": "Who is like a wise man? And who knows the interpretation of a thing? A man\'s wisdom makes his face shine, And the sternness of his face is changed.",
     "source": "Eccl 8:1"
   },
   {
@@ -1491,7 +1486,7 @@ let powerWords = [
     "source": "2 Cor 9:10"
   },
   {
-    "words": "Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted. Bear one another’s burdens, and so fulfill the law of Christ.",
+    "words": "Brethren, if a man is overtaken in any trespass, you who are spiritual restore such a one in a spirit of gentleness, considering yourself lest you also be tempted. Bear one another\'s burdens, and so fulfill the law of Christ.",
     "source": "Gal 6:1-2"
   },
   {
@@ -1499,7 +1494,7 @@ let powerWords = [
     "source": "2 Cor 10:4-6"
   },
   {
-    "words": "For they did not gain possession of the land by their own sword, Nor did their own arm save them; But it was Your right hand, Your arm, and the light of Your countenance, Because You favored them.",
+    "words": "For they did not gain possession of the land by their own sword,<br>Nor did their own arm save them;<br>But it was Your right hand, Your arm, and the light of Your countenance,<br>Because You favored them.",
     "source": "Ps 44:3"
   },
   {
@@ -1515,15 +1510,15 @@ let powerWords = [
     "source": "Col 2:10"
   },
   {
-    "words": "who, being past feeling, have given themselves over to lewdness, to work all uncleanness with greediness",
+    "words": "who, <span>being past feeling,</span> have given themselves over to lewdness, to work all uncleanness with greediness",
     "source": "Eph 4:19"
   },
   {
-    "words": "Two things I request of You (Deprive me not before I die): Remove falsehood and lies far from me; Give me neither poverty nor riches. Feed me with the food allotted to me; Lest I be full and deny You, And say, “Who is the Lord?” Or lest I be poor and steal, And profane the name of my God.",
+    "words": "Two things I request of You<br>(Deprive me not before I die):<br>Remove falsehood and lies far from me;<br><span>Give me neither poverty nor riches.</span><br>Feed me with the food allotted to me;<br>Lest I be full and deny You,<br>And say, \“Who is the Lord?\”<br>Or lest I be poor and steal,<br>And profane the name of my God.",
     "source": "Prov 30:7-9"
   },
   {
-    "words": "They shall not hurt nor destroy in all My holy mountain, For the earth shall be full of the knowledge of the Lord As the waters cover the sea.",
+    "words": "They shall not hurt nor destroy in all My holy mountain,<br>For the earth shall be full of the knowledge of the Lord<br>As the waters cover the sea.",
     "source": "Is 11:9"
   },
   {
@@ -1539,7 +1534,7 @@ let powerWords = [
     "source": "1 Tim 2:4"
   },
   {
-    "words": "Do not be afraid of their faces, For I am with you to deliver you,” says the Lord.",
+    "words": "Do not be afraid of their faces,<br>For I am with you to deliver you,\” says the Lord.",
     "source": "Jer 1:8"
   },
   {
@@ -1547,21 +1542,22 @@ let powerWords = [
     "source": "Jer 3:15"
   },
   {
-    "words": "Circumcise yourselves to the Lord, And take away the foreskins of your hearts, You men of Judah and inhabitants of Jerusalem, Lest My fury come forth like fire, And burn so that no one can quench it, Because of the evil of your doings.",
+    "words": "<span>Circumcise yourselves to the Lord,<br>And take away the foreskins of your hearts,</span><br>You men of Judah and inhabitants of Jerusalem,<br>Lest My fury come forth like fire,<br>And burn so that no one can quench it,<br>Because of the evil of your doings.",
     "source": "Jer 4:4"
   },
   {
-    "words": "Seek the Lord, all you meek of the earth, Who have upheld His justice. Seek righteousness, seek humility. It may be that you will be hidden In the day of the Lord’s anger.",
+    "words": "Seek the Lord, all you meek of the earth,<br>Who have upheld His justice.<br><span>Seek righteousness, seek humility.</span><br>It may be that you will be hidden<br>In the day of the Lord’s anger.",
     "source": "Zeph 2:3"
   },
   {
-    "words": "His brightness was like the light; He had rays flashing from His hand, And there His power was hidden.",
+    "words": "His brightness was like the light;<br>He had rays flashing from His hand,<br>And there His power was hidden.",
     "source": "Hab 3:4"
   },
   {
-    "words": "He covers His hands with lightning, And commands it to strike.",
+    "words": "He covers His hands with lightning,<br>And commands it to strike.",
     "source": "Job 36:32"
   },
+  //TUTAJ
   {
     "words": "He sent from above, He took me; He drew me out of many waters. He delivered me from my strong enemy, From those who hated me, For they were too strong for me. They confronted me in the day of my calamity, But the Lord was my support. He also brought me out into a broad place; He delivered me because He delighted in me.",
     "source": "Ps 18:16-19"
@@ -2706,8 +2702,8 @@ let powerWords = [
 let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
-  //let ran = Math.floor(Math.random() * powerWords.length );
-  let ran = 0;
+  let ran = Math.floor(Math.random() * powerWords.length );
+  //let ran = 385;
   let picked = powerWords[ran];
   powerWords.splice(ran,1)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
