@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "The Lord is in His holy temple, The Lord’s throne is in heaven; His eyes behold, His eyelids test the sons of men. The Lord tests the righteous, But the wicked and the one who loves violence His soul hates.",
+    "source": "Ps 11:4-5"
+  },
+  {
     "words": "When Jesus said I THIRST it meant thirst for souls of people.",
     "source": "TB"
   },
