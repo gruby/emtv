@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Unless the Lord had been my help,<br>My soul would soon have settled in silence.",
+    "source": "Ps 94:17"
+  },
+  {
     "words": "The Lord is in His holy temple,<br>The Lord’s throne is in heaven;<br><span>His eyes behold</span>,<br>His eyelids test the sons of men.<br>The Lord tests the righteous,<br>But the wicked and the one who loves violence His soul hates.",
     "source": "Ps 11:4-5"
   },
@@ -14,7 +18,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Whenever I am afraid, I will trust in You. In God (I will praise His word), In God I have put my trust; I will not fear. What can flesh do to me?",
+    "words": "Whenever I am afraid,<br>I will trust in You.<br>In God (I will praise His word),<br>In God I have put my trust;<br>I will not fear.<br>What can flesh do to me?",
     "source": "Ps 56:3-4"
   },
   {
@@ -22,7 +26,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "I, even I, am He who comforts you. Who are you that you should be afraid Of a man who will die, And of the son of a man who will be made like grass?",
+    "words": "I, even I, am He who comforts you.<br><span>Who are you that you should be afraid</span><br>Of a man who will die,<br>And of the son of a man who will be made like grass?",
     "source": "Is 51:12"
   },
   {
@@ -30,7 +34,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "We need something to bother us - God bless me to help these people. Then you live beyond the human destruction.",
+    "words": "\"We need something to bother us - God bless me to help these people\" - then you live beyond the human destruction.",
     "source": "TB"
   },
   {
@@ -90,7 +94,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "When you endure trials and persecution, God will deal you as a Son.",
+    "words": "When you endure trials and persecution, God will deal with you as a Son.",
     "source": "TB"
   },
   {
@@ -178,7 +182,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Nothing makes you better than your enemy when you respond to offences",
+    "words": "Nothing makes you better than your enemy when you respond to offences.",
     "source": "TB"
   },
   {
@@ -206,7 +210,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Both riches and honor come from You, And You reign over all. In Your hand is power and might; In Your hand it is to make great And to give strength to all.",
+    "words": "Both riches and honor come from You, And You reign over all. In Your hand is power and might; In Your hand it is to make great And to give strength to all.",
     "source": "1 Chr 29:12"
   },
   {
@@ -214,7 +218,7 @@ let powerWords = [
     "source": "Ex 34:3"
   },
   {
-    "words": "For the Lord had said to Moses, “Say to the children of Israel, ‘You are a stiff-necked people. I could come up into your midst in one moment and consume you. Now therefore, take off your ornaments, that I may know what to do to you.",
+    "words": "For the Lord had said to Moses, “Say to the children of Israel, ‘You are a stiff-necked people. I could come up into your midst in one moment and consume you. <span>Now therefore, take off your ornaments, that I may know what to do to you.</span>",
     "source": "Ex 33:5"
   },
   {
@@ -242,7 +246,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "How do we test the spirit? We go for the prayer.",
+    "words": "How do we test the spirit?<br>We go for the prayer.",
     "source": "TB"
   },
   {
@@ -334,7 +338,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Faith does not originate in ourselves. Faith is a pure gift from God",
+    "words": "Faith does not originate in ourselves. Faith is a pure gift from God.",
     "source": "TB"
   },
   {
@@ -370,7 +374,7 @@ let powerWords = [
     "source": "EV Ope"
   },
   {
-    "words": "To fast is to abstain from unrighteousness",
+    "words": "To fast is to abstain from unrighteousness.",
     "source": "TB"
   },
   {
@@ -438,7 +442,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "For the redemption of their souls is costly, And it shall cease forever",
+    "words": "For the redemption of their souls is costly,<br>And it shall cease forever",
     "source": "Ps 49:8"
   },
   {
@@ -450,19 +454,19 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Cast your burden on the Lord,And He shall sustain you; He shall never permit the righteous to be moved.",
+    "words": "Cast your burden on the Lord,<br>And He shall sustain you;<br>He shall never permit the righteous to be moved.",
     "source": "Ps 55:22"
   },
   {
-    "words": "Men listened to me and waited, And kept silence for my counsel.",
+    "words": "<span>Men listened to me and waited,<br>And kept silence for my counsel.</span>",
     "source": "Job 29:21"
   },
   {
-    "words": "Many are the afflictions of the righteous, But the LORD delivers him out of them all.",
+    "words": "Many are the afflictions of the righteous,<br>But the LORD delivers him out of them all.",
     "source": "Ps 34:19"
   },
   {
-    "words": "'Behold, the days are coming,' says the Lord God, 'That I will send a famine on the land, Not a famine of bread, Nor a thirst for water, But of hearing the words of the Lord. They shall wander from sea to sea, And from north to east; They shall run to and fro, seeking the word of the Lord, But shall not find it.",
+    "words": "'Behold, the days are coming,' says the Lord God,<br>'That I will send a famine on the land,<br>Not a famine of bread,<br>Nor a thirst for water,<br><span>But of hearing the words of the Lord.</span><br>They shall wander from sea to sea, And from north to east;<br>They shall run to and fro, seeking the word of the Lord,<br>But shall not find it.",
     "source": "Amos 8:11-12"
   },
   {
@@ -474,7 +478,7 @@ let powerWords = [
     "source": "GG Smith"
   },
   {
-    "words":"He gives power to the weak, And to those who have no might He increases strength.",
+    "words":"He gives power to the weak,<br>And to those who have no might He increases strength.",
     "source": "Is 40:29"
   },
   {
@@ -486,7 +490,7 @@ let powerWords = [
     "source": "Mark 13:18 ?"
   },
   {
-    "words": "I wrote to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us. Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.",
+    "words": "I wrote to the church, but Diotrephes, <span>who loves to have the preeminence among them, does not receive us.</span> Therefore, if I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.",
     "source": "3 John 1:9-10"
   },
   {
@@ -634,15 +638,15 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "The eyes of the LORD are in every place, Keeping watch on the evil and the good.",
+    "words": "The eyes of the LORD are in every place,<br>Keeping watch on the evil and the good.",
     "source": "Prov 15:3"
   },
   {
-    "words": "Do not be wise in your own eyes; Fear the LORD and depart from evil.",
+    "words": "Do not be wise in your own eyes;<br>Fear the LORD and depart from evil.",
     "source": "Prov 3:7"
   },
   {
-    "words": "For God will bring every work into judgment, Including every secret thing, Whether good or evil.",
+    "words": "For God will bring every work into judgment,<br>Including every secret thing, Whether good or evil.",
     "source": "Eccl 12:14"
   },
   {
@@ -654,7 +658,7 @@ let powerWords = [
     "source": "Eccl 8:8"
   },
   {
-    "words": "The fear of the LORD leads to life, And he who has it will abide in satisfaction; He will not be visited with evil.",
+    "words": "The fear of the LORD leads to life,<br>And he who has it will abide in satisfaction;<br>He will not be visited with evil.",
     "source": "Prov 19:23"
   },
   {
@@ -662,15 +666,15 @@ let powerWords = [
     "source": "Luke 11:52"
   },
   {
-    "words": "Where there is no revelation, the people cast off restraint; But happy is he who keeps the law. A servant will not be corrected by mere words; For though he understands, he will not respond.",
+    "words": "Where there is no revelation, the people cast off restraint;<br>But happy is he who keeps the law.<br>A servant will not be corrected by mere words; For though he understands, he will not respond.",
     "source": "Prov 29:18-19"
   },
   {
-    "words": "He who trusts in his own heart is a fool, But whoever walks wisely will be delivered.",
+    "words": "He who trusts in his own heart is a fool,<br>But whoever walks wisely will be delivered.",
     "source": "Prov 28:26"
   },
   {
-    "words": "Happy is the man who is always reverent, But he who hardens his heart will fall into calamity.",
+    "words": "Happy is the man who is <span>always reverent,</span><br>But he who hardens his heart will fall into calamity.",
     "source": "Prov 28:14"
   },
   {
@@ -686,11 +690,11 @@ let powerWords = [
     "source": "2 Pet 1:20-21"
   },
   {
-    "words": "Truly, this only I have found: That God made man upright, But they have sought out many schemes.",
+    "words": "Truly, this only I have found:<br>That God made man upright,<br>But they have sought out many schemes.",
     "source": "Eccl 7:29"
   },
   {
-    "words": "Consider the work of God; For who can make straight what He has made crooked?",
+    "words": "Consider the work of God;<br>For who can make straight what He has made crooked?",
     "source": "Eccl 7:13"
   },
   {
@@ -738,7 +742,7 @@ let powerWords = [
     "source": "James 2:10"
   },
   {
-    "words": "No weapon formed against you shall prosper, And every tongue which rises against you in judgment You shall condemn. This is the heritage of the servants of the Lord, And their righteousness is from Me,” Says the Lord.",
+    "words": "No weapon formed against you shall prosper,<br>And every tongue which rises against you in judgment You shall condemn.<br><span>This is the heritage of the servants of the Lord,</span><br>And their righteousness is from Me,” Says the Lord.",
     "source": "Is 54:17"
   },
   {
@@ -794,7 +798,7 @@ let powerWords = [
     "source": "1 Sam 21:1-2"
   },
   {
-    "words": "And if you call on the Father, who without partiality judges according to each one’s work, conduct yourselves throughout the time of your stay here in fear; knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.",
+    "words": "And if you call on the Father, who without partiality judges according to each one\'s work, <span>conduct yourselves throughout the time of your stay here in fear;</span> knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.",
     "source": "1 Pet 1:17-19"
   },
   {
@@ -830,23 +834,23 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Give us help from trouble, For the help of man is useless.",
+    "words": "Give us help from trouble,<br><span>For the help of man is useless.</span> ",
     "source": "Ps 108:12"
   },
   {
-    "words": "They soon forgot His works; They did not wait for His counsel, But lusted exceedingly in the wilderness, And tested God in the desert. And He gave them their request, But sent leanness into their soul.",
+    "words": "They soon forgot His works;<br>They did not wait for His counsel, But lusted exceedingly in the wilderness,<br>And tested God in the desert.<br>And He gave them their request, But sent leanness into their soul.",
     "source": "Ps 106:13-15"
   },
   {
-    "words": "Blows that hurt cleanse away evil, As do stripes the inner depths of the heart.",
+    "words": "<span>Blows that hurt cleanse away evil,</span><br>As do stripes the inner depths of the heart.",
     "source": "Prov 20:30"
   },
   {
-    "words": "Mercy and truth preserve the king, And by lovingkindness he upholds his throne.",
+    "words": "Mercy and truth preserve the king,<br>And by lovingkindness he upholds his throne.",
     "source": "Prov 20:28"
   },
   {
-    "words": "A king who sits on the throne of judgment Scatters all evil with his eyes.",
+    "words": "A king who sits on the throne of judgment<br>Scatters all evil with his eyes.",
     "source": "Prov 20:8"
   },
   {
@@ -878,7 +882,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "But to the wicked God says: 'What right have you to declare My statutes, Or take My covenant in your mouth, Seeing you hate instruction And cast My words behind you? When you saw a thief, you consented with him, And have been a partaker with adulterers. You give your mouth to evil, And your tongue frames deceit. You sit and speak against your brother; You slander your own mother’s son.",
+    "words": "But to the wicked God says:<br>'What right have you to declare My statutes,<br>Or take My covenant in your mouth, Seeing you hate instruction<br>And cast My words behind you?<br>When you saw a thief, you consented with him,<br>And have been a partaker with adulterers.<br>You give your mouth to evil,<br>And your tongue frames deceit.<br>You sit and speak against your brother;<br>You slander your own mother’s son.",
     "source": "Ps 50:16-20"
   },
   {
@@ -902,7 +906,7 @@ let powerWords = [
     "source": "Luke 17:25"
   },
   {
-    "words": "But Peter and the other apostles answered and said: 'We ought to obey God rather than men. The God of our fathers raised up Jesus whom you murdered by hanging on a tree. Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins. And we are His witnesses to these things, and so also is the Holy Spirit whom God has given to those who obey Him.",
+    "words": "But Peter and the other apostles answered and said: 'We ought to obey God rather than men. The God of our fathers raised up Jesus whom you murdered by hanging on a tree. Him God has exalted to His right hand to be Prince and Savior, to give repentance to Israel and forgiveness of sins. And we are His witnesses to these things, and so also is <span>the Holy Spirit whom God has given to those who obey Him.</span>",
     "source": "Acts 5:29-32"
   },
   {
@@ -929,6 +933,7 @@ let powerWords = [
     "words": "But Jesus called them to Himself and said, 'You know that the rulers of the Gentiles lord it over them, and those who are great exercise authority over them. Yet it shall not be so among you; but whoever desires to become great among you, let him be your servant. And whoever desires to be first among you, let him be your slave--just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.'",
     "source": "Matt 20:25-28"
   },
+  //TUTAJ
   {
     "words": "Rejoice the soul of Your servant, For to You, O Lord, I lift up my soul.",
     "source": "Ps 86:4"
