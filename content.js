@@ -1557,9 +1557,8 @@ let powerWords = [
     "words": "He covers His hands with lightning,<br>And commands it to strike.",
     "source": "Job 36:32"
   },
-  //TUTAJ
   {
-    "words": "He sent from above, He took me; He drew me out of many waters. He delivered me from my strong enemy, From those who hated me, For they were too strong for me. They confronted me in the day of my calamity, But the Lord was my support. He also brought me out into a broad place; He delivered me because He delighted in me.",
+    "words": "He sent from above, He took me;<br>He drew me out of many waters.<span><br>He delivered me from my strong enemy,<br>From those who hated me,<br>For they were too strong for me.<br></span>They confronted me in the day of my calamity,<br>But the Lord was my support.<br>He also brought me out into a broad place;<br>He delivered me because He delighted in me.",
     "source": "Ps 18:16-19"
   },
   {
@@ -1567,7 +1566,7 @@ let powerWords = [
     "source": "Rev 3:16"
   },
   {
-    "words": "Pilate therefore said to Him, “Are You a king then?” Jesus answered, “You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.”",
+    "words": "Pilate therefore said to Him, “Are You a king then?” Jesus answered, \“You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice.\”",
     "source": "John 18:37"
   },
   {
@@ -1587,7 +1586,7 @@ let powerWords = [
     "source": "Acts 24:16"
   },
   {
-    "words": "Now as he reasoned about righteousness, self-control, and the judgment to come, Felix was afraid and answered, “Go away for now; when I have a convenient time I will call for you.”",
+    "words": "Now as he reasoned about righteousness, self-control, and the judgment to come, Felix was afraid and answered, \“Go away for now; when I have a convenient time I will call for you.\”",
     "source": "Acts 24:25"
   },
   {
@@ -1595,7 +1594,7 @@ let powerWords = [
     "source": "Luke 5:17"
   },
   {
-    "words": "Then he said to him, “Did not my heart go with you when the man turned back from his chariot to meet you? Is it time to receive money and to receive clothing, olive groves and vineyards, sheep and oxen, male and female servants?",
+    "words": "Then he said to him, \“Did not my heart go with you when the man turned back from his chariot to meet you? Is it time to receive money and to receive clothing, olive groves and vineyards, sheep and oxen, male and female servants?\“",
     "source": "2 Kin 5:26"
   },
   {
@@ -1603,7 +1602,7 @@ let powerWords = [
     "source": "2 Kin 8:11"
   },
   {
-    "words": "For the eyes of the Lord run to and fro throughout the whole earth, to show Himself strong on behalf of those whose heart is loyal to Him. In this you have done foolishly; therefore from now on you shall have wars. ",
+    "words": "<span>For the eyes of the Lord run to and fro throughout the whole earth, to show Himself strong on behalf of those whose heart is loyal to Him.</span> In this you have done foolishly; therefore from now on you shall have wars. ",
     "source": "2 Chr 16:9"
   },
   {
@@ -1619,23 +1618,23 @@ let powerWords = [
     "source": "Matt 8:18"
   },
   {
-    "words": "And you will be blessed, because they cannot repay you; for you shall be repaid at the resurrection of the just.",
+    "words": "<span>And you will be blessed, because they cannot repay you;</span> for you shall be repaid at the resurrection of the just.",
     "source": "Luke 14:14"
   },
   {
-    "words": "The king said moreover to Shimei, “You know, as your heart acknowledges, all the wickedness that you did to my father David; therefore the Lord will return your wickedness on your own head. ",
+    "words": "The king said moreover to Shimei, <span>\“You know, as your heart acknowledges, </span>all the wickedness that you did to my father David; therefore the Lord will return your wickedness on your own head.",
     "source": "1 Kin 2:44"
   },
   {
-    "words": "Behold, the eye of the Lord is on those who fear Him, On those who hope in His mercy,",
+    "words": "Behold, the eye of the Lord is on those who fear Him,<br>On those who hope in His mercy,",
     "source": "Ps 33:18"
   },
   {
-    "words": "It is better to trust in the Lord Than to put confidence in man.",
+    "words": "It is better to trust in the Lord<br>Than to put confidence in man.",
     "source": "Ps 118:8"
   },
   {
-    "words": "please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father’s house and I have sinned.",
+    "words": "please let Your ear be attentive and Your eyes open, that You may hear the prayer of Your servant which I pray before You now, day and night, for the children of Israel Your servants, and confess the sins of the children of Israel which we have sinned against You. Both my father\'s house and I have sinned.",
     "source": "Neh 1:6"
   },
   {
@@ -1643,7 +1642,7 @@ let powerWords = [
     "source": "Neh 9:2"
   },
   {
-    "words": "You are my hiding place; You shall preserve me from trouble; You shall surround me with songs of deliverance.",
+    "words": "You are my hiding place;<br>You shall preserve me from trouble;<br>You shall surround me with songs of deliverance.",
     "source": "Ps 32:7"
   },
   {
@@ -1667,7 +1666,7 @@ let powerWords = [
     "source": "2 Chr 32:31"
   },
   {
-    "words": "Then it came to pass, when Pharaoh had let the people go, that God did not lead them by way of the land of the Philistines, although that was near; for God said, “Lest perhaps the people change their minds when they see war, and return to Egypt.”",
+    "words": "Then it came to pass, when Pharaoh had let the people go, that God did not lead them by way of the land of the Philistines, although that was near; for God said, <span>\“Lest perhaps the people change their minds when they see war, and return to Egypt.\”</span>",
     "source": "Ex 13:17"
   },
   {
@@ -1675,11 +1674,11 @@ let powerWords = [
     "source": "Ezek 37:7"
   },
   {
-    "words": "They hate the one who rebukes in the gate, And they abhor the one who speaks uprightly.",
+    "words": "They hate the one who rebukes in the gate,<br>And they abhor the one who speaks uprightly.",
     "source": "Amos 5:10"
   },
   {
-    "words": "And the name of the second he called Ephraim: “For God has caused me to be fruitful in the land of my affliction.”",
+    "words": "And the name of the second he called Ephraim: \“For God has caused me to be fruitful in the land of my affliction.\”",
     "source": "Gen 41:52"
   },
   {
@@ -1687,15 +1686,15 @@ let powerWords = [
     "source": "2 Cor 12:6"
   },
   {
-    "words": "For our boasting is this: the testimony of our conscience that we conducted ourselves in the world in simplicity and godly sincerity, not with fleshly wisdom but by the grace of God, and more abundantly toward you.",
+    "words": "For our boasting is this: the testimony of our conscience that we conducted ourselves in the world in simplicity and godly sincerity, <span>not with fleshly wisdom but by the grace of God,</span> and more abundantly toward you.",
     "source": "2 Cor 1:12"
   },
   {
-    "words": "And they spoke to him, saying, “If you will be a servant to these people today, and serve them, and answer them, and speak good words to them, then they will be your servants forever.”",
+    "words": "And they spoke to him, saying, \“If you will be a servant to these people today, and serve them, and answer them, and speak good words to them, then they will be your servants forever.\”",
     "source": "1 Kin 12:7"
   },
   {
-    "words": "So truth fails, And he who departs from evil makes himself a prey.",
+    "words": "So truth fails,<br><span>And he who departs from evil makes himself a prey.</span>",
     "source": "Is 59:15"
   },
   {
@@ -1703,11 +1702,11 @@ let powerWords = [
     "source": "Hag 1:8"
   },
   {
-    "words": "The fear of the Lord is clean, enduring forever; The judgments of the Lord are true and righteous altogether.",
+    "words": "<span>The fear of the Lord is clean, enduring forever;</span><br>The judgments of the Lord are true and righteous altogether.",
     "source": "Ps 19:9"
   },
   {
-    "words": "My son, give me your heart, And let your eyes observe my ways.",
+    "words": "My son, give me your heart,<br>And let your eyes observe my ways.",
     "source": "Prov 23:26"
   },
   {
@@ -1727,7 +1726,7 @@ let powerWords = [
     "source": "Ezra 10:44"
   },
   {
-    "words": "Then he said to them, “You know how unlawful it is for a Jewish man to keep company with or go to one of another nation. But God has shown me that I should not call any man common or unclean.",
+    "words": "Then he said to them, \“You know how unlawful it is for a Jewish man to keep company with or go to one of another nation. But God has shown me that I should not call any man common or unclean.",
     "source": "Acts 10:28"
   },
   {
@@ -1739,7 +1738,7 @@ let powerWords = [
     "source": "1 Thess 3:3"
   },
   {
-    "words": "Therefore receive one another, just as Christ also received us, to the glory of God. Now I say that Jesus Christ has become a servant to the circumcision for the truth of God, to confirm the promises made to the fathers,",
+    "words": "<span>Therefore receive one another, just as Christ also received us, to the glory of God.</span> Now I say that Jesus Christ has become a servant to the circumcision for the truth of God, to confirm the promises made to the fathers,",
     "source": "Rom 15:7-8"
   },
   {
@@ -1747,7 +1746,7 @@ let powerWords = [
     "source": "Luke 7:30"
   },
   {
-    "words": "When a man takes hold of his brother In the house of his father, saying, “You have clothing; You be our ruler, And let these ruins be under your power,” In that day he will protest, saying, “I cannot cure your ills, For in my house is neither food nor clothing; Do not make me a ruler of the people.”",
+    "words": "When a man takes hold of his brother<br>In the house of his father, saying,<br>\“You have clothing;<br>You be our ruler,<br>And let these ruins be under your power,\”<br>In that day he will protest, saying,<br>\“I cannot cure your ills,<br>For in my house is neither food nor clothing;<br>Do not make me a ruler of the people.\”",
     "source": "Is 3:6-7"
   },
   {
@@ -1783,11 +1782,11 @@ let powerWords = [
     "source": "Prov 14:29"
   },
   {
-    "words": "“I, even I, am He who blots out your transgressions for My own sake; And I will not remember your sins. Put Me in remembrance; Let us contend together; State your case, that you may be acquitted.",
+    "words": "\“I, even I, am He who blots out your transgressions for My own sake;<br>And I will not remember your sins. Put Me in remembrance;<br>Let us contend together;<br>State your case, that you may be acquitted.",
     "source": "Is 43:25-26"
   },
   {
-    "words": "For thus says the Lord God, the Holy One of Israel: “In returning and rest you shall be saved; In quietness and confidence shall be your strength.” But you would not,",
+    "words": "For thus says the Lord God, the Holy One of Israel:<br><br>\“In returning and rest you shall be saved;<span><br>In quietness and confidence shall be your strength.\”<br></span>But you would not,",
     "source": "Is 30:15"
   },
   {
@@ -1795,11 +1794,11 @@ let powerWords = [
     "source": "2 Chr 29:11"
   },
   {
-    "words": "A merry heart does good, like medicine, But a broken spirit dries the bones.",
+    "words": "A merry heart does good, like medicine,<br>But a broken spirit dries the bones.",
     "source": "Prov 17:22"
   },
   {
-    "words": "Now also when I am old and grayheaded, O God, do not forsake me, Until I declare Your strength to this generation, Your power to everyone who is to come.",
+    "words": "Now also when I am old and grayheaded,<br>O God, do not forsake me,<br>Until I declare Your strength to this generation,<br>Your power to everyone who is to come.",
     "source": "Ps 71:18"
   },
   {
@@ -1823,7 +1822,7 @@ let powerWords = [
     "source": "Mark 6:52"
   },
   {
-    "words": "This man heard Paul speaking. Paul, observing him intently and seeing that he had faith to be healed,",
+    "words": "This man heard Paul speaking. Paul, <span>observing him intently and seeing that he had faith to be healed,</span>",
     "source": "Acts 14:9"
   },
   {
@@ -1835,7 +1834,7 @@ let powerWords = [
     "source": "Phil 4:17-18"
   },
   {
-    "words": "And another angel followed, saying, “Babylon is fallen, is fallen, that great city, because she has made all nations drink of the wine of the wrath of her fornication.”",
+    "words": "And another angel followed, saying, \“Babylon is fallen, is fallen, that great city, because she has made all nations drink of the wine of the wrath of her fornication.\”",
     "source": "Rev 14:8"
   },
   {
@@ -1851,55 +1850,55 @@ let powerWords = [
     "source": "John 3:34"
   },
   {
-    "words": "And he said, 'O man greatly beloved, fear not! Peace be to you; be strong, yes, be strong!' So when he spoke to me I was strengthened, and said, 'Let my lord speak, for you have strengthened me.' ",
+    "words": "And he said, \'O man greatly beloved, fear not! Peace be to you; be strong, yes, be strong!\' So when he spoke to me I was strengthened, and said, \'Let my lord speak, for you have strengthened me.\'",
     "source": "Dan 10:19"
   },
   {
-    "words": "And you have done worse than your fathers, for behold, each one follows the dictates of his own evil heart, so that no one listens to Me. Therefore I will cast you out of this land into a land that you do not know, neither you nor your fathers; and there you shall serve other gods day and night, where I will not show you favor.'",
+    "words": "And you have done worse than your fathers, for behold, <span>each one follows the dictates of his own evil heart, </span>so that no one listens to Me. Therefore I will cast you out of this land into a land that you do not know, neither you nor your fathers; and there you shall serve other gods day and night, where I will not show you favor.",
     "source": "Jer 16:12-13"
   },
   {
-    "words": "And seek the peace of the city where I have caused you to be carried away captive, and pray to the Lord for it; for in its peace you will have peace.",
+    "words": "And seek the peace of the city where I have caused you to be carried away captive, and pray to the Lord for it; <span>for in its peace you will have peace.</span>",
     "source": "Jer 29:7"
   },
   {
-    "words": "And David said to Gad, 'I am in great distress. Please let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hand of man.' ",
+    "words": "And David said to Gad, \'I am in great distress. Please let me fall into the hand of the LORD, for His mercies are very great; but do not let me fall into the hand of man.\'",
     "source": "1 Chr 21:9"
   },
   {
-    "words": "Then Amaziah said to the man of God, 'But what shall we do about the hundred talents which I have given to the troops of Israel?'And the man of God answered, 'The LORD is able to give you much more than this.'",
+    "words": "Then Amaziah said to the man of God, \'But what shall we do about the hundred talents which I have given to the troops of Israel?\' And the man of God answered, \'The LORD is able to give you much more than this.\'",
     "source": "2 Chr 25:9"
   },
   {
-    "words": "that the sharing of your faith may become effective by the acknowledgment of every good thing which is in you in Christ Jesus.",
+    "words": "that the <span>sharing of your faith may become effective by the acknowledgment</span> of every good thing which is in you in Christ Jesus.",
     "source": "Philem 1:6"
   },
   {
-    "words": "Thus says the Lord, your Redeemer, The Holy One of Israel: I am the Lord your God, Who teaches you to profit, Who leads you by the way you should go.",
+    "words": "Thus says the Lord, your Redeemer, The Holy One of Israel:<br>\'I am the Lord your God, Who teaches you to profit, Who leads you by the way you should go.\'",
     "source": "Is 48:17"
   },
   {
-    "words": "God will hear, and afflict them, Even He who abides from of old. Because they do not change, Therefore they do not fear God.",
+    "words": "God will hear, and afflict them,<br>Even He who abides from of old.<span><br>Because they do not change,<br>Therefore they do not fear God.</span>",
     "source": "Ps 55:19"
   },
   {
-    "words": "He will fulfill the desire of those who fear Him; He also will hear their cry and save them.",
+    "words": "He will fulfill the desire of those who fear Him;<br>He also will hear their cry and save them.",
     "source": "Ps 145:19"
   },
   {
-    "words": "The Lord takes pleasure in those who fear Him, In those who hope in His mercy.",
+    "words": "The Lord takes pleasure in those who fear Him,<br>In those who hope in His mercy.",
     "source": "Ps 147:11"
   },
   {
-    "words": "Happy is he who has the God of Jacob for his help, Whose hope is in the Lord his God,",
+    "words": "Happy is he who has the God of Jacob for his help,<br>Whose hope is in the Lord his God,",
     "source": "Ps 146:5"
   },
   {
-    "words": "Do not put your trust in princes, Nor in a son of man, in whom there is no help.",
+    "words": "Do not put your trust in princes,<br> Nor in a son of man,<br>in whom there is no help.",
     "source": "Ps 146:3"
   },
   {
-    "words": "Then Isaiah the son of Amoz sent to Hezekiah, saying, 'Thus says the LORD God of Israel: 'Because you have prayed to Me against Sennacherib king of Assyria, I have heard.' ",
+    "words": "Then Isaiah the son of Amoz sent to Hezekiah, saying, \'Thus says the LORD God of Israel: <span>\'Because you have prayed to Me against Sennacherib king of Assyria, I have heard.\'</span>",
     "source": "2 Kin 19:20"
   },
   {
@@ -1907,29 +1906,30 @@ let powerWords = [
     "source": "Prov 27:18"
   },
   {
-    "words": "O LORD, are not Your eyes on the truth? You have stricken them, But they have not grieved; You have consumed them, But they have refused to receive correction. They have made their faces harder than rock; They have refused to return.",
+    "words": "O LORD, are not Your eyes on the truth?<br>You have stricken them,<br>But they have not grieved;<br>You have consumed them,<br>But they have refused to receive correction.<br>They have made their faces harder than rock;<br>They have refused to return.",
     "source": "Jer 5:3"
   },
   {
-    "words": "I said in my heart, 'Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.",
+    "words": "I said in my heart, 'Concerning the condition of the sons of men, God tests them, that <span>they may see that they themselves are like animals.</span>",
     "source": "Eccl 3:18"
   },
   {
-    "words": "Everyone proud in heart is an abomination to the LORD; Though they join forces, none will go unpunished.",
+    "words": "Everyone proud in heart is an abomination to the LORD;<br>Though they join forces, none will go unpunished.",
     "source": "Prov 16:5"
   },
   {
-    "words": "Poverty and shame will come to him who disdains correction, But he who regards a rebuke will be honored.",
+    "words": "Poverty and shame will come to him who disdains correction,<br>But he who regards a rebuke will be honored.",
     "source": "Prov 13:18"
   },
   {
-    "words": "There are many plans in a man's heart, Nevertheless the LORD's counsel--that will stand.",
+    "words": "There are many plans in a man's heart,<br>Nevertheless the LORD's counsel--that will stand.",
     "source": "Prov 19:21"
   },
   {
-    "words": "The fear of the LORD is to hate evil; Pride and arrogance and the evil way And the perverse mouth I hate.",
+    "words": "The fear of the LORD is to hate evil;<br>Pride and arrogance and the evil way And the perverse mouth I hate.",
     "source": "Prov 8:13"
   },
+  //tutaj
   {
     "words": "In the multitude of words sin is not lacking, But he who restrains his lips is wise.",
     "source": "Prov 10:19"
@@ -2703,7 +2703,7 @@ let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
   let ran = Math.floor(Math.random() * powerWords.length );
-  //let ran = 385;
+  //let ran = 475;
   let picked = powerWords[ran];
   powerWords.splice(ran,1)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
