@@ -6,11 +6,95 @@ let powerWords = [
   },
 */
   {
+    "words": "Our heart must be purified by faith and entire for God.",
+    "source": "TB"
+  },
+  {
+    "words": "There is a time to send our petition to God<br>and a time to sit back in faith and listen to what God has to say.",
+    "source": "TB"
+  },
+  {
+    "words": "It is requisite that a soldier be both stout-hearted and well armed.",
+    "source": "TB"
+  },
+  {
+    "words": "We all fight similar battles just camouflaged differently.<br>If God is with me, it is enough.",
+    "source": "TB"
+  },
+  {
+    "words": "God speaks to us through the Holy Word, reveals His view concerning a certain matter and gives a promise.<br><span>Faith comes from such a promise.</span>.<br>Without the promise of God, our faith is in vain.<br>True faith depends on not we think but on what God has said.",
+    "source": "TB"
+  },
+  {
+    "words": "If you want your prayer to be answered, there must not be anything between you and God.",
+    "source": "TB"
+  },
+  {
+    "words": "The power comes not from words, but rather in the pattern of our thinking, in which our minds are formed.",
+    "source": "TB"
+  },
+  {
+    "words": "You can only make decisions when you are alive.",
+    "source": "EV OPE"
+  },
+  {
+    "words": "Death enhances our transition into spiritual world.",
+    "source": "TB"
+  },
+  {
+    "words": "Resolve to do whatever proper thing despite obstacles separates strong from the weak.",
+    "source": "TB"
+  },
+  {
+    "words": "Set a guard over my mouth, o Lord.",
+    "source": "TB"
+  },
+  {
+    "words": "If you have a mountain of a problem, speak directly to the problem.",
+    "source": "TB"
+  },
+  {
+    "words": "You can know if God is with you: when God talks, power talks.",
+    "source": "TB"
+  },
+  {
+    "words": "Forgiveness - if your don\'t give, you don\'t receive.",
+    "source": "TB"
+  },
+  {
+    "words": "Our spiritual life results from our union with Christ Jesus",
+    "source": "TB"
+  },
+  {
+    "words": "You cannot defeat your opponent with the weapons you have not tried. I have tried God and found Him Reliable, Real, Trustworthy, Dependable, Loyal, Genuine, Authentic, Faithful, Steadfast and True!",
+    "source": "TB"
+  },
+  {
+    "words": "The greatest product of meditation is the knowledge and the fear of God.",
+    "source": "TB"
+  },
+  {
+    "words": "The preparations of the heart belong to man,<br>But the answer of the tongue is from the Lord.",
+    "source": "Prov 16:1"
+  },
+  {
+    "words": "Jesus is with you in the living word.",
+    "source": "TB John 1:1"
+  },
+  {
+    "words": "If the Word of God dwells in you, it produces prayer fruits: salvation and all of God's blessings.",
+    "source": "TB"
+  },
+  {
+    "words": "Press on to touch Jesus.",
+    "source": "TB"
+  },
+  {
     "words": "Unless the Lord had been my help,<br>My soul would soon have settled in silence.",
     "source": "Ps 94:17"
   },
   {
-    "words": "The Lord is in His holy temple,<br>The Lord\’s throne is in heaven;<br><span>His eyes behold</span>,<br>His eyelids test the sons of men.<br>The Lord tests the righteous,<br>But the wicked and the one who loves violence His soul hates.",
+    "words": "The Lord is in His holy temple,<br>The Lord\'s throne is in heaven;<br><span>His eyes behold</span>,<br>His eyelids test the sons of men.<br>The Lord tests the righteous,<br>But the wicked and the one who loves violence His soul hates.",
     "source": "Ps 11:4-5"
   },
   {
@@ -626,7 +710,7 @@ let powerWords = [
     "source": "John 19:26"
   },
   {
-    "words": "\'- I am archbishop...\',\'It is a man of God. There is no trace of evil in him\'.",
+    "words": "\'- I am archbishop...\',<br>\'- It is a man of God. There is no trace of evil in him\'.",
     "source": "TB"
   },
   {
@@ -874,7 +958,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Everything big starts little.",
+    "words": "Everything big starts little.<br>If faith must grow, it must start little.<br>If something big starts big, it calls for concern.",
     "source": "TB"
   },
   {
@@ -1070,7 +1154,7 @@ let powerWords = [
     "source": "Matt 7:13-14"
   },
   {
-    "words": "<span>Don\'t bring to God what you want to hear from Him.</span>",
+    "words": "<span>Don\'t bring to God what you want to hear from Him.</span> Grace in the soul is a new life in the soul.",
     "source": "TB"
   },
   {
@@ -1546,7 +1630,7 @@ let powerWords = [
     "source": "Jer 4:4"
   },
   {
-    "words": "Seek the Lord, all you meek of the earth,<br>Who have upheld His justice.<br><span>Seek righteousness, seek humility.</span><br>It may be that you will be hidden<br>In the day of the Lord\’s anger.",
+    "words": "Seek the Lord, all you meek of the earth,<br>Who have upheld His justice.<br><span>Seek righteousness, seek humility.</span><br>It may be that you will be hidden<br>In the day of the Lord\'s anger.",
     "source": "Zeph 2:3"
   },
   {
@@ -2698,8 +2782,8 @@ let powerWords = [
 let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
-  let ran = Math.floor(Math.random() * powerWords.length );
-  //let ran = 0;
+  //let ran = Math.floor(Math.random() * powerWords.length );
+  let ran = 0;
   let picked = powerWords[ran];
   powerWords.splice(ran,1)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
