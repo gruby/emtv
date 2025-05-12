@@ -6,6 +6,26 @@ let powerWords = [
   },
 */
   {
+    "words": "To be saved is to have revelation of the glory of Christ Jesus.<br>What is the revelation?<br>The revelation of God - <span>\'only believe\'<\span>.",
+    "source": "TB"
+  },
+  {
+    "words": "We worship God is Spirit and truth when all our purpose and passion of our heart and when all our acts of worship dancing, singing, praying - are regulated and guided by the Word of God.",
+    "source": "TB"
+  },
+  {
+    "words": "We must depend upon God's Spirit for assistance and strength. We must depend on God's Spirit for our relationship with HIM.",
+    "source": "TB"
+  },
+  {
+    "words": "You can only believe God by the Spirit's power.",
+    "source": "TB"
+  },
+  {
+    "words": "The spiritual strength and grace of one grounded in the Word of God can identify good from evil.",
+    "source": "TB"
+  },
+  {
     "words": "Those whose spirit have power over their flesh will be able to say what will happen next, will be able to see things from God's point of view, you will be able to eat with God from time to time, you will be able to play with God from time to time and you will be able to hear from God from time to time.",
     "source": "TB"
   },
@@ -222,7 +242,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Self-effort is wrong attitude towards sin. It is the Holy Spirit that has to destroy the root of sin.",
+    "words": "Self-effort is wrong attitude towards sin. It is the Holy Spirit that has to destroy the root of sin.<br>Self-effort cannot stop the urge but God's effort, grace, only can.",
     "source": "TB"
   },
   {
