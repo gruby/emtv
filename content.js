@@ -6,11 +6,59 @@ let powerWords = [
   },
 */
   {
+    "words": "Those whose spirit have power over their flesh will be able to say what will happen next, will be able to see things from God's point of view, you will be able to eat with God from time to time, you will be able to play with God from time to time and you will be able to hear from God from time to time.",
+    "source": "TB"
+  },
+  {
+    "words": "It is more essential that your mind must be active, alert and strong in this realm of prayer.",
+    "source": "TB"
+  },
+  {
+    "words": "The peace of conscience we derive from walking with the Lord.",
+    "source": "TB"
+  },
+  {
+    "words": "It takes faith to activate prayer, to energize prayer.",
+    "source": "TB"
+  },
+  {
+    "words": "Prayer is a spiritual force. For prayer to be a spiritual force, it must be filled with Scripture, and it must be accompaniced with Scripture.",
+    "source": "TB"
+  },
+  {
+    "words": "Man's deliverance is threefold:<br>- God delivers man spiritually from the hand of the enemy<br>- God delivers man physically from disease, hunger and want.<br>- God delivers man mentally from being ruled by the senses and brings His Spirit.",
+    "source": "TB"
+  },
+  {
+    "words": "It takes the maturity that comes from faith to realise that our responsibility to God is a committment and fellowship with Him.",
+    "source": "TB"
+  },
+  {
+    "words": "God will strengthen your mind to pray.<br>He will not pray for you.",
+    "source": "TB"
+  },
+  {
+    "words": "All we call our works are like filthy rags before God, because all our spiritual advantages are from God.",
+    "source": "TB"
+  },
+  {
+    "words": "Our faith, our conversion and our eternal salvation are not the mere product of any natural abilities.",
+    "source": "TB"
+  },
+  {
+    "words": "Jesus Christ clearly links faith to forgiveness.",
+    "source": "TB"
+  },
+  {
+    "words": "Let your challanges produce a sense of dependence on God.",
+    "source": "TB"
+  },
+  {
     "words": "Our heart must be purified by faith and entire for God.",
     "source": "TB"
   },
   {
-    "words": "There is a time to send our petition to God<br>and a time to sit back in faith and listen to what God has to say.",
+    "words": "There is a time to send our petition to God<br>and a time to sit back in faith and listen to what God has to say. But we are not good in sitting back in faith and listening to what God has to say.",
     "source": "TB"
   },
   {
@@ -26,7 +74,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "If you want your prayer to be answered, there must not be anything between you and God.",
+    "words": "If you want your prayer to be answered, there must not be anything between you and God. You must depend entirely on the merits and mediation of our Lord, Jesus Christ.",
     "source": "TB"
   },
   {
@@ -390,7 +438,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "If you are not armed for the battle, you are fighting the wrong battle. The One who armed you will teach you how to fight.",
+    "words": "If you are not armed for the battle, you are fighting the wrong battle and we will not be able to listen to the inner voice of the Holy Spirit. The One who armed you will teach you how to fight.",
     "source": "TB"
   },
   {
