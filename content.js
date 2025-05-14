@@ -6,11 +6,11 @@ let powerWords = [
   },
 */
   {
-    "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.<\span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, O God, strengthen my hands.<\span>",
+    "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.</span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, O God, strengthen my hands.</span>",
     "source": "Neh 6:8"
   },
   {
-    "words": "To be saved is to have revelation of the glory of Christ Jesus.<br>What is the revelation?<br>The revelation of God - <span>\'only believe\'<\span>.",
+    "words": "To be saved is to have revelation of the glory of Christ Jesus.<br>What is the revelation?<br>The revelation of God - <span>\'only believe\'</span>.",
     "source": "TB"
   },
   {
