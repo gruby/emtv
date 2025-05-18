@@ -6,7 +6,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.</span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, O God, strengthen my hands.</span>",
+    "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.</span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, <br>O God, strengthen my hands.</span>",
     "source": "Neh 6:8"
   },
   {
@@ -510,7 +510,7 @@ let powerWords = [
     "source": "Mark 12:33"
   },
   {
-    "words": "It is good for me that I have been afflicted, That I may learn Your statutes.",
+    "words": "It is <span>good for me that I have been afflicted,</span><br>That I may learn Your statutes.",
     "source": "Ps 119:71"
   },
   {
@@ -1042,7 +1042,7 @@ let powerWords = [
     "source": "Ps 50:16-20"
   },
   {
-    "words": "Gather My saints together to Me, Those who have made a covenant with Me by sacrifice.",
+    "words": "Gather My saints together to Me,<br>Those who have made a covenant with Me by sacrifice.",
     "source": "Ps 50:5"
   },
   {
