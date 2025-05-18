@@ -14,7 +14,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "We worship God is Spirit and truth when all our purpose and passion of our heart and when all our acts of worship dancing, singing, praying - are regulated and guided by the Word of God.",
+    "words": "We worship God in Spirit and truth when all our purpose and passion of our heart and when all our acts of worship dancing, singing, praying - are regulated and guided by the Word of God.",
     "source": "TB"
   },
   {
@@ -2854,8 +2854,8 @@ let powerWords = [
 let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
-  //let ran = Math.floor(Math.random() * powerWords.length );
-  let ran = 0;
+  let ran = Math.floor(Math.random() * powerWords.length );
+  //let ran = 0;
   let picked = powerWords[ran];
   powerWords.splice(ran,1)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
