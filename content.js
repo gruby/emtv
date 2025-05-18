@@ -6,7 +6,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.</span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, <br>O God, strengthen my hands.</span>",
+    "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.</span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, O God, strengthen my hands.</span>",
     "source": "Neh 6:8"
   },
   {
@@ -682,7 +682,7 @@ let powerWords = [
     "source": "Eccl 5:12"
   },
   {
-    "words": "Houses and riches are an inheritance from fathers, But a prudent wife is from the LORD.",
+    "words": "Houses and riches are an inheritance from fathers,<br>But a prudent wife is from the LORD.",
     "source": "Prov 19:14"
   },
   {
@@ -1046,7 +1046,7 @@ let powerWords = [
     "source": "Ps 50:5"
   },
   {
-    "words": "Shall the throne of iniquity, which devises evil by law, Have fellowship with You?",
+    "words": "Shall the throne of iniquity, which devises evil by law,<br>Have fellowship with You?",
     "source": "Ps 94:20"
   },
   {
@@ -1934,7 +1934,7 @@ let powerWords = [
     "source": "Mark 11:18"
   },
   {
-    "words": "He who is slow to wrath has great understanding, But he who is impulsive exalts folly.",
+    "words": "He who is slow to wrath has great understanding,<br>But he who is impulsive exalts folly.",
     "source": "Prov 14:29"
   },
   {
@@ -2058,7 +2058,7 @@ let powerWords = [
     "source": "2 Kin 19:20"
   },
   {
-    "words": "Whoever keeps the fig tree will eat its fruit; So he who waits on his master will be honored.",
+    "words": "Whoever keeps the fig tree will eat its fruit;<br>So he who waits on his master will be honored.",
     "source": "Prov 27:18"
   },
   {
@@ -2234,7 +2234,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "He who continually goes forth weeping, Bearing seed for sowing, Shall doubtless come again with rejoicing, Bringing his sheaves with him.",
+    "words": "He who continually goes forth weeping,<br>Bearing seed for sowing,<br>Shall doubtless come again with rejoicing,<br>Bringing his sheaves with him.",
     "source": "Ps 126:6"
   },
   {
@@ -2390,7 +2390,7 @@ let powerWords = [
     "source": "TB Prov 3:11-12"
   },
   {
-    "words": "My son, do not despise the chastening of the LORD, Nor detest His correction; For whom the LORD loves He corrects, Just as a father the son in whom he delights.",
+    "words": "My son, do not despise the chastening of the LORD,<br>Nor detest His correction;<br>For whom the LORD loves He corrects,<br>Just as a father the son in whom he delights.",
     "source": "Prov 3:11-12"
   },
   {
