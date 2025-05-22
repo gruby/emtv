@@ -6,6 +6,10 @@ let powerWords = [
   },
 */
   {
+    "words": "And it shall be, if you have no delight in her, then you shall set her free, but you certainly shall not sell her for money; you shall not treat her brutally, <span>because you have humbled her.</span>",
+    "source": "Deut 21:14"
+  },
+  {
     "words": "Then I sent to him, saying, \"No such things as you say are being done, <span>but you invent them in your own heart.</span>\" For they all were trying to make us afraid, saying, \"Their hands will be weakened in the work, and it will not be done.\" <span>Now therefore, O God, strengthen my hands.</span>",
     "source": "Neh 6:8"
   },
@@ -2854,8 +2858,8 @@ let powerWords = [
 let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
-  let ran = Math.floor(Math.random() * powerWords.length );
-  //let ran = 0;
+  //let ran = Math.floor(Math.random() * powerWords.length );
+  let ran = 0;
   let picked = powerWords[ran];
   powerWords.splice(ran,1)
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
