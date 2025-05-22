@@ -1,3 +1,4 @@
+//let be = 0;
 let powerWords = [
 /*
   {
@@ -2855,13 +2856,24 @@ let powerWords = [
   }
 ];
 
+function selectRandom(wordsSize) {
+  if (typeof be !== 'undefined') {
+    return be
+  } else {
+    return Math.floor(Math.random() * wordsSize );
+  }
+}
+
 let display = document.getElementById('displayDiv');
 
 display.onclick = () => {
   //let ran = Math.floor(Math.random() * powerWords.length );
-  let ran = 0;
+  //let ran = 0;
+  let ran = selectRandom(powerWords.length);
   let picked = powerWords[ran];
-  powerWords.splice(ran,1)
+  powerWords.splice(ran,1);
   let forDiplay = picked.words + '</br></br>' + '<b style="display: block;float: right">' + picked.source + '</b>';
   display.innerHTML = forDiplay;
+  //console.log(selectRandom(powerWords.length));
+  //console.log(powerWords.length)
 }
