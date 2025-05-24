@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "<span>For He received from God the Father honor and glory</span> when such a voice came to Him from the Excellent Glory: \"This is My beloved Son, in whom I am well pleased.\"",
+    "source": "2 Pet 1:17"
+  },
   {
     "words": "And it shall be, if you have no delight in her, then you shall set her free, but you certainly shall not sell her for money; you shall not treat her brutally, <span>because you have humbled her.</span>",
     "source": "Deut 21:14"
