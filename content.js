@@ -8,7 +8,7 @@ let powerWords = [
 */
   {
     "words": "While He spoke these things to them, behold, a ruler came and <span>worshiped Him, saying,</span> \"My daughter has just died, but come and lay Your hand on her and she will live.\"",
-    "source": "TB"
+    "source": "Matt 9:18"
   },
   {
     "words": "<span>For He received from God the Father honor and glory</span> when such a voice came to Him from the Excellent Glory: \"This is My beloved Son, in whom I am well pleased.\"",
