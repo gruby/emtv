@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Only that comes from Him will come to Him.",
+    "source": "TB"
+  },
+  {
+    "words": "Clean heart embrased Jesus. Pure heart is not distructed by the world.<br><br>Clean heart = boy. <br>Pure heart = Father.",
+    "source": "TB"
+  },
+  {
     "words": "I am not able to bear all these people alone, because the burden is too heavy for me. <span>If You treat me like this, please kill me here and now</span>—if I have found favor in Your sight—and do not let me see my wretchedness!",
     "source": "Num 11:14-15"
   },
