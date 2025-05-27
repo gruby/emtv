@@ -11,7 +11,7 @@ let powerWords = [
     "source": "TB"
   },
   {
-    "words": "Clean heart embrased Jesus. Pure heart is not distructed by the world.<br><br>Clean heart = boy. <br>Pure heart = Father.",
+    "words": "Clean heart embrased Jesus. Pure heart is not distracted by the world.<br><br>Clean heart = boy. <br>Pure heart = Father.",
     "source": "TB"
   },
   {
