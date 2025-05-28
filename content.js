@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "Epaphras, who is one of you, a bondservant of Christ, greets you, <span >always laboring fervently for you in prayers,</span> that you may stand perfect and complete in all the will of God.",
+    "source": "Col 4:12"
+  },
   {
     "words": "Only that comes from Him will come to Him.",
     "source": "TB"
