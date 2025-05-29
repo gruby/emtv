@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Therefore when Jesus perceived that they were about to come and <span> take Him by force to make Him king, He departed again to the mountain by Himself alone.</span>",
+    "words": "Therefore when Jesus perceived that they were about to come and <span>take Him by force to make Him king, He departed again to the mountain by Himself alone.</span>",
     "source": "John 6:15"
   },
   {
