@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Therefore when Jesus perceived that they were about to come and <span> take Him by force to make Him king, He departed again to the mountain by Himself alone.</span>",
+    "source": "John 6:15"
+  },
+  {
     "words": "Epaphras, who is one of you, a bondservant of Christ, greets you, <span >always laboring fervently for you in prayers,</span> that you may stand perfect and complete in all the will of God.",
     "source": "Col 4:12"
   },
