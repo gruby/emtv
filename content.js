@@ -1,14 +1,14 @@
-let be = 0;
+//let be = 0;
 let powerWords = [
 /*
   {
-    "words": "Let all those who seek You rejoice and be glad in You;<br>And let those who love Your salvation say continually,<br>\"Let God be magnified!\"",
-    "source": "Ps 70:4"
+    "words": "",
+    "source": "TB"
   },
 */
   {
-    "words": "",
-    "source": "TB"
+    "words": "Let all those who seek You rejoice and be glad in You;<br>And let those who love Your salvation say continually,<br>\"Let God be magnified!\"",
+    "source": "Ps 70:4"
   },
   {
     "words": "Therefore when Jesus perceived that they were about to come and <span>take Him by force to make Him king, He departed again to the mountain by Himself alone.</span>",
