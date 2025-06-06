@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "For you have brought these men here who are neither robbers of temples <span>nor blasphemers of your goddess.</span>",
+    "source": "Acts 19:37"
+  },
   {
     "words": "Let all those who seek You rejoice and be glad in You;<br>And let those who love Your salvation say continually,<br>\"Let God be magnified!\"",
     "source": "Ps 70:4"
