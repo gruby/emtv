@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But <span>no man can tame the tongue.</span> It is an unruly evil, full of deadly poison.",
+    "source": "James 3:8"
+  },
+  {
     "words": "For you have brought these men here who are neither robbers of temples <span>nor blasphemers of your goddess.</span>",
     "source": "Acts 19:37"
   },
