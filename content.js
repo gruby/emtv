@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Therefore <span>My Father loves Me, because</span> I lay down My life that I may take it again.",
+    "source": "John 10:17"
+  },
+  {
     "words": "But <span>no man can tame the tongue.</span> It is an unruly evil, full of deadly poison.",
     "source": "James 3:8"
   },
