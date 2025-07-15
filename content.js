@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "Don't rush into prayer.<br>Climb the ladder of meditation first.",
+    "source": "TB"
+  },
   {
     "words": "Therefore <span>My Father loves Me, because</span> I lay down My life that I may take it again.",
     "source": "John 10:17"
