@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": \"I have raised him up in righteousness,<br>And I will direct all his ways;<br>He shall build My city<br>And let My exiles go free,<br><span>Not for price nor reward,</span>\”<br>Says the Lord of hosts.",
+    "words": "I have raised him up in righteousness,<br>And I will direct all his ways;<br>He shall build My city<br>And let My exiles go free,<br><span>Not for price nor reward,</span>\”<br>Says the Lord of hosts.",
     "source": "Is 45:13"
   },
   {
