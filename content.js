@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "But in every nation whoever fears Him and works righteousness is accepted by Him.",
+    "source": "Acts 10:35"
+  },
+  {
     "words": "I have raised him up in righteousness,<br>And I will direct all his ways;<br>He shall build My city<br>And let My exiles go free,<br><span>Not for price nor reward,</span>\”<br>Says the Lord of hosts.",
     "source": "Is 45:13"
   },
