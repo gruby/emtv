@@ -7,6 +7,22 @@ let powerWords = [
   },
 */
   {
+    "words": "Temptation is the presentation of evil. It is an opportunity to choose tepmorary pleasure rather then the permanent gain.",
+    "source": "TB"
+  },
+  {
+    "words": "For the Christian everything is a reward or a test.",
+    "source": "TB"
+  },
+  {
+    "words": "You cannot see enough until the eyes of faith are opened.",
+    "source": "TB"
+  },
+  {
+    "words": "I can never be content until I am spiritual.<br>You can not be like Jesus without Jesus.",
+    "source": "TB"
+  },
+  {
     "words": "But in every nation whoever fears Him and works righteousness is accepted by Him.",
     "source": "Acts 10:35"
   },
