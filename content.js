@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "The only way you can honor Jesus is to have faith in Him.",
+    "source": "TB"
+  },
+  {
     "words": "God is calling you to change.",
     "source": "TB"
   },
