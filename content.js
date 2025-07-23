@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "God is calling you to change.",
+    "source": "TB"
+  },
+  {
     "words": "Jesus always wants to see our genuine willingness to receive.",
     "source": "TB"
   },
