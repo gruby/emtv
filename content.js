@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Jesus always wants to see our genuine willingness to receive.",
+    "source": "TB"
+  },
+  {
     "words": "Temptation is the presentation of evil. It is an opportunity to choose tepmorary pleasure rather then the permanent gain.",
     "source": "TB"
   },
