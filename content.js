@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "The world cannot hate you, but <span>it hates Me because I testify</span> of it that its works are evil.",
+    "source": "John 7:7"
+  },
   {
     "words": "The only way you can honor Jesus is to have faith in Him.",
     "source": "TB"
