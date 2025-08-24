@@ -7,6 +7,18 @@ let powerWords = [
   },
 */
   {
+    "words": "Holy Spirit is an enemy of fear.",
+    "source": "TB"
+  },
+  {
+    "words": "I don\'t know what a Christian without power can do.",
+    "source": "TB"
+  },
+  {
+    "words": "It is difficult for a pastor to repent.",
+    "source": "TB"
+  },
+  {
     "words": "The world cannot hate you, but <span>it hates Me because I testify</span> of it that its works are evil.",
     "source": "John 7:7"
   },
