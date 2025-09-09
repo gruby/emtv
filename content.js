@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "I forgive myself because only God has power to resist all sin.",
+    "source": "RB"
+  },
+  {
     "words": "But Jesus said to them, \“A prophet is not without honor <span>except</span> in his own country, among his own relatives, and in his own house.\”",
     "source": "Mark 6:4"
   },
