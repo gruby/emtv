@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Fasting is the time of joy.",
+    "source": "TB"
+  },
+  {
     "words": "I forgive myself because only God has power to resist all sin.",
     "source": "RB"
   },
