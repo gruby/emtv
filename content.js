@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "When Jesus was baptized, I was baptized<br>When Jesus died, I died<br>Sin\'s power over me - be broken\!",
+    "words": "When Jesus was baptized, I was baptized<br>When Jesus died, I died<br><span>Sin\'s power over me - be broken\!</span>",
     "source": "TB"
   },
   {
