@@ -6,6 +6,14 @@ let powerWords = [
     "source": "TB"
   },
 */
+   {
+    "words": "When praying, you are focused on a target. Being focused on a target does not mean you will get to that target. Until you have faith in the target or in what you are doing. Pay any price to protect your focus.",
+    "source": "TB"
+  },
+  {
+    "words": "How to pray.<br>Our heart should work as a <span>filter</span>. We meditate on the situation and determine God's will about it. All other things \(lies, deceptions, anything of darkness\) we remove from our heart. Then God's Spirit joins our spirit to pray to God. HEART REFINES THE WORD",
+    "source": "TB RB"
+  },
   {
     "words": "When Jesus was baptized, I was baptized<br>When Jesus died, I died<br><span>Sin\'s power over me - be broken\!</span>",
     "source": "TB"
