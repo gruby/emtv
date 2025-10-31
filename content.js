@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "Likeness of soap to drug.",
+    "source": "TB"
+  },
    {
     "words": "When praying, you are focused on a target. Being focused on a target does not mean you will get to that target. Until you have faith in the target or in what you are doing. Pay any price to protect your focus.",
     "source": "TB"
