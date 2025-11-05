@@ -7,11 +7,6 @@ let powerWords = [
   },
 */
   {
-    "words": "Turn away my eyes <span>from looking at worthless things,</span><br>
-And revive me in Your way.",
-    "source": "Psalm 119:37"
-  },
-  {
     "words": "Likeness of soap to drug.",
     "source": "TB"
   },
