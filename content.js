@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Cease from anger, and forsake wrath; <br>Do not fret—it only causes harm.",
+    "source": "Psalm 37:8"
+  },
+  {
     "words": "Heart has eyes.",
     "source": "TB"
   },
