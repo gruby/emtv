@@ -7,6 +7,14 @@ let powerWords = [
   },
 */
   {
+    "words": "Offending our nation will not help in selling the book.",
+    "source": "Numberg"
+  },
+  {
+    "words": "\'Strong and independent\' is infuriated if their words are not implemented immediately.",
+    "source": "\?"
+  },
+  {
     "words": "Cease from anger, and forsake wrath; <br>Do not fret—it only causes harm.",
     "source": "Psalm 37:8"
   },
