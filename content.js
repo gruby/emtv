@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "For if there is first a willing mind, it is accepted according to what one has, <span>and not according to what he does not have.</span>",
+    "source": "2 Cor 8:12"
+  },
+  {
     "words": "Offending our nation will not help in selling the book.",
     "source": "Numberg"
   },
