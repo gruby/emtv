@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "It does not dishonor others, it is not self-seeking, it is not easily angered, <span>it keeps no record of wrongs.</span>",
+    "source": "1 Cor 13:5 NIV"
+  },
   {
     "words": "For if there is first a willing mind, it is accepted according to what one has, <span>and not according to what he does not have.</span>",
     "source": "2 Cor 8:12"
