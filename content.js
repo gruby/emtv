@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Trust in the Lord with all your heart,<br>And lean not on your own understanding;<br>In all your ways acknowledge Him,<br>And He shall direct your paths.<br><br>Do not be wise in your own eyes;<br>Fear the Lord and depart from evil.<br><span>It will be health to your flesh,<br>And strength to your bones.</span>",
+    "source": "Prov 3:5-8"
+  },
+  {
     "words": "It does not dishonor others, it is not self-seeking, it is not easily angered, <span>it keeps no record of wrongs.</span>",
     "source": "1 Cor 13:5 NIV"
   },
@@ -953,10 +957,6 @@ let powerWords = [
   {
     "words": "The eyes of the LORD are in every place,<br>Keeping watch on the evil and the good.",
     "source": "Prov 15:3"
-  },
-  {
-    "words": "Do not be wise in your own eyes;<br>Fear the LORD and depart from evil.",
-    "source": "Prov 3:7"
   },
   {
     "words": "For God will bring every work into judgment,<br>Including every secret thing, Whether good or evil.",
