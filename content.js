@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Do not remember the former things,<br>Nor consider the things of old.<br>Behold, I will do a new thing,<br>
+    "words": "<span>Do not remember the former things,</span><br>Nor consider the things of old.<br>Behold, I will do a new thing,<br>
 Now it shall spring forth\;<br>Shall you not know it\?<br>I will even make a road in the wilderness<br>And rivers in the desert.",
     "source": "Is 43:18-19"
   },
