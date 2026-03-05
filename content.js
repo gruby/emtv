@@ -7,6 +7,16 @@ let powerWords = [
   },
 */
   {
+    "words": "<span>Do not remember the former things,</span><br>
+Nor consider the things of old.<br>
+Behold, I will do a new thing,<br>
+Now it shall spring forth;<br>
+Shall you not know it?<br>
+I will even make a road in the wilderness
+And rivers in the desert.",
+    "source": "Is 43:17-18"
+  },
+  {
     "words": "Trust in the Lord with all your heart,<br>And lean not on your own understanding;<br>In all your ways acknowledge Him,<br>And He shall direct your paths.<br><br>Do not be wise in your own eyes;<br>Fear the Lord and depart from evil.<br><span>It will be health to your flesh,<br>And strength to your bones.</span>",
     "source": "Prov 3:5-8"
   },
