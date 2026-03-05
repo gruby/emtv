@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "<span>Do not remember the former things,</span><br>
+    "words": "Do not remember the former things,<br>
 Nor consider the things of old.<br>
 Behold, I will do a new thing,<br>
 Now it shall spring forth;<br>
