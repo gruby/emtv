@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "If I pray for you without a Spirit \(Word only\), I will be claiming your problems for myself.",
+    "source": "TB"
+  },
+  {
     "words": "Trust in the Lord with all your heart,<br>And lean not on your own understanding;<br>In all your ways acknowledge Him,<br>And He shall direct your paths.<br><br>Do not be wise in your own eyes;<br>Fear the Lord and depart from evil.<br><span>It will be health to your flesh,<br>And strength to your bones.</span>",
     "source": "Prov 3:5-8"
   },
