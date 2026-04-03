@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Being unwilling to forgive shows that you have not understood or benefitted from God\'s forgiveness.",
+    "source": "TB"
+  },
+  {
     "words": "If I pray for you without a Spirit \(Word only\), I will be claiming your problems for myself.",
     "source": "TB"
   },
