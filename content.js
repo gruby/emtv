@@ -7,6 +7,30 @@ let powerWords = [
   },
 */
   {
+    "words": "If you fail to receive forgiveness and forgive those who sin against you, you also will find yourself in a torture chamber. You will find yourself having to be everything, do everthing and accomplish everything totally on your own strength, ability and intelligence. And since that is never possible, you will be under high stress and emotional torture.",
+    "source": "TB"
+  },
+  {
+    "words": "When people say hurtful things about you, God wants us to respond by blessing them.",
+    "source": "TB"
+  },
+  {
+    "words": "An unforgiving attitude not only destroys your relationship but also poisons your soul.",
+    "source": "TB"
+  },
+  {
+    "words": "We should be more concerned about our offenders and their relationship with God, and less about nursing our own grudges and self-pity.",
+    "source": "TB"
+  },
+  {
+    "words": "When you love your enemy and pray for those who hate you, this releases you from the destructive emotions of anger.",
+    "source": "TB"
+  },
+  {
+    "words": "If you have been forgiven, that forgiveness will create in you a forgiving heart towards others.",
+    "source": "TB"
+  },
+  {
     "words": "Being unwilling to forgive shows that you have not understood or benefitted from God\'s forgiveness.",
     "source": "TB"
   },
