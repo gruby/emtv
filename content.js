@@ -1,4 +1,4 @@
-let be = 0;
+\\let be = 0;
 let powerWords = [
 /*
   {
