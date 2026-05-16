@@ -1,4 +1,4 @@
-//let be = 0;
+let be = 0;
 let powerWords = [
 /*
   {
@@ -6,6 +6,10 @@ let powerWords = [
     "source": "TB"
   },
 */
+  {
+    "words": "Your <span>Cross</span> means your <span>responsibility</span>.",
+    "source": "BR Christhopher"
+  },
   {
     "words": "If you fail to receive forgiveness and forgive those who sin against you, you also will find yourself in a torture chamber. You will find yourself having to be everything, do everthing and accomplish everything totally on your own strength, ability and intelligence. And since that is never possible, you will be under high stress and emotional torture. I mean, you will work hard and struggle greatly but never achieve any progress.",
     "source": "TB"
