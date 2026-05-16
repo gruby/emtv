@@ -1,4 +1,4 @@
-let be = 0;
+//let be = 0;
 let powerWords = [
 /*
   {
@@ -7,7 +7,7 @@ let powerWords = [
   },
 */
   {
-    "words": "Your <span>Cross</span> means your <span>responsibility</span>.",
+    "words": "Your <span>Cross</span> means your <span>responsibility</span>, your persoanl assignment that cannot be done by any other person but you.",
     "source": "BR Christhopher"
   },
   {
