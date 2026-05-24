@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "If you know Jesus He will respond to you.",
+    "source": "TB"
+  },
+  {
     "words": "Your <span>Cross</span> means your <span>responsibility</span>, your persoanl assignment that cannot be done by any other person but you.",
     "source": "BR Christhopher"
   },
