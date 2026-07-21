@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Faith cannot be increased without repentance.",
+    "source": "TB"
+  },
+  {
     "words": "If you know Jesus He will respond to you.",
     "source": "TB"
   },
