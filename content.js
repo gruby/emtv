@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "Living a life of forgiveness, no matter the level of offence, is the secret of normal blood pressure.",
+    "source": "Daniel"
+  },
+  {
     "words": "Faith cannot be increased without repentance.",
     "source": "TB"
   },
