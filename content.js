@@ -7,6 +7,10 @@ let powerWords = [
   },
 */
   {
+    "words": "If you don\'t value your prayer, God will not value your prayer.",
+    "source": "Mme Evelyn"
+  },
+  {
     "words": "Living a life of forgiveness, no matter the level of offence, is the secret of normal blood pressure.",
     "source": "Daniel"
   },
